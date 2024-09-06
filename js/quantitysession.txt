@@ -1,0 +1,27 @@
+"QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "Small",
+                        "Description": "",
+                        "Price": "30",
+                    }, {
+                        "QuantitySectionId": "2",
+                        "Name": "Large",
+                        "Description": "",
+                        "Price": "50",
+                    }
+					]
+					
+					"QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "Small",
+                        "Description": "",
+                        "Price": "90",
+                    }, {
+                        "QuantitySectionId": "2",
+                        "Name": "Large",
+                        "Description": "",
+                        "Price": "150",
+                    }
+                ]
