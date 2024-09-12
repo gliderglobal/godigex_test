@@ -23,6 +23,49 @@
     <script type="text/javascript" src="js/angular.min.js"></script>
     <script type="text/javascript" src="js/res.js"></script>
     <style>
+        .loading-dots {
+            display: inline-block;
+            position: relative;
+            width: 80px;
+            height: 16px;
+        }
+
+        .loading-dots span {
+            position: absolute;
+            width: 8px;
+            height: 8px;
+            background-color: #333;
+            border-radius: 50%;
+            animation: loadingDots 1.4s infinite ease-in-out both;
+        }
+
+        .loading-dots span:nth-child(1) {
+            left: 8px;
+            animation-delay: -0.32s;
+        }
+
+        .loading-dots span:nth-child(2) {
+            left: 32px;
+            animation-delay: -0.16s;
+        }
+
+        .loading-dots span:nth-child(3) {
+            left: 56px;
+        }
+
+        @keyframes loadingDots {
+
+            0%,
+            80%,
+            100% {
+                transform: scale(0);
+            }
+
+            40% {
+                transform: scale(1);
+            }
+        }
+
         .float {
             position: fixed;
             width: 80px;
@@ -203,25 +246,25 @@
                 <div class="osahan-slider-item" ng-repeat="recommendedItem in recommendedItems">
                     <div class="list-card bg-white h-100 rounded overflow-hidden position-relative shadow-sm">
                         <div class="list-card-image">
-                            <a>
-                                <img alt="#" ng-src="{{recommendedItem.ImageUrl}}" class="img-fluid item-img w-100">
+                            <a href="#">
+                                <img ng-src="{{recommendedItem.ImageUrl}}" class="img-fluid item-img w-100"
+                                    loading="lazy" alt="{{recommendedItem.ItemName}}">
                             </a>
                         </div>
                         <div class="p-3 position-relative">
                             <div class="list-card-body">
-                                <h6 class="mb-1"><a href="#" class="text-black">{{recommendedItem.ItemName}}</a>
-                                </h6>
+                                <h6 class="mb-1"><a href="#" class="text-black">{{recommendedItem.ItemName}}</a></h6>
                                 <p class="text-gray mb-3">{{recommendedItem.Description1}}</p>
-                                <p class="text-gray m-0"> <span class="text-black-50">
-                                        {{recommendedItem.Description2}}</span></p>
+                                <p class="text-gray m-0"><span
+                                        class="text-black-50">{{recommendedItem.Description2}}</span></p>
                             </div>
                         </div>
                     </div>
                 </div>
-
-
             </div>
         </div>
+    </div>
+
     </div>
 
     <!-- horizontal scroll filter commented below -->
@@ -245,7 +288,7 @@
             <h6 class="p-3 m-0 bg-white text-danger w-100">{{restaurantInfo.SearchEmptyMessage}}</h6>
         </div>
         <div ng-repeat="Item in menudata|filter:isSectionfiltering">
-            <div class="w-100" id="{{'SectionName'+Item.SectionOrder+'d'}}" style="padding-top: 5px;"></div>
+            <div id="{{'SectionName'+Item.SectionOrder+'d'}}" style="padding-top: 5px;"></div>
             <div></div>
             <!-- <div class="pt-2 pb-3 title d-flex align-items-center sticky-top" > -->
             <h6 class="p-3 m-0 bg-light w-100 sticky-top ng-binding top-heightset" name="fixedMenuHeader">
@@ -325,7 +368,13 @@
                 </div>
             </div>
         </div>
-
+        <div ng-if="isLoadingMore" class="text-center mt-3">
+            <div class="loading-dots">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
     </div>
 
     <!-- Menu with out Image-->
@@ -648,7 +697,8 @@
                                                 class="float-right text-dark"
                                                 ng-bind="CurrencyConverter(BillSummary.DeliveryFee)"></span>
                                         </p>
-                                        <p class="mb-1 text-danger" ng-show="!IsTableOrder">*Extra parcel charge is applicable
+                                        <p class="mb-1 text-danger" ng-show="!IsTableOrder">*Extra parcel charge is
+                                            applicable
                                         </p>
                                         <hr>
                                         <h6 class="font-weight-bold mb-0">TO PAY <span class="float-right"
@@ -716,6 +766,9 @@
     <!-- <script type="text/javascript" src="vendor/sidebar/hc-offcanvas-nav.js"></script> -->
     <!-- Custom scripts for all pages-->
     <script type="text/javascript" src="js/osahan.js"></script>
+
+
+
 </body>
 <script>
     // var saveBtn = document.getElementById("save-btn");
