@@ -115,17 +115,17 @@
     <div class="content-wrapper1" id="content-wrapper1" style="display:none;">
         <div ng-if="menudata.length > 0">
             <div>
-                <div class="row" ng-repeat="Item in menudata">
+                <div class="row" ng-repeat="section in sectionHeaders">
                     <div class="col-10">
-                        <a href="{{'#SectionName'+Item.SectionOrder+'d'}}" id="{{'SectionName1'+Item.SectionOrder}}"
-                            ng-click="showQuantityMenu(Item,Item.SectionName)" data-toggle="tab" role="tab">
-                            <span id="{{'span'+Item.SectionOrder}}" class="word-truncate click_me">
-                                <p> {{Item.SectionName}}</p>
-                            </span>
-                        </a>
+                        <a href="{{'#SectionName'+section.SectionOrder+'d'}}" id="{{'SectionName1'+section.SectionOrder}}"
+                        ng-click="showQuantityMenu(section, section.SectionName)" data-toggle="tab" role="tab">
+                        <span id="{{'span'+section.SectionOrder}}" class="word-truncate click_me">
+                            <p>{{section.SectionName}}</p>
+                        </span>
+                    </a>
                     </div>
                     <div class="col-2">
-                        <span class="badge badge-pill badge-pill pr-1">{{Item.MenuItem.length}}</span>
+                        <span class="badge badge-pill badge-pill pr-1">{{section.MenuItemCount}}</span>
                     </div>
                 </div>
 

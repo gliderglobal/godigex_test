@@ -1,15 +1,12 @@
-
-
-
-
 var mainApp = angular.module("mainApp", []);
 mainApp.controller('menuController', ['$scope', '$timeout', '$window', function ($scope, $timeout, $window) {
     $scope.restaurantInfo = RestaurantInfo;
     $scope.menudata = [];
+    $scope.sectionHeaders = [];
     $scope.sectionList = [];
     $scope.categoryList = [];
     $scope.QuanityCount = 1;
-    $scope.recommendedItems = []; 
+    $scope.recommendedItems = [];
     $scope.selectedItems = sessionStorage.getItem('cartValue') == null ? [] : JSON.parse(sessionStorage.getItem('cartValue'));
     $scope.FilterCategory = { "Category": "", "IsVisible": "", "IsClassActive": "" };
     $scope.BillSummary = { "ItemTotal": 0, "GrandTotal": 0, "RestaurantCharges": 0, "DeliveryFee": 0, "Discount": 0, "PolicyDescription": "", "DeliveryNotes": "", "IsShow": false, "HasMinDelivery": false };
@@ -21,38 +18,61 @@ mainApp.controller('menuController', ['$scope', '$timeout', '$window', function 
     $scope.IsTableOrder = false;
 
     $scope.isLoadingMore = false;
-    $scope.itemsPerPage = 1; 
+    $scope.itemsPerPage = 1;  
     $scope.currentPage = 0;
-    $scope.allItemsLoaded = false; 
+    $scope.allItemsLoaded = false;
 
-    $scope.loadMoreItems = function() {
+
+    $scope.initSections = function () {
+        $scope.sectionHeaders = MenuList.map(function (section) {
+            return {
+                SectionName: section.SectionName,
+                SectionOrder: section.SectionOrder,
+                MenuItemCount: section.MenuItem.length // Just the count of items
+            };
+        });
+    };
+    
+    $scope.loadInitialItems = function () {
+        $scope.isLoadingMore = true;
+        var initialData = MenuList.slice(0, $scope.itemsPerPage);
+        $scope.menudata = initialData;
+        $scope.isLoadingMore = false;
+    };
+
+    // Function to load more items on scroll
+    $scope.loadMoreItems = function () {
         if ($scope.isLoadingMore || $scope.allItemsLoaded) return;
 
         $scope.isLoadingMore = true;
-        $timeout(function() {
+        $timeout(function () {
             $scope.currentPage++;
-            var newData = MenuList.slice(($scope.currentPage - 1) * $scope.itemsPerPage, $scope.currentPage * $scope.itemsPerPage);
+            var startIndex = $scope.currentPage * $scope.itemsPerPage;
+            var newData = MenuList.slice(startIndex, startIndex + $scope.itemsPerPage);
 
             if (newData.length) {
-                $scope.menudata = $scope.menudata.concat(newData);
+                $scope.menudata = $scope.menudata.concat(newData);  // Append new items
             } else {
-                $scope.allItemsLoaded = true; 
+                $scope.allItemsLoaded = true;  // No more items to load
             }
 
             $scope.isLoadingMore = false;
-        }, 1500); 
+        }, 1500);
     };
 
-    angular.element($window).bind("scroll", function() {
+    $scope.initSections();
+    angular.element($window).bind("scroll", function () {
         if ($window.innerHeight + $window.scrollY >= document.body.offsetHeight - 200) {
-            $scope.$apply($scope.loadMoreItems);
+            $scope.$apply($scope.loadMoreItems); 
         }
     });
 
   
-    $timeout(function() {
-        angular.element($window).triggerHandler('scroll');
-    }, 100); 
+    $timeout(function () {
+        $scope.loadInitialItems();
+        angular.element($window).triggerHandler('scroll');  
+    }, 100);
+
 
     
 
