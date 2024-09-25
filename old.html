@@ -1,0 +1,899 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="A-1 Mat House - Online Grocery Supermart">
+    <meta name="author" content="A-1 Mat House - Online Grocery Supermart">
+    <link rel="icon" type="image/png" href="img/Logoqk.png">
+    <title>A-1 Mat House - Online Grocery Supermart</title>
+    <!-- Slick Slider -->
+    <link rel="stylesheet" type="text/css" href="vendor/slick/slick.min.css" />
+    <link rel="stylesheet" type="text/css" href="vendor/slick/slick-theme.min.css" />
+    <!-- Feather Icon-->
+    <link href="vendor/icons/feather.css" rel="stylesheet" type="text/css">
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="css/style.css" rel="stylesheet">
+    <!-- Sidebar CSS -->
+    <link href="vendor/sidebar/demo.css" rel="stylesheet">
+    <script type="text/javascript" src="js/menu.js"></script>
+    <script type="text/javascript" src="js/angular.min.js"></script>
+    <script type="text/javascript" src="js/res.js"></script>
+    <style>
+        .loading-dots {
+            display: inline-block;
+            position: relative;
+            width: 80px;
+            height: 16px;
+        }
+
+        .loading-dots span {
+            position: absolute;
+            width: 8px;
+            height: 8px;
+            background-color: #333;
+            border-radius: 50%;
+            animation: loadingDots 1.4s infinite ease-in-out both;
+        }
+
+        .loading-dots span:nth-child(1) {
+            left: 8px;
+            animation-delay: -0.32s;
+        }
+
+        .loading-dots span:nth-child(2) {
+            left: 32px;
+            animation-delay: -0.16s;
+        }
+
+        .loading-dots span:nth-child(3) {
+            left: 56px;
+        }
+
+        @keyframes loadingDots {
+
+            0%,
+            80%,
+            100% {
+                transform: scale(0);
+            }
+
+            40% {
+                transform: scale(1);
+            }
+        }
+
+        .float {
+            position: fixed;
+            width: 80px;
+            height: 35px;
+            bottom: 70px;
+            right: 40px;
+            background-color: black;
+            color: #FFF;
+            border-radius: 30px;
+            text-align: center;
+            box-shadow: 2px 2px 3px #999;
+            z-index: 1021;
+        }
+
+        .popover-body {
+            max-height: 250px;
+            overflow-x: auto;
+        }
+
+        .popover {
+            width: 50%;
+        }
+
+        .word-truncate {
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            width: 100%;
+        }
+
+        html {
+            scroll-behavior: auto;
+        }
+
+        .top-heightset {
+            top: 49px;
+        }
+    </style>
+</head>
+
+<body class="fixed-bottom-bar" ng-app="mainApp" ng-controller="menuController" ng-cloak>
+    <a id="menucategories" data-toggle="popover"
+        class="text-center text-dark small font-weight-bold text-decoration-none float" >   
+        <!-- ng-show="showMenuButton" -->
+        <p class="h6 text-center mt-2" style="color:white;"><i class="text-center feather-list"></i>Menu</p>
+
+    </a>
+    <div class="content-wrapper1" id="content-wrapper1" style="display:none;">
+        <div ng-if="menudata.length > 0">
+            <div >
+                <div class="row" ng-repeat="section in sectionHeaders">
+                    <div class="col-10">
+                          <a href="{{'#SectionName'+section.SectionOrder+'d'}}" id="{{'SectionName1'+section.SectionOrder}}"
+                       ng-click="loadSection(section, section.SectionName)" data-toggle="tab" role="tab">
+                       <span id="{{'span'+section.SectionOrder}}" class="word-truncate click_me">
+                           <p>{{section.SectionName}}</p>
+                       </span>
+                    </a>
+                    </div>
+                    <div class="col-2">
+                        <span class="badge badge-pill badge-pill pr-1">{{section.MenuItemCount}}</span>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <header class="section-header">
+        <section class="header-main shadow-sm bg-white">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-1">
+                        <a href="#" class="brand-wrap mb-0">
+                            <img alt="#" class="img-fluid" src="img/logo_web.png">
+                        </a>
+                        <!-- brand-wrap.// -->
+                    </div>
+                    <div class="col-3 d-flex align-items-center m-none">
+
+                    </div>
+                    <!-- col.// -->
+                    <div class="col-8">
+                        <div class="d-flex align-items-center justify-content-end pr-5">
+                            <a href="#" class="widget-header mr-4 te-xt-dark" data-target="#cartBox"
+                                data-toggle="modal">
+                                <div class="icon d-flex align-items-center ">
+                                    <i class="feather-shopping-cart h6 mr-2 mb-0"></i>
+                                    <span
+                                        style="top:-4px;margin-left: -18px;z-index:9999;width:14px;height:40px; color: #f08804;font-size: small;"
+                                        ng-show="selectedItems.length>0">
+                                        {{selectedItems.length}}
+                                    </span>
+                                    <span>Cart</span>
+
+                                </div>
+
+                            </a>
+
+
+
+                        </div>
+                        <!-- widgets-wrap.// -->
+                    </div>
+                    <!-- col.// -->
+                </div>
+                <!-- row.// -->
+            </div>
+            <!-- container.// -->
+        </section>
+        <!-- header-main .// -->
+    </header>
+    <div class="d-none">
+        <div id="homeSection" class="bg-primary p-3 d-flex align-items-center">
+            <h4 class="font-weight-bold m-0 text-white">{{restaurantInfo.ApplicationHeader}}</h4>
+        </div>
+    </div>
+    <div class="offer-section py-4">
+        <div class="container position-relative">
+            <!-- <img alt="#" src="img/Logoqk.png" class="restaurant-pic"> -->
+            <div class="pt-3 text-white">
+                <h2 class="font-weight-bold">{{restaurantInfo.Name}}</h2>
+                <p class="text-white m-0">{{restaurantInfo.Address}}</p>
+                <div class="rating-wrap d-flex align-items-center mt-2">
+                    <!-- <ul class="rating-stars list-unstyled">
+                        <li>
+                            <i class="feather-star text-warning"></i>
+                            <i class="feather-star text-warning"></i>
+                            <i class="feather-star text-warning"></i>
+                            <i class="feather-star text-warning"></i>
+                            <i class="feather-star"></i>
+                        </li>
+                    </ul> -->
+                    <!-- <p class="label-rating text-white ml-2 small"> (245 Reviews)</p> -->
+                </div>
+            </div>
+            <div class="pb-5">
+                <div class="row">
+                    <!-- <div class="col-6 col-md-2">
+                        <p class="text-white-50 font-weight-bold m-0 small">Delivery</p>
+                        <p class="text-white m-0">Free</p>
+                    </div> -->
+                    <div class="col-6 col-md-2">
+                        <p class="text-white-50 font-weight-bold m-0 small">Open time</p>
+                        <p class="text-white m-0">{{restaurantInfo.OpenTime}}</p>
+                    </div>
+                    <div class="col-6 col-md-2">
+                        <p class="text-white-50 font-weight-bold m-0 small">Close time</p>
+                        <p class="text-white m-0">{{restaurantInfo.CloseTime}}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- <div class="container p-0 pt-2 sticky-top" style="z-index: 1022" id="searchboxSection">
+
+        <div class="p-1 bg-primary bg-primary mt-n3 rounded position-relative">
+            <div class="input-group mt-1 mb-1 rounded shadow-sm overflow-hidden">
+                <div class="input-group-prepend"> -->
+                    <!-- <button class="border-0 btn btn-outline-secondary text-dark bg-white btn-block"><i
+                            class="feather-list"></i></button> -->
+                    <!-- <select class="border-0 btn btn-outline-secondary text-dark bg-white btn-block"
+                        style="background-color:gainsboro !important" ng-model="filterType" ng-change="FilterType()">
+                        <option value="0">Veg/Non-Veg</option>
+                        <option value="1">Veg</option>
+                        <option value="2">Non-Veg</option>
+                    </select>
+                </div>
+                <input id="searchbox" type="search" class="shadow-none border-0 form-control"
+                    ng-change="SearchMenuItem()" placeholder="Search for dishes" ng-model="searchText">
+            </div>
+        </div>
+    </div> -->
+    <!-- <div class="container" ng-show="searchText.length==0">
+        <div class="" ng-if="recommendedItems.length > 0">
+            <p class="font-weight-bold pt-4 m-0">FEATURED ITEMS</p> -->
+            <!-- slider -->
+            <!-- <div class="trending-slider rounded">
+                <div class="osahan-slider-item" ng-repeat="recommendedItem in recommendedItems">
+                    <div class="list-card bg-white h-100 rounded overflow-hidden position-relative shadow-sm">
+                        <div class="list-card-image">
+                            <a href="#">
+                                <img ng-src="{{recommendedItem.ImageUrl}}" class="img-fluid item-img w-100"
+                                    loading="lazy" alt="{{recommendedItem.ItemName}}">
+                            </a>
+                        </div>
+                        <div class="p-3 position-relative">
+                            <div class="list-card-body">
+                                <h6 class="mb-1"><a href="#" class="text-black">{{recommendedItem.ItemName}}</a></h6>
+                                <p class="text-gray mb-3">{{recommendedItem.Description1}}</p>
+                                <p class="text-gray m-0"><span
+                                        class="text-black-50">{{recommendedItem.Description2}}</span></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> -->
+    </div>
+
+    </div>
+
+    <!-- horizontal scroll filter commented below -->
+    <!-- <div class="container" ng-if="categoryList.length > 0">
+        <div class="cat-slider">
+            <div class="cat-item px-1 py-3" ng-repeat="category in categoryList">
+                <a class="bg-white rounded d-block p-2 text-center shadow-sm"
+                    ng-click="FilterMenu(category.CategoryName);" href="#" data-toggle="tab" role="tab">
+
+                    <p style="white-space: nowrap;text-overflow: ellipsis;overflow: hidden;" class="m-0 small">
+                        {{category.CategoryName}}</p>
+                </a>
+            </div>
+
+        </div>
+    </div> -->
+
+    <!-- Menu with Image-->
+    <div ng-if="restaurantInfo.TemplateWithImage" class="container position-relative">
+        <div ng-if="menudata.length==0">
+            <h6 class="p-3 m-0 bg-white text-danger w-100">{{restaurantInfo.SearchEmptyMessage}}</h6>
+        </div>
+        <div ng-repeat="Item in menudata|filter:isSectionfiltering">
+            <div id="{{'SectionName'+Item.SectionOrder+'d'}}" style="padding-top: 5px;"></div>
+            <div></div>
+            <!-- <div class="pt-2 pb-3 title d-flex align-items-center sticky-top" > -->
+            <h6 class="p-3 m-0 bg-light w-100 sticky-top ng-binding top-heightset" name="fixedMenuHeader">
+                {{Item.SectionName}} <small class="text-black-50">{{Item.MenuItem.length}} ITEMS</small></h6>
+            <!-- </div> -->
+            <div class="most_sale">
+                <div class="row mb-3 mt-5">
+                    <div class="col-md-4 mb-3" ng-repeat="menuItem in Item.MenuItem">
+                        <div
+                            class="d-flex align-items-center list-card bg-white h-100 rounded overflow-hidden position-relative shadow-sm">
+                            <div class="list-card-image">
+                                <!-- <div class="star position-absolute"><span class="badge badge-success"><i class="feather-star"></i> 3.1 (300+)</span>
+                            </div> -->
+                                <div ng-if="menuItem.Type.length>0"
+                                    class="bg-white favourite-heart position-absolute font-weight-bold"
+                                    ng-class="menuItem.Type=='Veg' ? 'text-success veg' : menuItem.Type=='Egg'?'text-warning veg':'text-danger non_veg'">
+                                    .
+                                </div>
+                                <!-- <div class="member-plan position-absolute"><span class="badge badge-dark">Promoted</span></div> -->
+
+                                <img alt="#" ng-src="{{menuItem.ImageUrl}}" class="img-fluid item-img w-100">
+
+                            </div>
+                            <div class="p-3 position-relative">
+                                <div class="list-card-body">
+                                    <h6 class="mb-1"><span class="text-black text-wrap">{{menuItem.Item}}
+                                        </span>
+                                    </h6>
+                                    <p class="text-gray text-wrap mb-3">{{menuItem.Heighlightdescription}}</p>
+
+                                    <p class="text-gray mb-3 time">
+                                        <span class="bg-light text-dark bg-white rounded-sm pl-2 pb-1 pt-1 pr-2">
+                                            <!-- <i class="feather-clock" ></i>   <span>15–25 min</span> -->
+                                            <strong class="h6 font-weight-bolder">
+                                                {{CurrencyConverter(menuItem.Price)}}</strong>
+                                        </span>
+                                    </p>
+                                </div>
+                                <div class="list-card-badge">
+
+                                    <span class="badge badge-danger">{{menuItem.OfferHihglight}}</span>
+                                    <small>{{menuItem.OfferDescription}}</small>
+
+                                </div>
+                                <div>
+                                    <span class="float-left"
+                                        ng-if="menuItem.QuantitySection.length>0&&SelectedQuantity(menuItem)==0">
+                                        <a href="#" class="btn btn-outline-secondary btn-sm" data-toggle="modal"
+                                            ng-click="showQuantityMenu(menuItem,Item.SectionName)"
+                                            data-target="#extras">ADD</a>
+                                    </span>
+                                    <span class="float-left"
+                                        ng-if="menuItem.QuantitySection.length>0 && SelectedQuantity(menuItem)>0">
+                                        <a href="#" class="btn btn-outline-secondary btn-sm" data-toggle="modal"
+                                            ng-click="showQuantityMenu(menuItem,Item.SectionName)"
+                                            data-target="#extras">Modify</a>
+                                    </span>
+                                    <span class="float-left"
+                                        ng-if="(menuItem.QuantitySection==null||menuItem.QuantitySection.length==0)&&SelectedQuantity(menuItem)==0">
+                                        <a ng-click="ItemAdd(menuItem,0,1)" name="linkAddToCart"
+                                            class="btn btn-outline-secondary btn-sm">ADD</a>
+                                    </span>
+                                    <div ng-if="(menuItem.QuantitySection==null||menuItem.QuantitySection.length==0)&&SelectedQuantity(menuItem) > 0"
+                                        class="count-number float-left">
+                                        <button type="button" class="btn-sm left dec btn btn-outline-secondary"
+                                            ng-click="ItemAdd(menuItem,0,0)"> <i class="feather-minus"></i>
+                                        </button><input class="count-number-input" type="text" readonly=""
+                                            ng-value="SelectedQuantity(menuItem)"><button type="button"
+                                            class="btn-sm right inc btn btn-outline-secondary"
+                                            ng-click="ItemAdd(menuItem,0,1)"> <i class="feather-plus"></i>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div ng-if="isLoadingMore" class="text-center mt-3">
+            <div class="loading-dots">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </div>
+
+    <!-- Menu with out Image-->
+    <div ng-if="!restaurantInfo.TemplateWithImage" class="container position-relative">
+        <div ng-if="menudata.length==0">
+            <h6 class="p-3 m-0 bg-white text-danger w-100">{{restaurantInfo.SearchEmptyMessage}}</h6>
+        </div>
+        <div class="row">
+            <div class="col-md-8 pt-3">
+                <div class="shadow-sm rounded bg-white mb-3">
+                    <div class="row m-0" ng-repeat="Item in menudata|filter:isSectionfiltering">
+                        <div class="w-100" id="{{'SectionName'+Item.SectionOrder+'d'}}"></div>
+                        <h6 class="p-3 m-0 bg-light w-100 sticky-top top-heightset" name="fixedMenuHeader">
+                            {{Item.SectionName}} <small class="text-black-50">{{Item.MenuItem.length}} ITEMS</small>
+                        </h6>
+                        <div class="col-md-12 px-0 border-top">
+                            <div class="" id="menuList" ng-repeat="menuItem in Item.MenuItem">
+                                <div class="p-3 border-bottom gold-members">
+                                    <span class="float-right"
+                                        ng-if="menuItem.QuantitySection.length>0 && && SelectedQuantity(menuItem)==0"><a
+                                            href="#" class="btn btn-outline-secondary btn-sm" data-toggle="modal"
+                                            ng-click="showQuantityMenu(menuItem,Item.SectionName)"
+                                            data-target="#extras">ADD</a>
+                                    </span>
+                                    <span class="float-right"
+                                        ng-if="menuItem.QuantitySection.length>0 && && SelectedQuantity(menuItem)>0"><a
+                                            href="#" class="btn btn-outline-secondary btn-sm" data-toggle="modal"
+                                            ng-click="showQuantityMenu(menuItem,Item.SectionName)"
+                                            data-target="#extras">Modify</a>
+                                    </span>
+                                    <span class="float-right"
+                                        ng-if="(menuItem.QuantitySection==null||menuItem.QuantitySection.length==0)&&SelectedQuantity(menuItem)==0"><a
+                                            ng-click="ItemAdd(menuItem,0,1)"
+                                            class="btn btn-outline-secondary btn-sm">ADD</a>
+                                    </span>
+                                    <div ng-if="(menuItem.QuantitySection==null||menuItem.QuantitySection.length==0)&&SelectedQuantity(menuItem) > 0"
+                                        class="count-number float-right">
+                                        <button type="button" class="btn-sm left dec btn btn-outline-secondary"
+                                            ng-click="ItemAdd(menuItem,0,0)"> <i class="feather-minus"></i>
+                                        </button><input class="count-number-input" type="text" readonly=""
+                                            ng-value="SelectedQuantity(menuItem)"><button type="button"
+                                            class="btn-sm right inc btn btn-outline-secondary"
+                                            ng-click="ItemAdd(menuItem,0,1)"> <i class="feather-plus"></i>
+                                        </button>
+                                    </div>
+                                    <div class="media">
+                                        <div class="mr-3 font-weight-bold "
+                                            ng-class="menuItem.Type=='Veg' ? 'text-success veg' : menuItem.Type=='Egg'?'text-warning veg':'text-danger non_veg'">
+                                            .</div>
+                                        <div class="media-body">
+                                            <h6 class="mb-1">{{menuItem.Item}} <span
+                                                    ng-class="menuItem.Type=='Veg' ? 'badge badge-success' : menuItem.Type=='Egg'?'badge badge-warning':'badge badge-danger'">{{menuItem.Heighlightdescription}}</span>
+                                            </h6>
+                                            <p class="text-muted mb-0" ng-bind="CurrencyConverter(menuItem.Price)"></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    </div>
+    <div class="overlay-container" role="alert" ng-show="IsShowAlert">
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span
+                aria-hidden="true">&times;</span></button>
+        <strong>{{alertTitle}}</strong> {{alertMessage}}
+    </div>
+    <!-- Footer -->
+    <div class="osahan-menu-fotter fixed-bottom bg-primary px-3 py-2 text-center d-none" ng-show="!IsShowAlert">
+        <div class="row">
+            <div class="col">
+                <a href="#" class="text-light  font-weight-bold text-decoration-none">
+
+                    {{restaurantInfo.Address}} Menu
+                </a>
+            </div>
+
+        </div>
+    </div>
+    <div class="osahan-menu-fotter fixed-bottom bg-white px-3 py-2 text-center d-none" ng-show="!IsShowAlert">
+        <div class="row">
+            <!-- <div class="col">
+                <a id="linkSearchSection" class="text-dark small font-weight-bold text-decoration-none">
+                    <p class="h4 m-0"><i class="feather-search text-dark"></i></p>
+                    Search
+                </a>
+            </div> -->
+            <div class="col">
+                <a id="linkHomeSection" class="text-dark small font-weight-bold text-decoration-none">
+                    <p class="h4 m-0"><i class="feather-home"></i></p>
+                    Home
+                </a>
+            </div>
+            <div class="col bg-white rounded-circle mt-n4 px-3 py-2">
+                <div class="bg-danger-blue rounded-circle mt-n0 shadow">
+                    <a id="linkcartSection1" href="#" data-target="#cartBox" data-toggle="modal"
+                        class="text-white small font-weight-bold text-decoration-none rounds">
+                        <i class="feather-shopping-cart"></i>
+                        <span id="cart_count" ng-show="selectedItems.length>0">
+                            {{selectedItems.length}}
+                        </span>
+                    </a>
+                </div>
+            </div>
+            <div class="col">
+                <a href="tel:{{restaurantInfo.Phone}}" class="text-dark small font-weight-bold text-decoration-none">
+                    <p class="h4 m-0"><i class="feather-phone"></i></p>
+                    Phone
+                </a>
+            </div>
+            <!-- <div class="col">
+                <a href="profile.html" class="text-dark small font-weight-bold text-decoration-none">
+                    <p class="h4 m-0"><i class="feather-user"></i></p>
+                    Profile
+                </a>
+            </div> -->
+        </div>
+    </div>
+    <!-- footer -->
+    <footer class="section-footer border-top bg-dark">
+        <div class="container">
+            <section class="footer-top padding-y py-5">
+                <div class="row pt-3">
+                    <aside class="col-md-4 footer-about">
+                        <article class="d-flex pb-3">
+                            <div><img alt="#" src="img/logo_web.png" class="logo-footer mr-3"></div>
+                            <div>
+                                <h6 class="title text-white">About Us</h6>
+                                <p class="text-muted">A-1 Mat House - Opposite Jubilee Garden, Siyapura,
+                                    Raopura, Vadodara, Gujarat 390001
+                                </p>
+                                <div class="d-flex align-items-center">
+                                    <!-- <a class="btn btn-icon btn-outline-light mr-1 btn-sm" title="Facebook"
+                                        target="_blank" href="#"><i class="feather-facebook"></i></a>
+                                    <a class="btn btn-icon btn-outline-light mr-1 btn-sm" title="Instagram"
+                                        target="_blank" href="#"><i class="feather-instagram"></i></a>
+                                    <a class="btn btn-icon btn-outline-light mr-1 btn-sm" title="Youtube"
+                                        target="_blank" href="#"><i class="feather-youtube"></i></a>
+                                    <a class="btn btn-icon btn-outline-light mr-1 btn-sm" title="Twitter"
+                                        target="_blank" href="#"><i class="feather-twitter"></i></a> -->
+                                </div>
+                            </div>
+                        </article>
+                    </aside>
+
+
+
+
+                </div>
+                <!-- row.// -->
+            </section>
+            <!-- footer-top.// -->
+
+        </div>
+        <!-- //container -->
+        <section class="footer-copyright border-top py-3 bg-light">
+            <div class="container d-flex align-items-center">
+                <p class="mb-0"> © 2023 Company All rights reserved </p>
+                <p class="text-muted mb-0 ml-auto d-flex align-items-center">
+                    <!-- <a href="#" class="d-block"><img alt="#" src="img/appstore.png" height="40"></a>
+                    <a href="#" class="d-block ml-3"><img alt="#" src="img/playmarket.png" height="40"></a> -->
+                </p>
+            </div>
+        </section>
+    </footer>
+
+    <!-- extras modal -->
+    <div my-extras></div>
+    <div class="modal fade" id="extras" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+        aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">{{selectedItem.Item}}</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form>
+                        <!-- extras body -->
+                        <div class="recepie-body">
+                            <div class="custom-control custom-radio border-bottom py-2"
+                                ng-repeat="subQuantity in submenudata">
+                                <input type="radio" id="customRadio1f{{$index}}" class="custom-control-input"
+                                    ng-click="SetSelectedIndex($index)" checked>
+                                <label class="custom-control-label" for="customRadio1f{{$index}}">{{subQuantity.Name}}
+                                    <span class="text-muted"
+                                        ng-bind="CurrencyConverter(subQuantity.Price)"></span></label>
+                                <div class="float-right">
+                                    <span ng-if="SelectedQuantity(selectedItem,subQuantity.Name)>0"
+                                        class="count-number"><button type="button"
+                                            class="btn-sm left dec btn btn-outline-secondary"
+                                            ng-click="ItemAdd(selectedItem,1,0,subQuantity.Name)">
+                                            <i class="feather-minus"></i> </button><input class="count-number-input"
+                                            type="text" readonly=""
+                                            ng-value="SelectedQuantity(selectedItem,subQuantity.Name)"><button
+                                            type="button" ng-model="QuanityCount"
+                                            class="btn-sm right inc btn btn-outline-secondary"
+                                            ng-click="ItemAdd(selectedItem,1,1,subQuantity.Name)"> <i
+                                                class="feather-plus"></i> </button>
+                                    </span>
+                                    <span ng-if="SelectedQuantity(selectedItem,subQuantity.Name)==0">
+                                        <a class="btn btn-outline-secondary btn-sm"
+                                            ng-click="ItemAdd(selectedItem,1,1,subQuantity.Name)">ADD</a>
+                                    </span>
+                                </div>
+                            </div>
+
+                            <!-- <h6 class="font-weight-bold mt-4">QUANTITY</h6>
+                            <div class="d-flex align-items-center">
+                                <p class="m-0">{{QuanityCount}} Item</p>
+                                <div class="ml-auto">
+                                    <span class="count-number"><button type="button"
+                                            class="btn-sm left dec btn btn-outline-secondary" ng-click="SetQuantity(0)">
+                                            <i class="feather-minus"></i> </button><input class="count-number-input"
+                                            type="text" readonly="" ng-model="QuanityCount"><button type="button"
+                                            class="btn-sm right inc btn btn-outline-secondary"
+                                            ng-click="SetQuantity(1)"> <i class="feather-plus"></i> </button></span>
+                                </div>
+                            </div> -->
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer p-0 border-0">
+                    <!-- <div class="col-6 m-0 p-0">
+                        <button type="button" class="btn border-top btn-lg btn-block"
+                            data-dismiss="modal">Close</button>
+                    </div> -->
+                    <div class="col-12 m-0 p-0">
+                        <button type="button" class="btn btn-primary btn-lg btn-block"
+                            data-dismiss="modal">Done</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal fade" id="cartBox" tabindex="-1" role="dialog" aria-labelledby="cartBoxModalLabel"
+        aria-hidden="true" data-toggle="popover">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">My Cart</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form>
+                        <!-- extras body -->
+                        <div class="recepie-body" style="overflow: scroll;">
+                            <div class="col-md-4 col-lg-12" id="cartSection">
+                                <div
+                                    class="osahan-cart-item rounded rounded shadow-sm overflow-hidden bg-white sticky_sidebar">
+                                    <div class="d-flex border-bottom osahan-cart-item-profile bg-white p-3">
+                                        <img alt="osahan" src="img/logo_web.png" class="mr-3 rounded-circle img-fluid">
+                                        <div class="d-flex flex-column">
+                                            <h6 class="mb-1 font-weight-bold">{{restaurantInfo.Name}}</h6>
+                                            <p class="mb-0 small text-muted"><i class="feather-map-pin"></i>
+                                                {{restaurantInfo.Address}}
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="bg-white border-bottom py-2 popover-body" id="divSelectedItems">
+                                        <div class="row gold-members d-flex align-items-center justify-content-between px-1 py-2 border-bottom"
+                                            ng-repeat="orderItem in selectedItems track by $index">
+                                            <div class="col-7 media">
+                                                <div class="mr-2"
+                                                    ng-class="orderItem.Type=='Veg' ? 'text-success veg' : orderItem.Type=='Egg'?  'text-warning veg':'text-danger non_veg'">
+                                                    &middot;</div>
+                                                <div class="media-body">
+                                                    <p class="m-0">{{orderItem.ItemName+orderItem.Portion}}</p>
+                                                </div>
+                                            </div>
+                                            <div class="col-5 d-flex">
+                                                <span class="count-number float-right">
+                                                    <button type="button"
+                                                        class="btn-sm left dec btn btn-outline-secondary"
+                                                        ng-click="ItemUpdate(orderItem,0)"> <i
+                                                            class="feather-minus"></i>
+                                                    </button><input class="count-number-input" type="text" readonly=""
+                                                        ng-model="orderItem.Quantity"><button type="button"
+                                                        class="btn-sm right inc btn btn-outline-secondary"
+                                                        ng-click="ItemUpdate(orderItem,1)"> <i class="feather-plus"></i>
+                                                    </button></span>
+                                                <p class="text-gray mb-0 float-right text-muted small ml-2"
+                                                    ng-bind="CurrencyConverter(orderItem.Price)"></p>
+                                            </div>
+                                        </div>
+                                        <div class="text-center" ng-show="!BillSummary.IsShow">
+                                            <h6 class="text-danger">{{restaurantInfo.CartEmptyMessage}}</h5>
+                                        </div>
+                                    </div>
+                                    <div class="bg-white p-3 py-3 border-bottom clearfix">
+
+                                        <div class="mb-0 input-group">
+                                            <div class="input-group-prepend"><span class="input-group-text"><i
+                                                        class="feather-message-square"></i></span></div>
+                                            <textarea id="txtUserSuggetions"
+                                                placeholder="Any suggestions? We will pass it on..."
+                                                aria-label="With textarea" class="form-control"></textarea>
+                                        </div>
+                                    </div>
+                                    <div class="bg-white p-3 clearfix border-bottom" id="divToShare"
+                                        ng-show="BillSummary.IsShow">
+                                        <p class="mb-1">Item Total <span class="float-right text-dark"
+                                                ng-bind="CurrencyConverter(BillSummary.ItemTotal)"></span></p>
+                                        <p class="mb-1">{{restaurantInfo.TaxDesc}}<span class="float-right text-dark"
+                                                ng-bind="CurrencyConverter(CalculateTax(BillSummary.ItemTotal))"></span>
+                                        </p>
+                                        <p class="mb-1" ng-show="BillSummary.RestaurantCharges>0">Restaurant Charge<span
+                                                class="float-right text-dark"
+                                                ng-bind="CurrencyConverter(BillSummary.RestaurantCharges)"></span>
+                                        </p>
+                                        <p class="mb-1" ng-show="BillSummary.DeliveryFee>0">Delivery Charge<span
+                                                class="float-right text-dark"
+                                                ng-bind="CurrencyConverter(BillSummary.DeliveryFee)"></span>
+                                        </p>
+                                        <p class="mb-1 text-danger" ng-show="!IsTableOrder">*Extra parcel charge is
+                                            applicable
+                                        </p>
+                                        <hr>
+                                        <h6 class="font-weight-bold mb-0">TO PAY <span class="float-right"
+                                                ng-bind="CurrencyConverter(BillSummary.GrandTotal)"></span>
+                                        </h6>
+                                    </div>
+
+                                </div>
+                            </div>
+
+
+                        </div>
+
+                    </form>
+                </div>
+                <div class="modal-footer p-0 border-0">
+                    <div class="col-4 m-0 p-0">
+
+
+                    </div>
+                    <div class="m-0 p-0 w-100">
+                        <!-- <button id="save-btn" type="button" class="btn btn-success btn-lg btn-block"
+                            data-dismiss="modal">
+                            Save Contact<i class="feather-arrow-right"></i></button> -->
+                        <p class="ml-2 text-danger" ng-show="restaurantInfo.MinDelivery-BillSummary.ItemTotal>0">Add
+                            items
+                            {{CurrencyConverter(restaurantInfo.MinDelivery-BillSummary.ItemTotal)}} more to avail
+                            home delivery.</p>
+                        <span class="ml-2 font-weight-bold">Terms and Conditions apply</span>
+                        <ul>
+                            <li>
+                                Dish photos may differ from actual presentation.
+                            </li>
+                            <li>
+                                Items are subjected to availability.
+                            </li>
+                            <li ng-show="IsTableOrder">
+                                Preparation time for every order is 15-20 min. Please Co-operate.
+                            </li>
+                            <li ng-show="!IsTableOrder">
+                                Delivery time for every order is 30-45 min. Please Co-operate.
+                            </li>
+                            <!-- <li ng-show="!IsTableOrder">
+                                Extra parcel charge will be applied in addition to the total bill.
+                            </li> -->
+                        </ul>
+                        <button type="button" class="btn btn-success btn-lg btn-block"
+                            ng-disabled="!BillSummary.HasMinDelivery"
+                            ng-click="PlaceOrderInWhatsapp(CurrencyConverter(BillSummary.GrandTotal))"
+                            data-dismiss="modal">
+                            Place order in Whatsapp<i class="feather-arrow-right"></i></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Bootstrap core JavaScript -->
+    <script type="text/javascript" src="vendor/jquery/jquery.min.js"></script>
+    <script type="text/javascript" src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- slick Slider JS-->
+    <script type="text/javascript" src="vendor/slick/slick.min.js"></script>
+    <!-- Sidebar JS-->
+    <!-- <script type="text/javascript" src="vendor/sidebar/hc-offcanvas-nav.js"></script> -->
+    <!-- Custom scripts for all pages-->
+    <script type="text/javascript" src="js/osahan.js"></script>
+
+
+
+</body>
+<script>
+    // var saveBtn = document.getElementById("save-btn");
+    // saveBtn.addEventListener("click", function () {
+    //     //alert('dd')
+    //     // Get the contact information from the website
+    //     var contact = {
+    //         name: "FinGLider",
+    //         phone: "+917019922900",
+    //         email: "info@finglider.com"
+    //     };
+    //     // create a vcard file
+    //     var vcard = "BEGIN:VCARD\nVERSION:4.0\nFN:" + contact.name + "\nTEL;TYPE=work,voice:" + contact.phone + "\nEMAIL:" + contact.email + "\nEND:VCARD";
+    //     var blob = new Blob([vcard], { type: "text/vcard" });
+    //     var url = URL.createObjectURL(blob);
+
+    //     const newLink = document.createElement('a');
+    //     newLink.download = contact.name + ".vcf";
+    //     newLink.textContent = contact.name;
+    //     newLink.href = url;
+
+    //     newLink.click();
+    // });
+    function SelectItem(control) {
+
+        //itemsSelected=localStorage.getItem('selctedItems');
+        var itemName = $(control).closest('.float-right').next().find('.mb-1');
+        var itemNameUpdated = itemName.clone()    //clone the element
+            .children() //select all the children
+            .remove()   //remove all the children
+            .end()  //again go back to selected element
+            .text();
+        var price = $(control).closest('.float-right').next().find('.mb-0');
+        var dynamicUi = '';
+        dynamicUi += '<div class="gold-members d-flex align-items-center justify-content-between px-3 py-2 border-bottom">';
+        dynamicUi += '<div class="media align-items-center">';
+        dynamicUi += '<div class="mr-2 text-danger">&middot;</div>';
+        dynamicUi += '<div class="media-body">';
+        dynamicUi += '<p class="m-0">' + itemNameUpdated + '</p>';
+        dynamicUi += '</div></div>';
+        dynamicUi += '<div class="d-flex align-items-center">';
+        dynamicUi += '<span class="count-number float-right"><button type="button" class="btn-sm left dec btn btn-outline-secondary"> <i class="feather-minus"></i> </button><input class="count-number-input" type="text" readonly="" value="2"><button type="button" class="btn-sm right inc btn btn-outline-secondary"> <i class="feather-plus"></i> </button></span>';
+        dynamicUi += '<p class="text-gray mb-0 float-right ml-2 text-muted small">' + price.text() + '</p></div></div>';
+        $('#divSelectedItems').append(dynamicUi);
+        itemsSelected += itemName.text() + ' - ' + price.text() + '\n';
+        //localStorage.setItem('selctedItems', itemsSelected);
+    }
+    // $("#linkcartSection").click(function () {
+    //     shake('cartSection');
+    //     $('html, body').animate({
+    //         scrollTop: $("#cartSection").offset().top
+    //     }, 500);
+    // });
+
+    $("#linkHomeSection").click(function () {
+        // shake('cartSection');
+        $('html, body').animate({
+            scrollTop: $("#homeSection").offset().top
+        }, 500);
+    });
+
+    function shake(control) {
+        var div = document.getElementById(control);
+        var interval = 25;
+        var distance = 3;
+        var times = 1;
+
+        $(div).css('position', 'relative');
+
+        for (var iter = 0; iter < (times + 1); iter++) {
+            $(div).animate({
+                left: ((iter % 2 == 0 ? distance : distance * -1))
+            }, interval);
+        }
+        $(div).animate({ left: 0 }, interval);
+    }
+
+    $("#linkSearchSection").click(function () {
+        // shake('searchboxSection');
+        // $('html, body').animate({
+        //     scrollTop: $("#searchboxSection").offset().top
+        // }, 500);
+        // 
+        if ($("#searchboxSection").css('display') == 'none' || $("#searchboxSection").css("visibility") == "hidden") {
+            $("#searchboxSection").show();
+
+            $('h6[name="fixedMenuHeader"]').addClass("top-heightset");
+            $("#searchbox").focus();
+        }
+        else {
+            $("#searchboxSection").hide();
+            $('h6[name="fixedMenuHeader"]').removeClass("top-heightset");
+        }
+    });
+    $('#menucategories').popover({
+        placement: 'top',
+        html: true,
+        container: "body",
+        delay: {
+            show: 50,
+            hide: 50
+        },
+        title: 'Menu List',
+        content: function () {
+            return $('#content-wrapper1').html();
+        }
+
+    });
+    $(document).on("click", ".click_me", function () {
+        $("span[id^='span']").css({ "font-weight": "normal" });
+        $(this).css({ "font-weight": "bold" });
+    });
+    $('body').on('click scroll touchmove mousewheel', function (e) {
+        $('[data-toggle=popover]').each(function () {
+            // hide any open popovers when the anywhere else in the body is clicked
+            if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                $(this).popover('hide');
+            }
+        });
+    });
+    $('#searchbox').on('search', function () {
+        $("#searchbox").blur();
+    });
+
+</script>
+
+</html>

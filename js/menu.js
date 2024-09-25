@@ -14,7 +14,8 @@ var RestaurantInfo = {
     "Tax":0.05,
     "TaxDesc":"GST",
     "DeliverCharge":0,
-    "MinDelivery":350
+    "MinDelivery":350,
+    
     };
     var MenuList = [
     {
