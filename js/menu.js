@@ -456,7 +456,7 @@ var MenuList = [
             {
                 "MenuId": "17",
                 "Price": "596.57",
-                "Item": "Sprite Zero - 300 ml Can (Pack of 24) MRP - 40/pc",
+                "Item": "Sprite Zero - 300 ml Can (Pack of 24) MRP - 40/pc	",
                 "CategoryName": " Beverages & Mixers",
                 "Type": "",
                 "Heighlightdescription": "at ₹24.86/pc",
@@ -14513,13 +14513,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹247.81/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "247.81"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹244/pack for 13 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "244"
                     },
                 ]
 
@@ -14540,13 +14540,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹451.43/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "451.43"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹432.86/pack for 9 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "432.86"
                     },
                 ]
 
@@ -14567,13 +14567,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹25.43/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "25.43"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹24.67/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "24.67"
                     },
                 ]
 
@@ -14594,13 +14594,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹231.33/kg for 3 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "231.33"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹226.57/kg for 7 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "226.57"
                     },
                 ]
 
@@ -14621,13 +14621,13 @@ var MenuList = [
                         "QuantitySectionId": "2",
                         "Name": "₹27.14/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "27.14"
                     },
                     {
                         "QuantitySectionId": "1",
                         "Name": "₹26.29/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "26.29"
                     },
                 ]
 
@@ -14648,13 +14648,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹250/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "250"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹246.19/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "246.19"
                     },
                 ]
 
@@ -14843,13 +14843,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹232.19/kg for 3 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "232.19"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹228.76/kg for 5 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "228.76"
                     },
                 ]
 
@@ -14870,13 +14870,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹31.14/pc for 4 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "31.14"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹30.19/pc for 8 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "30.19"
                     },
                 ]
 
@@ -14897,13 +14897,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹63.9/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "63.9"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹62.29/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "62.29"
                     },
                 ]
 
@@ -14924,13 +14924,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹63.9/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "63.9"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹62.29/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "62.29"
                     },
                 ]
 
@@ -14951,13 +14951,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹280.76/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "280.76"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹276.48/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "276.48"
                     },
                 ]
 
@@ -14978,13 +14978,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹17.24/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "17.24"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹16.67/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "16.67"
                     },
                 ]
 
@@ -15026,13 +15026,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹204.76/pc for 3 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "204.76"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹201.71/pc for 5 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "201.71"
                     },
                 ]
 
@@ -15053,13 +15053,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹26.38/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "26.38"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹21.71/pack for 20 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "21.71"
                     },
                 ]
 
@@ -15080,13 +15080,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹232.67/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "232.67"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹225.52/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "225.52"
                     },
                 ]
 
@@ -15107,13 +15107,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹22.67/pc for 4 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "22.67"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹22/pc for 8 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "22"
                     },
                 ]
 
@@ -15134,13 +15134,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹198.95/pc for 4 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "198.95"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹195.9/pc for 8 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "195.9"
                     },
                 ]
 
@@ -15266,13 +15266,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹266.67/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "266.67"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹262.67/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "262.67"
                     },
                 ]
 
@@ -15293,13 +15293,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹122.57/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "122.57"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹120/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "120"
                     },
                 ]
 
@@ -15404,13 +15404,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹25.52/pack for 7 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "25.52"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹24.76/pack for 15 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "24.76"
                     },
                 ]
 
@@ -15431,13 +15431,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹23.62/pc for 3 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "23.62"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹23.24/pc for 7 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "23.24"
                     },
                 ]
 
@@ -15458,13 +15458,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹23.62/pc for 3 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "23.62"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹23.24/pc for 7 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "23.24"
                     },
                 ]
 
@@ -15611,13 +15611,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹221.81/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "221.81"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹214.95/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "214.95"
                     },
                 ]
 
@@ -15659,13 +15659,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹228.95/kg for 15 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "228.95"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹225.47/kg for 25 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "225.47"
                     },
                 ]
 
@@ -15686,13 +15686,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹176.19/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "176.19"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹171.71/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "171.71"
                     },
                 ]
 
@@ -15713,13 +15713,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹403.24/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "403.24"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹390.76/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "390.76"
                     },
                 ]
 
@@ -15740,13 +15740,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹43.62/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "43.62"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹42.57/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "42.57"
                     },
                 ]
 
@@ -15767,13 +15767,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹220.67/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "220.67"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹216.19/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "216.19"
                     },
                 ]
 
@@ -15794,13 +15794,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹225.49/kg for 20 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "225.49"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹222.06/kg for 40 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "222.06"
                     },
                 ]
 
@@ -15842,7 +15842,7 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹135.9/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "135.9"
                     },
                 ]
 
@@ -15863,7 +15863,7 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹135.9/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "135.9"
                     },
                 ]
 
@@ -16220,13 +16220,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹178/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "178"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹173.43/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "173.43"
                     },
                 ]
 
@@ -16247,13 +16247,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹270.1/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "270.1"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹264.67/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "264.67"
                     },
                 ]
 
@@ -16274,13 +16274,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹963.24/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "963.24"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹948.38/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "948.38"
                     },
                 ]
 
@@ -16322,13 +16322,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹233.24/pc for 3 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "233.24"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹229.71/pc for 5 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "229.71"
                     },
                 ]
 
@@ -16349,13 +16349,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹76.67/pc for 3 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "76.67"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹75.14/pc for 9 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "75.14"
                     },
                 ]
 
@@ -16376,13 +16376,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹102.19/pc for 3 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "102.19"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹100.19/pc for 9 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "100.19"
                     },
                 ]
 
@@ -16403,13 +16403,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹117.62/pc for 3 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "117.62"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹115.81/pc for 9 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "115.81"
                     },
                 ]
 
@@ -16430,13 +16430,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹373.05/kg for 5 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "373.05"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹367.43/kg for 10 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "367.43"
                     },
                 ]
 
@@ -16457,13 +16457,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹704.67/pc for 5 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "704.67"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹697.52/pc for 10 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "697.52"
                     },
                 ]
 
@@ -16484,13 +16484,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹80.95/pc for 5 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "80.95"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹79.24/pc for 10 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "79.24"
                     },
                 ]
 
@@ -16511,13 +16511,13 @@ var MenuList = [
                         "QuantitySectionId": "2",
                         "Name": "₹141.62/pc for 3 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "141.62"
                     },
                     {
                         "QuantitySectionId": "1",
                         "Name": "₹139.43/pc for 6 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "139.43"
                     },
                 ]
 
@@ -16538,13 +16538,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹481.52/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "481.52"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹471.71/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "471.71"
                     },
                 ]
 
@@ -16670,13 +16670,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹279.57/kg for 6 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "279.57"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹275.29/kg for 10 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "275.29"
                     },
                 ]
 
@@ -16697,13 +16697,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹304.38/kg for 3 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "304.38"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹299.62/kg for 6 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "299.62"
                     },
                 ]
 
@@ -16724,13 +16724,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹336.67/kg for 3 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "336.67"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹329.81/kg for 8 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "329.81"
                     },
                 ]
 
@@ -16751,13 +16751,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹26.86/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "26.86"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹26/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "26"
                     },
                 ]
 
@@ -16778,13 +16778,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹15.81/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "15.81"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹15.33/pack for 20 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "15.33"
                     },
                 ]
 
@@ -16805,13 +16805,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹55.33/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "55.33"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹53.62/pack for 20 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "53.62"
                     },
                 ]
 
@@ -16832,13 +16832,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹22.38/pack for 16 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "22.38"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹21.71/pack for 25 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "21.71"
                     },
                 ]
 
@@ -16859,13 +16859,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹114.19/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "114.19"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹110.67/pack for 12 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "110.67"
                     },
                 ]
 
@@ -16907,13 +16907,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹158.48/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "158.48"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹153.71/pack for 8 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "153.71"
                     },
                 ]
 
@@ -16934,13 +16934,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹492.86/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "492.86"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹485.33/pack for 8 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "485.33"
                     },
                 ]
 
@@ -16961,13 +16961,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹151.62/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "151.62"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹146.95/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "146.95"
                     },
                 ]
 
@@ -16988,13 +16988,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹183.05/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "183.05"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹180.29/pack for 7 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "180.29"
                     },
                 ]
 
@@ -17015,13 +17015,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹303.52/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "303.52"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹298.95/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "298.95"
                     },
                 ]
 
@@ -17084,13 +17084,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹82.86/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "82.86"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹80.29/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "80.29"
                     },
                 ]
 
@@ -17111,13 +17111,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹20.57/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "20.57"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹19.9/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "19.9"
                     },
                 ]
 
@@ -17138,13 +17138,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹142.19/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "142.19"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹139.14/pack for 13 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "139.14"
                     },
                 ]
 
@@ -17165,13 +17165,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹29.9/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "29.9"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹29.05/pack for 23 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "29.05"
                     },
                 ]
 
@@ -17192,13 +17192,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹157.81/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "157.81"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹154.48/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "154.48"
                     },
                 ]
 
@@ -17219,13 +17219,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹297.24/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "297.24"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹292.67/pack for 7 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "292.67"
                     },
                 ]
 
@@ -17246,13 +17246,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹115.14/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "115.14"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹111.71/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "111.71"
                     },
                 ]
 
@@ -17273,13 +17273,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹177.62/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "177.62"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹174/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "174"
                     },
                 ]
 
@@ -17300,13 +17300,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹125.62/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "125.62"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹115.43/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "115.43"
                     },
                 ]
 
@@ -17348,13 +17348,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹182.48/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "182.48"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹176.95/pack for 7 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "176.95"
                     },
                 ]
 
@@ -17375,13 +17375,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹177.62/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "177.62"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹172.19/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "172.19"
                     },
                 ]
 
@@ -17402,13 +17402,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹193.33/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "193.33"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹189.43/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "189.43"
                     },
                 ]
 
@@ -17429,13 +17429,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹385.05/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "385.05"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹379.14/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "379.14"
                     },
                 ]
 
@@ -17603,13 +17603,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹112.48/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "112.48"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹110.76/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "110.76"
                     },
                 ]
 
@@ -17630,7 +17630,7 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹38.48/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "38.48"
                     },
                 ]
 
@@ -17651,13 +17651,13 @@ var MenuList = [
                         "QuantitySectionId": "2",
                         "Name": "₹47.71/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "47.71"
                     },
                     {
                         "QuantitySectionId": "1",
                         "Name": "₹46.19/pack for 25 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "46.19"
                     },
                 ]
 
@@ -17678,13 +17678,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹162.29/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "162.29"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹156.38/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "156.38"
                     },
                 ]
 
@@ -17705,7 +17705,7 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹33.43/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "33.43"
                     },
                 ]
 
@@ -17774,13 +17774,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹80.86/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "80.86"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹79.71/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "79.71"
                     },
                 ]
 
@@ -17801,13 +17801,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹72.19/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "72.19"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹70/pack for 15 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "70"
                     },
                 ]
 
@@ -17828,13 +17828,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹349.05/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "349.05"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹334.67/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "334.67"
                     },
                 ]
 
@@ -17855,13 +17855,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹318.67/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "318.67"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹305.52/pack for 9 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "305.52"
                     },
                 ]
 
@@ -17987,13 +17987,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹191.81/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "191.81"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹187.9/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "187.9"
                     },
                 ]
 
@@ -18014,13 +18014,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹40.95/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "40.95"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹39.9/pack for 9 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "39.9"
                     },
                 ]
 
@@ -18041,13 +18041,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹66/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "66"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹63.33/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "63.33"
                     },
                 ]
 
@@ -18089,13 +18089,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹75.9/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "75.9"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹74.76/pack for 12 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "74.76"
                     },
                 ]
 
@@ -18116,13 +18116,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹149.52/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "149.52"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹143.24/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "143.24"
                     },
                 ]
 
@@ -18164,13 +18164,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹85.05/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "85.05"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹82.86/pack for 8 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "82.86"
                     },
                 ]
 
@@ -18212,13 +18212,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹187.05/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "187.05"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹183.24/pack for 7 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "183.24"
                     },
                 ]
 
@@ -18239,13 +18239,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹479.71/kg for 3 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "479.71"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹469.9/kg for 5 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "469.9"
                     },
                 ]
 
@@ -18266,13 +18266,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹389.33/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "389.33"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹373.24/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "373.24"
                     },
                 ]
 
@@ -18293,13 +18293,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹338.48/kg for 3 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "338.48"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹331.52/kg for 5 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "331.52"
                     },
                 ]
 
@@ -18341,13 +18341,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹82.67/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "82.67"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹80.19/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "80.19"
                     },
                 ]
 
@@ -18389,13 +18389,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹276.95/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "276.95"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹271.33/pack for 7 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "271.33"
                     },
                 ]
 
@@ -18416,13 +18416,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹132.19/pc for 3 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "132.19"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹129.52/pc for 5 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "129.52"
                     },
                 ]
 
@@ -18443,13 +18443,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹52.48/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "52.48"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹51.14/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "51.14"
                     },
                 ]
 
@@ -18470,13 +18470,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹96.95/pc for 4 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "96.95"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹94.95/pc for 8 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "94.95"
                     },
                 ]
 
@@ -18518,7 +18518,7 @@ var MenuList = [
                         "QuantitySectionId": "2",
                         "Name": "₹166.67/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "166.67"
                     },
                 ]
 
@@ -18539,13 +18539,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹116.67/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "116.67"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹113.05/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "113.05"
                     },
                 ]
 
@@ -18566,13 +18566,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹241.43/kg for 3 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "241.43"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹237.71/kg for 5 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "237.71"
                     },
                 ]
 
@@ -18593,13 +18593,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹64/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "64"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹62/pack for 16 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "62"
                     },
                 ]
 
@@ -18620,13 +18620,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹191.81/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "191.81"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹187.9/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "187.9"
                     },
                 ]
 
@@ -18647,13 +18647,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹29.05/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "29.05"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹28.29/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "28.29"
                     },
                 ]
 
@@ -18674,13 +18674,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹28.95/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "28.95"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹27.9/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "27.9"
                     },
                 ]
 
@@ -18701,13 +18701,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹68.86/pc for 4 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "68.86"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹66.76/pc for 8 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "66.76"
                     },
                 ]
 
@@ -18728,13 +18728,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹64.86/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "64.86"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹62.86/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "62.86"
                     },
                 ]
 
@@ -18860,13 +18860,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹75.43/pc for 4 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "75.43"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹75.05/pc for 8 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "75.05"
                     },
                 ]
 
@@ -18887,13 +18887,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹217.05/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "217.05"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹212.19/pack for 11 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "212.19"
                     },
                 ]
 
@@ -18914,13 +18914,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹340.67/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "340.67"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹326.57/pack for 7 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "326.57"
                     },
                 ]
 
@@ -18941,7 +18941,7 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹64.19/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "64.19"
                     },
                 ]
 
@@ -18962,13 +18962,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹36.95/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "36.95"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹35.81/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "35.81"
                     },
                 ]
 
@@ -19157,13 +19157,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹51.05/pack for 11 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "51.05"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹50.29/pack for 22 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "50.29"
                     },
                 ]
 
@@ -19184,13 +19184,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹765.05/pc for 4 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "765.05"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹745.24/pc for 8 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "745.24"
                     },
                 ]
 
@@ -19232,13 +19232,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹22.48/pc for 10 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "22.48"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹21.81/pc for 20 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "21.81"
                     },
                 ]
 
@@ -19259,7 +19259,7 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹110.86/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "110.86"
                     },
                 ]
 
@@ -19280,13 +19280,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹237.24/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "237.24"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹232.38/pack for 8 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "232.38"
                     },
                 ]
 
@@ -19307,13 +19307,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹237.24/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "237.24"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹232.38/pack for 8 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "232.38"
                     },
                 ]
 
@@ -19481,13 +19481,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹44.48/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "44.48"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹43.05/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "43.05"
                     },
                 ]
 
@@ -19508,13 +19508,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹37.33/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "37.33"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹36.38/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "36.38"
                     },
                 ]
 
@@ -19535,7 +19535,7 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹71.33/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "71.33"
                     },
                 ]
 
@@ -19556,13 +19556,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹214/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "214"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹210.67/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "210.67"
                     },
                 ]
 
@@ -19604,7 +19604,7 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹108.38/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "108.38"
                     },
                 ]
 
@@ -19625,7 +19625,7 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹34/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "34"
                     },
                 ]
 
@@ -19646,13 +19646,13 @@ var MenuList = [
                         "QuantitySectionId": "2",
                         "Name": "₹182.19/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "182.19"
                     },
                     {
                         "QuantitySectionId": "1",
                         "Name": "₹178.29/pack for 8 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "178.29"
                     },
                 ]
 
@@ -19904,13 +19904,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹39.9/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "39.9"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹38.86/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "38.86"
                     },
                 ]
 
@@ -19994,13 +19994,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹188.38/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "188.38"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹185.62/pack for 8 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "185.62"
                     },
                 ]
 
@@ -20042,13 +20042,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹24.76/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "24.76"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹24.38/pack for 7 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "24.38"
                     },
                 ]
 
@@ -20069,13 +20069,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹33.05/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "33.05"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹32.19/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "32.19"
                     },
                 ]
 
@@ -20096,13 +20096,13 @@ var MenuList = [
                         "QuantitySectionId": "2",
                         "Name": "₹69.33/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "69.33"
                     },
                     {
                         "QuantitySectionId": "1",
                         "Name": "₹66.76/pack for 13 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "66.76"
                     },
                 ]
 
@@ -20123,13 +20123,13 @@ var MenuList = [
                         "QuantitySectionId": "2",
                         "Name": "₹140.1/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "140.1"
                     },
                     {
                         "QuantitySectionId": "1",
                         "Name": "₹135.71/pack for 12 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "135.71"
                     },
                 ]
 
@@ -20150,13 +20150,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹63.71/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "63.71"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹62.76/pack for 7 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "62.76"
                     },
                 ]
 
@@ -20177,13 +20177,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹448.67/kg for 7 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "448.67"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹441.81/kg for 13 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "441.81"
                     },
                 ]
 
@@ -20204,13 +20204,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹35.52/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "35.52"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹34.38/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "34.38"
                     },
                 ]
 
@@ -20231,13 +20231,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹35.71/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "35.71"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹34.76/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "34.76"
                     },
                 ]
 
@@ -20258,13 +20258,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹88.57/pack for 11 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "88.57"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹87.14/pack for 22 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "87.14"
                     },
                 ]
 
@@ -20285,13 +20285,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹18.38/pack for 11 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "18.38"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹17.9/pack for 21 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "17.9"
                     },
                 ]
 
@@ -20312,13 +20312,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹36.29/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "36.29"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹35.33/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "35.33"
                     },
                 ]
 
@@ -20339,13 +20339,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹42.86/pack for 11 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "42.86"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹42.19/pack for 22 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "42.19"
                     },
                 ]
 
@@ -20366,13 +20366,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹51.24/pc for 3 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "51.24"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹50.67/pc for 5 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "50.67"
                     },
                 ]
 
@@ -20393,13 +20393,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹25.24/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "25.24"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹24.76/pack for 7 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "24.76"
                     },
                 ]
 
@@ -20420,13 +20420,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹55.9/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "55.9"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹54.19/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "54.19"
                     },
                 ]
 
@@ -20447,13 +20447,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹39.62/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "39.62"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹38.38/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "38.38"
                     },
                 ]
 
@@ -20474,7 +20474,7 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹312.86/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "312.86"
                     },
                 ]
 
@@ -20495,13 +20495,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹69.81/pc for 4 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "69.81"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹68/pc for 10 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "68"
                     },
                 ]
 
@@ -20543,13 +20543,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹58.29/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "58.29"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹56.48/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "56.48"
                     },
                 ]
 
@@ -20570,13 +20570,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹36.48/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "36.48"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹35.43/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "35.43"
                     },
                 ]
 
@@ -20618,13 +20618,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹50.29/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "50.29"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹48.48/pack for 8 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "48.48"
                     },
                 ]
 
@@ -21443,13 +21443,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹249.24/pc for 3 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "249.24"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹245.43/pc for 6 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "245.43"
                     },
                 ]
 
@@ -21470,13 +21470,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹201.05/pc for 3 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "201.05"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹197.9/pc for 6 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "197.9"
                     },
                 ]
 
@@ -21518,13 +21518,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹59.71/pc for 4 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "59.71"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹57.81/pc for 10 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "57.81"
                     },
                 ]
 
@@ -21545,13 +21545,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹365.05/pc for 3 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "365.05"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹357.62/pc for 5 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "357.62"
                     },
                 ]
 
@@ -21572,13 +21572,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹323.43/pc for 3 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "323.43"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹316.76/pc for 5 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "316.76"
                     },
                 ]
 
@@ -21599,13 +21599,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹100.95/pc for 3 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "100.95"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹99.43/pc for 7 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "99.43"
                     },
                 ]
 
@@ -21626,13 +21626,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹59.62/pc for 5 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "59.62"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹58.19/pc for 10 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "58.19"
                     },
                 ]
 
@@ -21653,13 +21653,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹536.48/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "536.48"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹520/pack for 8 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "520"
                     },
                 ]
 
@@ -21680,13 +21680,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹17.05/pc for 3 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "17.05"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹16.57/pc for 5 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "16.57"
                     },
                 ]
 
@@ -21707,13 +21707,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹22.86/pc for 3 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "22.86"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹22.38/pc for 5 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "22.38"
                     },
                 ]
 
@@ -21734,13 +21734,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹21.62/pc for 10 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "21.62"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹20.95/pc for 20 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "20.95"
                     },
                 ]
 
@@ -21761,13 +21761,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹559.33/kg for 3 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "559.33"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹553.71/kg for 5 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "553.71"
                     },
                 ]
 
@@ -21788,13 +21788,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹534.48/kg for 3 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "534.48"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹526.29/kg for 6 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "526.29"
                     },
                 ]
 
@@ -21815,13 +21815,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹453.62/kg for 3 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "453.62"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹446.57/kg for 5 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "446.57"
                     },
                 ]
 
@@ -21842,13 +21842,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹528.19/kg for 3 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "528.19"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹520.1/kg for 6 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "520.1"
                     },
                 ]
 
@@ -21869,13 +21869,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹34.48/pc for 3 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "34.48"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹33.33/pc for 5 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "33.33"
                     },
                 ]
 
@@ -21896,13 +21896,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹571.05/pc for 5 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "571.05"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹562.29/pc for 10 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "562.29"
                     },
                 ]
 
@@ -21923,13 +21923,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹186.38/pc for 3 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "186.38"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹183.52/pc for 8 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "183.52"
                     },
                 ]
 
@@ -21950,13 +21950,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹110.38/pc for 3 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "110.38"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹108.67/pc for 5 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "108.67"
                     },
                 ]
 
@@ -21977,13 +21977,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹110.38/pc for 3 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "110.38"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹108.67/pc for 8 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "108.67"
                     },
                 ]
 
@@ -22004,13 +22004,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹116/pc for 3 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "116"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹114.29/pc for 7 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "114.29"
                     },
                 ]
 
@@ -22031,13 +22031,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹116/pc for 3 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "116"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹114.29/pc for 6 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "114.29"
                     },
                 ]
 
@@ -22058,13 +22058,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹32.67/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "32.67"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹31.81/pack for 12 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "31.81"
                     },
                 ]
 
@@ -22106,13 +22106,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹42.48/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "42.48"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹41.33/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "41.33"
                     },
                 ]
 
@@ -22133,13 +22133,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹107.71/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "107.71"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹104.95/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "104.95"
                     },
                 ]
 
@@ -22160,13 +22160,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹283.9/pc for 3 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "283.9"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹278.19/pc for 6 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "278.19"
                     },
                 ]
 
@@ -22187,13 +22187,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹555.71/pc for 3 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "555.71"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹547.24/pc for 5 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "547.24"
                     },
                 ]
 
@@ -22319,13 +22319,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹51.33/pc for 3 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "51.33"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹50.57/pc for 7 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "50.57"
                     },
                 ]
 
@@ -22367,13 +22367,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹38.38/pc for 5 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "38.38"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹37.62/pc for 10 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "37.62"
                     },
                 ]
 
@@ -22457,13 +22457,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹45.05/pc for 5 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "45.05"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹43.9/pc for 10 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "43.9"
                     },
                 ]
 
@@ -22505,13 +22505,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹60.86/pc for 3 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "60.86"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹59.33/pc for 7 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "59.33"
                     },
                 ]
 
@@ -22616,13 +22616,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹271.33/pc for 3 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "271.33"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹262.86/pc for 5 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "262.86"
                     },
                 ]
 
@@ -22727,13 +22727,13 @@ var MenuList = [
                         "QuantitySectionId": "2",
                         "Name": "₹23.52/pc for 10 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "23.52"
                     },
                     {
                         "QuantitySectionId": "1",
                         "Name": "₹22.76/pc for 20 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "22.76"
                     },
                 ]
 
@@ -22754,13 +22754,13 @@ var MenuList = [
                         "QuantitySectionId": "2",
                         "Name": "₹35.52/pc for 10 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "35.52"
                     },
                     {
                         "QuantitySectionId": "1",
                         "Name": "₹34.48/pc for 20 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "34.48"
                     },
                 ]
 
@@ -22781,13 +22781,13 @@ var MenuList = [
                         "QuantitySectionId": "2",
                         "Name": "₹62.57/pc for 10 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "62.57"
                     },
                     {
                         "QuantitySectionId": "1",
                         "Name": "₹60.67/pc for 20 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "60.67"
                     },
                 ]
 
@@ -22808,13 +22808,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹357.71/pc for 3 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "357.71"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹346.57/pc for 5 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "346.57"
                     },
                 ]
 
@@ -22835,13 +22835,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹68.48/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "68.48"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹66.38/pack for 14 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "66.38"
                     },
                 ]
 
@@ -22883,13 +22883,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹194.29/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "194.29"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹191.33/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "191.33"
                     },
                 ]
 
@@ -22910,13 +22910,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹193.43/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "193.43"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹189.43/pack for 8 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "189.43"
                     },
                 ]
 
@@ -22937,13 +22937,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹888.48/kg for 3 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "888.48"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹874.76/kg for 6 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "874.76"
                     },
                 ]
 
@@ -22964,13 +22964,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹528.19/kg for 3 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "528.19"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹520.19/kg for 6 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "520.19"
                     },
                 ]
 
@@ -22991,13 +22991,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹364.19/kg for 3 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "364.19"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹358.57/kg for 5 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "358.57"
                     },
                 ]
 
@@ -23018,13 +23018,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹233.81/kg for 3 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "233.81"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹227.81/kg for 7 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "227.81"
                     },
                 ]
 
@@ -23045,13 +23045,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹320.48/kg for 3 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "320.48"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹315.52/kg for 6 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "315.52"
                     },
                 ]
 
@@ -23072,13 +23072,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹174.29/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "174.29"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹170.76/pack for 8 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "170.76"
                     },
                 ]
 
@@ -23099,13 +23099,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹78/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "78"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹76/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "76"
                     },
                 ]
 
@@ -23126,13 +23126,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹337.05/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "337.05"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹326.57/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "326.57"
                     },
                 ]
 
@@ -23153,13 +23153,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹22/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "22"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹21.33/pack for 20 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "21.33"
                     },
                 ]
 
@@ -23180,13 +23180,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹24.19/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "24.19"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹23.33/pack for 20 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "23.33"
                     },
                 ]
 
@@ -23207,13 +23207,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹74.29/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "74.29"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹72.38/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "72.38"
                     },
                 ]
 
@@ -23234,13 +23234,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹24.19/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "24.19"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹23.33/pack for 20 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "23.33"
                     },
                 ]
 
@@ -23261,13 +23261,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹24.19/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "24.19"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹23.33/pack for 20 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "23.33"
                     },
                 ]
 
@@ -23288,13 +23288,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹15.81/pack for 7 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "15.81"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹15.33/pack for 11 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "15.33"
                     },
                 ]
 
@@ -23315,13 +23315,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹33.14/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "33.14"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹32.19/pack for 20 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "32.19"
                     },
                 ]
 
@@ -23342,13 +23342,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹27.43/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "27.43"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹26.57/pack for 20 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "26.57"
                     },
                 ]
 
@@ -23369,13 +23369,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹27.62/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "27.62"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹27.05/pack for 11 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "27.05"
                     },
                 ]
 
@@ -23417,13 +23417,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹51.71/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "51.71"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹50.67/pack for 12 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "50.67"
                     },
                 ]
 
@@ -23444,13 +23444,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹78.19/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "78.19"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹76.57/pack for 12 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "76.57"
                     },
                 ]
 
@@ -23471,13 +23471,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹43.43/pack for 7 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "43.43"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹42.57/pack for 13 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "42.57"
                     },
                 ]
 
@@ -23498,13 +23498,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹98/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "98"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹96/pack for 12 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "96"
                     },
                 ]
 
@@ -23525,13 +23525,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹62.76/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "62.76"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹61.52/pack for 12 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "61.52"
                     },
                 ]
 
@@ -23552,13 +23552,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹74.86/pack for 11 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "74.86"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹72.48/pack for 22 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "72.48"
                     },
                 ]
 
@@ -23579,13 +23579,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹296.76/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "296.76"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹287.52/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "287.52"
                     },
                 ]
 
@@ -23627,13 +23627,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹136.38/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "136.38"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹132.19/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "132.19"
                     },
                 ]
 
@@ -23654,13 +23654,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹130.86/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "130.86"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹126.86/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "126.86"
                     },
                 ]
 
@@ -23681,13 +23681,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹64.48/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "64.48"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹63.24/pack for 8 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "63.24"
                     },
                 ]
 
@@ -23708,13 +23708,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹66.19/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "66.19"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹65.05/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "65.05"
                     },
                 ]
 
@@ -23735,13 +23735,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹66.86/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "66.86"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹65.81/pack for 7 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "65.81"
                     },
                 ]
 
@@ -23762,13 +23762,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹259.71/pack for 7 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "259.71"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹253.05/pack for 15 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "253.05"
                     },
                 ]
 
@@ -23810,13 +23810,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹102.38/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "102.38"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹99.71/pack for 8 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "99.71"
                     },
                 ]
 
@@ -23837,13 +23837,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹58.19/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "58.19"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹56.38/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "56.38"
                     },
                 ]
 
@@ -23864,13 +23864,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹123.33/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "123.33"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹119.43/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "119.43"
                     },
                 ]
 
@@ -23891,13 +23891,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹328.48/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "328.48"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹318.29/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "318.29"
                     },
                 ]
 
@@ -23939,13 +23939,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹120/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "120"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹118.19/pack for 7 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "118.19"
                     },
                 ]
 
@@ -23966,13 +23966,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹140.29/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "140.29"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹138.19/pack for 7 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "138.19"
                     },
                 ]
 
@@ -23993,13 +23993,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹323.43/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "323.43"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹313.33/pack for 7 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "313.33"
                     },
                 ]
 
@@ -24020,13 +24020,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹246.29/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "246.29"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹242.48/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "242.48"
                     },
                 ]
 
@@ -24047,13 +24047,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹47.05/pack for 7 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "47.05"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹45.14/pack for 13 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "45.14"
                     },
                 ]
 
@@ -24074,13 +24074,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹167.71/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "167.71"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹164.29/pack for 7 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "164.29"
                     },
                 ]
 
@@ -24101,13 +24101,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹53.52/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "53.52"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹52.48/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "52.48"
                     },
                 ]
 
@@ -24128,13 +24128,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹195.9/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "195.9"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹189.9/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "189.9"
                     },
                 ]
 
@@ -24155,13 +24155,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹195.9/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "195.9"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹189.9/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "189.9"
                     },
                 ]
 
@@ -24182,13 +24182,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹22.57/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "22.57"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹21.9/pack for 8 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "21.9"
                     },
                 ]
 
@@ -24209,13 +24209,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹24.38/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "24.38"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹23.62/pack for 8 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "23.62"
                     },
                 ]
 
@@ -24236,13 +24236,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹153.81/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "153.81"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹150.67/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "150.67"
                     },
                 ]
 
@@ -24263,13 +24263,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹24.48/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "24.48"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹23.71/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "23.71"
                     },
                 ]
 
@@ -24311,13 +24311,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹390.86/kg for 3 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "390.86"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹384.86/kg for 5 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "384.86"
                     },
                 ]
 
@@ -24338,13 +24338,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹564/kg for 4 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "564"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹549.52/kg for 8 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "549.52"
                     },
                 ]
 
@@ -24365,13 +24365,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹187.33/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "187.33"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹184.38/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "184.38"
                     },
                 ]
 
@@ -24392,13 +24392,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹56.19/pack for 11 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "56.19"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹54.48/pack for 22 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "54.48"
                     },
                 ]
 
@@ -24419,13 +24419,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹263.52/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "263.52"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹259.43/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "259.43"
                     },
                 ]
 
@@ -24446,13 +24446,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹61.05/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "61.05"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹60.19/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "60.19"
                     },
                 ]
 
@@ -24473,13 +24473,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹61.05/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "61.05"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹60.19/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "60.19"
                     },
                 ]
 
@@ -24500,13 +24500,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹50.67/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "50.67"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹49.9/pack for 7 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "49.9"
                     },
                 ]
 
@@ -24527,13 +24527,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹57.81/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "57.81"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹56.57/pack for 30 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "56.57"
                     },
                 ]
 
@@ -24554,13 +24554,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹115.24/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "115.24"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹113.52/pack for 7 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "113.52"
                     },
                 ]
 
@@ -24602,13 +24602,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹66.29/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "66.29"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹65.33/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "65.33"
                     },
                 ]
 
@@ -24629,13 +24629,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹291.81/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "291.81"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹287.24/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "287.24"
                     },
                 ]
 
@@ -24656,13 +24656,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹59.71/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "59.71"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹58.76/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "58.76"
                     },
                 ]
 
@@ -24683,13 +24683,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹53.05/pack for 7 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "53.05"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹52.29/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "52.29"
                     },
                 ]
 
@@ -24710,13 +24710,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹85.9/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "85.9"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹83.71/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "83.71"
                     },
                 ]
 
@@ -24758,7 +24758,7 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹48.19/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "48.19"
                     },
                 ]
 
@@ -24779,13 +24779,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹183.52/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "183.52"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹180.86/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "180.86"
                     },
                 ]
 
@@ -24806,13 +24806,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹48.86/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "48.86"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹48.19/pack for 25 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "48.19"
                     },
                 ]
 
@@ -25001,13 +25001,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹142.48/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "142.48"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹140.29/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "140.29"
                     },
                 ]
 
@@ -25049,13 +25049,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹109.52/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "109.52"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹105.62/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "105.62"
                     },
                 ]
 
@@ -25076,13 +25076,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹271.9/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "271.9"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹267.81/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "267.81"
                     },
                 ]
 
@@ -25124,7 +25124,7 @@ var MenuList = [
                         "QuantitySectionId": "2",
                         "Name": "₹53.81/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "53.81"
                     },
                 ]
 
@@ -25472,13 +25472,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹117.59/kg for 3 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "117.59"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹115.18/kg for 5 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "115.18"
                     },
                 ]
 
@@ -25520,13 +25520,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹46.1/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "46.1"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹44.7/pack for 8 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "44.7"
                     },
                 ]
 
@@ -25658,13 +25658,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹40.62/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "40.62"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹39.46/pack for 8 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "39.46"
                     },
                 ]
 
@@ -25685,13 +25685,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹43.12/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "43.12"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹41.79/pack for 8 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "41.79"
                     },
                 ]
 
@@ -25739,7 +25739,7 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹26.7/kg for 10 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "26.7"
                     },
                 ]
 
@@ -25760,13 +25760,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹56.34/kg for 15 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "56.34"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹55.49/kg for 25 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "55.49"
                     },
                 ]
 
@@ -25787,13 +25787,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹61.62/kg for 5 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "61.62"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹60.67/kg for 12 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "60.67"
                     },
                 ]
 
@@ -25814,7 +25814,7 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹77.1/kg for 10 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "77.1"
                     },
                 ]
 
@@ -25835,7 +25835,7 @@ var MenuList = [
                         "QuantitySectionId": "2",
                         "Name": "₹10.7/kg for 10 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "10.7"
                     },
                 ]
 
@@ -25856,13 +25856,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹81.43/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "81.43"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹80.19/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "80.19"
                     },
                 ]
 
@@ -25925,13 +25925,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹92.41/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "92.41"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹90.98/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "90.98"
                     },
                 ]
 
@@ -25952,13 +25952,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹36.4/pc for 4 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "36.4"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹36.3/pc for 8 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "36.3"
                     },
                 ]
 
@@ -25979,13 +25979,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹60.86/kg for 5 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "60.86"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹59.62/kg for 10 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "59.62"
                     },
                 ]
 
@@ -26027,13 +26027,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹73.54/kg for 4.5 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "73.54"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹71.32/kg for 11.7 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "71.32"
                     },
                 ]
 
@@ -26201,7 +26201,7 @@ var MenuList = [
                         "QuantitySectionId": "2",
                         "Name": "₹74.48/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "74.48"
                     },
                 ]
 
@@ -26243,13 +26243,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹50.76/kg for 4 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "50.76"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹50/kg for 6 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "50"
                     },
                 ]
 
@@ -26585,13 +26585,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹57.6/kg for 5 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "57.6"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹55.9/kg for 10 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "55.9"
                     },
                 ]
 
@@ -26633,7 +26633,7 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹15.5/kg for 25 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "15.5"
                     },
                 ]
 
@@ -26654,7 +26654,7 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹47.37/kg for 100 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "47.37"
                     },
                 ]
 
@@ -26696,13 +26696,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹57.05/kg for 5 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "57.05"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹55.24/kg for 10 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "55.24"
                     },
                 ]
 
@@ -26744,13 +26744,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹68.67/kg for 5 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "68.67"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹66.57/kg for 10 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "66.57"
                     },
                 ]
 
@@ -26771,13 +26771,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹67.43/kg for 5 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "67.43"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹65.33/kg for 10 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "65.33"
                     },
                 ]
 
@@ -26798,13 +26798,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹66.15/kg for 25 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "66.15"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹64.13/kg for 50 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "64.13"
                     },
                 ]
 
@@ -26825,13 +26825,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹26.75/kg for 8 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "26.75"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹26.5/kg for 16 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "26.5"
                     },
                 ]
 
@@ -26852,13 +26852,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹57.01/kg for 25 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "57.01"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹55.01/kg for 50 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "55.01"
                     },
                 ]
 
@@ -26879,13 +26879,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹262.57/pc for 5 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "262.57"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹254.48/pc for 10 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "254.48"
                     },
                 ]
 
@@ -26906,13 +26906,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹53.45/kg for 25 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "53.45"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹51.81/kg for 50 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "51.81"
                     },
                 ]
 
@@ -26954,7 +26954,7 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹34.7/kg for 10 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "34.7"
                     },
                 ]
 
@@ -26975,7 +26975,7 @@ var MenuList = [
                         "QuantitySectionId": "2",
                         "Name": "₹15.1/kg for 10 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "15.1"
                     },
                 ]
 
@@ -26996,7 +26996,7 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹13.2/kg for 10 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "13.2"
                     },
                 ]
 
@@ -27038,13 +27038,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹49/kg for 40 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "49"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹47.51/kg for 100 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "47.51"
                     },
                 ]
 
@@ -27086,7 +27086,7 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹43.36/kg for 100 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "43.36"
                     },
                 ]
 
@@ -27107,7 +27107,7 @@ var MenuList = [
                         "QuantitySectionId": "2",
                         "Name": "₹91.6/kg for 10 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "91.6"
                     },
                 ]
 
@@ -27275,7 +27275,7 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹12.3/kg for 10 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "12.3"
                     },
                 ]
 
@@ -27470,13 +27470,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹35.71/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "35.71"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹34.95/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "34.95"
                     },
                 ]
 
@@ -27497,13 +27497,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹134.86/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "134.86"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹132.19/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "132.19"
                     },
                 ]
 
@@ -27608,13 +27608,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹136.95/pc for 4 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "136.95"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹134.19/pc for 8 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "134.19"
                     },
                 ]
 
@@ -27677,13 +27677,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹27.24/pack for 11 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "27.24"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹26.19/pack for 21 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "26.19"
                     },
                 ]
 
@@ -27704,13 +27704,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹171.52/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "171.52"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹168/pack for 8 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "168"
                     },
                 ]
 
@@ -27752,13 +27752,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹281.52/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "281.52"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹277.24/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "277.24"
                     },
                 ]
 
@@ -27779,13 +27779,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹12.57/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "12.57"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹12.19/pack for 9 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "12.19"
                     },
                 ]
 
@@ -27806,13 +27806,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹250/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "250"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹246.19/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "246.19"
                     },
                 ]
 
@@ -27833,13 +27833,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹66.67/pc for 3 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "66.67"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹65.62/pc for 5 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "65.62"
                     },
                 ]
 
@@ -27860,13 +27860,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹184.19/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "184.19"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹181.43/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "181.43"
                     },
                 ]
 
@@ -27887,13 +27887,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹101.71/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "101.71"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹99.62/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "99.62"
                     },
                 ]
 
@@ -27935,13 +27935,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹97.62/kg for 4 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "97.62"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹95.62/kg for 8 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "95.62"
                     },
                 ]
 
@@ -27962,13 +27962,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹118.76/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "118.76"
                     },
                     {
                         "QuantitySectionId": "1",
                         "Name": "₹116.29/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "116.29"
                     },
                 ]
 
@@ -27989,13 +27989,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹89.81/pc for 3 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "89.81"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹88.38/pc for 5 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "88.38"
                     },
                 ]
 
@@ -28016,13 +28016,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹37.52/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "37.52"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹36.38/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "36.38"
                     },
                 ]
 
@@ -28043,13 +28043,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹199.24/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "199.24"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹194.19/pack for 12 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "194.19"
                     },
                 ]
 
@@ -28091,13 +28091,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹794.86/kg for 1.5 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "794.86"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹784.76/kg for 2.5 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "784.76"
                     },
                 ]
 
@@ -28118,13 +28118,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹103.6/kg for 5 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "103.6"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹101/kg for 13 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "101"
                     },
                 ]
 
@@ -28145,13 +28145,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹90.57/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "90.57"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹88.19/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "88.19"
                     },
                 ]
 
@@ -28193,13 +28193,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹261.81/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "261.81"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹255.05/pack for 8 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "255.05"
                     },
                 ]
 
@@ -28220,13 +28220,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹145.62/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "145.62"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹142.67/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "142.67"
                     },
                 ]
 
@@ -28247,13 +28247,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹19.05/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "19.05"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹18.48/pack for 8 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "18.48"
                     },
                 ]
 
@@ -28274,13 +28274,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹251.43/kg for 3 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "251.43"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹246.29/kg for 5 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "246.29"
                     },
                 ]
 
@@ -28448,13 +28448,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹108/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "108"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹103.43/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "103.43"
                     },
                 ]
 
@@ -28496,13 +28496,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹286.48/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "286.48"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹280.67/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "280.67"
                     },
                 ]
 
@@ -28523,13 +28523,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹125.6/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "125.6"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹123.7/pack for 8 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "123.7"
                     },
                 ]
 
@@ -28571,13 +28571,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹13.62/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "13.62"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹13.05/pack for 12 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "13.05"
                     },
                 ]
 
@@ -28598,13 +28598,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹23.05/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "23.05"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹22.19/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "22.19"
                     },
                 ]
 
@@ -28625,13 +28625,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹17.24/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "17.24"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹16.67/pack for 11 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "16.67"
                     },
                 ]
 
@@ -28841,7 +28841,7 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹6.76/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "6.76"
                     },
                 ]
 
@@ -28862,13 +28862,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹296.57/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "296.57"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹290.48/pack for 8 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "290.48"
                     },
                 ]
 
@@ -28910,13 +28910,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹100.19/kg for 4 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "100.19"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹98.19/kg for 8 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "98.19"
                     },
                 ]
 
@@ -28958,13 +28958,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹228.19/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "228.19"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹223.43/pack for 8 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "223.43"
                     },
                 ]
 
@@ -28985,13 +28985,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹58/pc for 4 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "58"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹56.48/pc for 8 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "56.48"
                     },
                 ]
 
@@ -29012,13 +29012,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹497.05/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "497.05"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹489.46/pack for 7 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "489.46"
                     },
                 ]
 
@@ -29039,13 +29039,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹254.95/kg for 4 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "254.95"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹251.62/kg for 8 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "251.62"
                     },
                 ]
 
@@ -29066,13 +29066,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹175.52/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "175.52"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹171.9/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "171.9"
                     },
                 ]
 
@@ -29177,13 +29177,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹232.57/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "232.57"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹227.81/pack for 8 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "227.81"
                     },
                 ]
 
@@ -29225,13 +29225,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹365.24/kg for 6 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "365.24"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹359.62/kg for 12 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "359.62"
                     },
                 ]
 
@@ -29273,13 +29273,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹103.05/pc for 3 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "103.05"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹100.38/pc for 5 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "100.38"
                     },
                 ]
 
@@ -29321,13 +29321,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹360/kg for 3 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "360"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹354.57/kg for 5 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "354.57"
                     },
                 ]
 
@@ -29348,13 +29348,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹293.24/kg for 3 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "293.24"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹288.86/kg for 5 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "288.86"
                     },
                 ]
 
@@ -29627,13 +29627,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹225.52/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "225.52"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹220.86/pack for 8 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "220.86"
                     },
                 ]
 
@@ -29654,13 +29654,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹835.05/kg for 3 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "835.05"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹826.57/kg for 5 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "826.57"
                     },
                 ]
 
@@ -29723,13 +29723,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹36.57/pc for 2 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "36.57"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹36/pc for 5 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "36"
                     },
                 ]
 
@@ -29834,13 +29834,13 @@ var MenuList = [
                         "QuantitySectionId": "2",
                         "Name": "₹295.05/kg for 3 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "295.05"
                     },
                     {
                         "QuantitySectionId": "1",
                         "Name": "₹290.48/kg for 7 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "290.48"
                     },
                 ]
 
@@ -29861,13 +29861,13 @@ var MenuList = [
                         "QuantitySectionId": "2",
                         "Name": "₹591.81/kg for 5 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "591.81"
                     },
                     {
                         "QuantitySectionId": "1",
                         "Name": "₹573.52/kg for 10 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "573.52"
                     },
                 ]
 
@@ -29930,13 +29930,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹117.71/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "117.71"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹114.67/pack for 8 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "114.67"
                     },
                 ]
 
@@ -29957,13 +29957,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹250.57/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "250.57"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹246.76/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "246.76"
                     },
                 ]
 
@@ -30026,13 +30026,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹51.71/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "51.71"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹50.67/pack for 12 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "50.67"
                     },
                 ]
 
@@ -30116,13 +30116,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹259.05/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "259.05"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹255.05/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "255.05"
                     },
                 ]
 
@@ -30143,13 +30143,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹58.29/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "58.29"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹57.05/pack for 12 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "57.05"
                     },
                 ]
 
@@ -30170,13 +30170,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹294.57/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "294.57"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹290.19/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "290.19"
                     },
                 ]
 
@@ -30218,13 +30218,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹282.76/pack for 2 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "282.76"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹278.48/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "278.48"
                     },
                 ]
 
@@ -30245,13 +30245,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹142.48/pc for 3 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "142.48"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹140.38/pc for 7 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "140.38"
                     },
                 ]
 
@@ -30272,13 +30272,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹809.05/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "809.05"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹796.67/pack for 8 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "796.67"
                     },
                 ]
 
@@ -30320,13 +30320,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹187.24/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "187.24"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹184.38/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "184.38"
                     },
                 ]
 
@@ -31502,13 +31502,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹22.48/pc for 5 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "22.48"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹21.81/pc for 10 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "21.81"
                     },
                 ]
 
@@ -31529,13 +31529,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹96.38/kg for 4 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "96.38"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹93.9/kg for 8 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "93.9"
                     },
                 ]
 
@@ -31556,13 +31556,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹345.81/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "345.81"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹340.48/pack for 8 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "340.48"
                     },
                 ]
 
@@ -31604,13 +31604,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹105.33/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "105.33"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹103.71/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "103.71"
                     },
                 ]
 
@@ -31673,13 +31673,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹2,437.33/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "2437.33"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹2,412.67/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "2412.67"
                     },
                 ]
 
@@ -31742,13 +31742,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹293.24/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "293.24"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹288.76/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "288.76"
                     },
                 ]
 
@@ -31769,13 +31769,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹24.67/pc for 5 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "24.67"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹24/pc for 10 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "24"
                     },
                 ]
 
@@ -31796,13 +31796,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹179.43/pc for 3 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "179.43"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹174.76/pc for 6 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "174.76"
                     },
                 ]
 
@@ -31823,13 +31823,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹17.33/pc for 5 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "17.33"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹16.76/pc for 10 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "16.76"
                     },
                 ]
 
@@ -31850,13 +31850,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹84.57/pc for 3 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "84.57"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹82.38/pc for 5 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "82.38"
                     },
                 ]
 
@@ -31877,13 +31877,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹765.71/pc for 4 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "765.71"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹758/pc for 8 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "758"
                     },
                 ]
 
@@ -31904,13 +31904,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹34.38/pc for 3 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "34.38"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹33.62/pc for 9 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "33.62"
                     },
                 ]
 
@@ -31931,13 +31931,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹2,621.14/kg for 3 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "2621.14"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹2,601.33/kg for 5 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "2601.33"
                     },
                 ]
 
@@ -31979,13 +31979,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹570.38/kg for 3 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "570.38"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹561.71/kg for 5 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "561.71"
                     },
                 ]
 
@@ -32006,13 +32006,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹314/pc for 4 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "314"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹305.9/pc for 8 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "305.9"
                     },
                 ]
 
@@ -32033,13 +32033,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹71.14/pc for 3 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "71.14"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹70.19/pc for 7 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "70.19"
                     },
                 ]
 
@@ -32060,13 +32060,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹576.67/pc for 3 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "576.67"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹564.95/pc for 5 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "564.95"
                     },
                 ]
 
@@ -32087,13 +32087,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹146.38/pc for 4 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "146.38"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹144.19/pc for 8 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "144.19"
                     },
                 ]
 
@@ -32114,13 +32114,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹473.05/pc for 3 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "473.05"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹465.9/pc for 6 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "465.9"
                     },
                 ]
 
@@ -32141,7 +32141,7 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹837.9/kg for 15 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "837.9"
                     },
                 ]
 
@@ -32162,13 +32162,13 @@ var MenuList = [
                         "QuantitySectionId": "2",
                         "Name": "₹319.01/kg for 15 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "319.01"
                     },
                     {
                         "QuantitySectionId": "1",
                         "Name": "₹314.17/kg for 25 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "314.17"
                     },
                 ]
 
@@ -32231,13 +32231,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹266.38/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "266.38"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹263.71/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "263.71"
                     },
                 ]
 
@@ -32300,13 +32300,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹86.29/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "86.29"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹84.48/pack for 12 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "84.48"
                     },
                 ]
 
@@ -32327,13 +32327,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹33.14/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "33.14"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹31.71/pack for 11 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "31.71"
                     },
                 ]
 
@@ -32354,13 +32354,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹22.38/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "22.38"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹21.43/pack for 11 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "21.43"
                     },
                 ]
 
@@ -32381,13 +32381,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹114.48/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "114.48"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹112.19/pack for 8 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "112.19"
                     },
                 ]
 
@@ -32408,13 +32408,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹1,002.48/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "1002.48"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹985.05/pack for 8 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "985.05"
                     },
                 ]
 
@@ -32435,13 +32435,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹47.14/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "47.14"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹45.24/pack for 11 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "45.24"
                     },
                 ]
 
@@ -32462,13 +32462,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹372.76/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "372.76"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹368.95/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "368.95"
                     },
                 ]
 
@@ -32489,13 +32489,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹79.24/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "79.24"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹77.62/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "77.62"
                     },
                 ]
 
@@ -32537,13 +32537,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹359.71/pc for 3 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "359.71"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹352.38/pc for 5 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "352.38"
                     },
                 ]
 
@@ -32564,13 +32564,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹66.29/pack for 3 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "66.29"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹65.33/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "65.33"
                     },
                 ]
 
@@ -32612,13 +32612,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹104.1/kg for 3 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "104.1"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹102/kg for 7 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "102"
                     },
                 ]
 
@@ -32660,13 +32660,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹224.29/kg for 3 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "224.29"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹220.86/kg for 7 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "220.86"
                     },
                 ]
 
@@ -32687,13 +32687,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹373.24/pack for 4 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "373.24"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹367.52/pack for 8 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "367.52"
                     },
                 ]
 
@@ -32756,13 +32756,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹237.14/kg for 2 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "237.14"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹231.04/kg for 4 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "231.04"
                     },
                 ]
 
@@ -32783,13 +32783,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹27.81/pack for 5 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "27.81"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹26.76/pack for 10 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "26.76"
                     },
                 ]
 
@@ -32810,13 +32810,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹173.33/pc for 4 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "173.33"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹168.86/pc for 8 pcs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "168.86"
                     },
                 ]
 
@@ -32837,13 +32837,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹227.9/kg for 4 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "227.9"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹223.24/kg for 8 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "223.24"
                     },
                 ]
 
@@ -32864,13 +32864,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹90.19/kg for 3 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "90.19"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹88.29/kg for 5 kgs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "88.29"
                     },
                 ]
 
@@ -32891,13 +32891,13 @@ var MenuList = [
                         "QuantitySectionId": "1",
                         "Name": "₹92.57/pack for 6 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "92.57"
                     },
                     {
                         "QuantitySectionId": "2",
                         "Name": "₹88.76/pack for 12 packs+",
                         "Description": "",
-                        "Price": ""
+                        "Price": "88.76"
                     },
                 ]
 
@@ -33030,6 +33030,3873 @@ var MenuList = [
             },
         ]
     },
+    {
+        "SectionName": "Air Freshener ",
+        "SectionOrder": "25",
+        "MenuItem": [
+            {
+                "MenuId": "1",
+                "Price": "84.24",
+                "Item": "Odonil - Air Freshener, 220 - 240 ml (Any One Fragrance Bottle)",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/ebb619497e20b894dd7c0782ce11b204.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹82.54/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": "82.54"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹80.85/pc for 7 pcs+",
+                        "Description": "",
+                        "Price": "80.85"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "2",
+                "Price": "71.02",
+                "Item": "Air First - Air Freshener (Lavender), 300 ml",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/1d005b59fd7ec697b7aaf380a17134e5.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹69.58/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "69.58"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹68.22/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "68.22"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "3",
+                "Price": "73.64",
+                "Item": "Detcare - Air Freshener Cool Breeze, 250 ml",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/02346f3fe05e878958796c6a6549e775.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹72.2/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "72.2"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹70.68/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "70.68"
+                    },
+                ]
+
+            },
+        ]
+    },
+    {
+        "SectionName": "Cleaning Chemicals ",
+        "SectionOrder": "26",
+        "MenuItem": [
+            {
+                "MenuId": "1",
+                "Price": "123.22",
+                "Item": "Eco Kleen - White Phenyl, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/db979ee3b292d26c11c1a56d9eb17192.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹120.76/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "120.76"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹118.98/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "118.98"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "2",
+                "Price": "90",
+                "Item": "Harpic - Toilet Cleaner, 500 ml",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/bbcdb277237ea21509bd88c3a00d44b5.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹88.22/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "88.22"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹87.37/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "87.37"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "3",
+                "Price": "153.47",
+                "Item": "Eco Kleen - Glass Cleaner, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/320a81b093e0d809fa29c71c2bc857a7.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹151.19/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "151.19"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹148.22/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": "148.22"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "4",
+                "Price": "272.8",
+                "Item": "Eco Kleen - Citrus Floor Cleaner, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/ebdb4779a7504221789c394f6b370b68.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹268.73/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "268.73"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹266.02/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "266.02"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "5",
+                "Price": "190.59",
+                "Item": "Savemore - Toilet Cleaner, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/cebd975ba913800e925d2c9215db49c3.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹186.78/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "186.78"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹184.83/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "184.83"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "6",
+                "Price": "272.8",
+                "Item": "Savemore - Citrus Floor Cleaner, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/8a430ddfe03a622b6433d314e0ac6d78.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹268.73/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "268.73"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹266.02/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "266.02"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "7",
+                "Price": "155.34",
+                "Item": "Savemore - Glass Cleaner, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/e85c568e0fd9862e751e6a1e678ae3c8.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹153.05/piece for 3 pcs+",
+                        "Description": "",
+                        "Price": "153.05"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹150/piece for 5 pcs+",
+                        "Description": "",
+                        "Price": "150"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "8",
+                "Price": "124.32",
+                "Item": "Savemore - White Phenyl, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/d100ed4849707fa44c9f53b8279ac970.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹122.46/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "122.46"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹120/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "120"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "9",
+                "Price": "128.9",
+                "Item": "Ayurgen - Soap Oil, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/d96369fbaba812a8e03ba114a92fb0a2.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹126.27/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "126.27"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹124.41/pc for 6 pcs+",
+                        "Description": "",
+                        "Price": "124.41"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "10",
+                "Price": "299.49",
+                "Item": "Ayurgen - Floor Cleaner, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/50de47bc76814db234ac8998d1c068b4.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹293.47/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "293.47"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹291.95/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "291.95"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "11",
+                "Price": "234.83",
+                "Item": "Ayurgen - Glass Cleaner, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/ea0c9acc8757331b9503ab8573b37569.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹230.08/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "230.08"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹226.61/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "226.61"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "12",
+                "Price": "243.47",
+                "Item": "Ayurgen - Toilet Cleaner, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/e11109b58193782e7eaf646a0bfcdeb1.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹236.19/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "236.19"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹233.73/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "233.73"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "13",
+                "Price": "72.29",
+                "Item": "Glazzy - Glass Cleaner, 500 ml",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/1d9616089fc38cce7ab33ecc2e983004.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹70.85/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "70.85"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹69.41/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "69.41"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "14",
+                "Price": "346.61",
+                "Item": "Glazzy - Floor Cleaner, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/e147fe9f420bc43d9951d4c71b30ffc0.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹339.66/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "339.66"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹334.49/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "334.49"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "15",
+                "Price": "380.68",
+                "Item": "Glazzy - Toilet Cleaner, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/bdc964d05935b05c31ec7ae72c47fb0d.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹373.14/pc for 2 pcs+",
+                        "Description": "",
+                        "Price": "373.14"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹367.37/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": "367.37"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "16",
+                "Price": "232.97",
+                "Item": "Glazzy - White Phenyl, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/c3b71cec235ea6fec1b47ff488e7a0d6.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹228.39/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "228.39"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹224.83/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "224.83"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "17",
+                "Price": "92.2",
+                "Item": "Colin - Glass Cleaner, 500 ml",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/cc740835a8b08021a5f1151176ab02f5.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹90.34/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "90.34"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹89.41/pc for 6 pcs+",
+                        "Description": "",
+                        "Price": "89.41"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "18",
+                "Price": "34.83",
+                "Item": "Magic Surface - White Phenyl, 1 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/0904dbdfca83f0f2377451a9b9c60593.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹34.07/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "34.07"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹33.56/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "33.56"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "19",
+                "Price": "167.97",
+                "Item": "Magic Surface - White Phenyl, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/75973d017384a60de1746b5759678221.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹164.58/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "164.58"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹161.27/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "161.27"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "20",
+                "Price": "232.63",
+                "Item": "Tru-Shine - Toilet Cleaner, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/060d570c81660cbad76ea39c208bfe94.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹228.05/pc for 2 pcs+",
+                        "Description": "",
+                        "Price": "228.05"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹226.86/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": "226.86"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "21",
+                "Price": "135",
+                "Item": "Urxy - White Phenyl, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/19b50f74abde930522bfc2b2fdfca1f1.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹132.37/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "132.37"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹129.66/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "129.66"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "22",
+                "Price": "282.29",
+                "Item": "Tru-Shine - Floor Cleaner, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/64aabd41bad14236a2c1aeefe6683ee1.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹276.69/pc for 2 pcs+",
+                        "Description": "",
+                        "Price": "276.69"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹275.25/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": "275.25"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "23",
+                "Price": "139.32",
+                "Item": "Zavson - Sanitary Fluid (White), 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/2044f617588863bf864a9f7f25b20d54.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹136.61/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "136.61"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹134.41/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "134.41"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "24",
+                "Price": "249.83",
+                "Item": "Violet - Toilet Cleaner, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/a646cca250a2b82b78554f3184861843.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹242.2/pc for 2 pcs+",
+                        "Description": "",
+                        "Price": "242.2"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹239.75/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": "239.75"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "25",
+                "Price": "133.9",
+                "Item": "Zavson - Floor Cleaner (Soap Oil), 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/6676faa68bf04da17d1605c96a3ddf14.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹131.19/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "131.19"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹129.24/pc for 6 pcs+",
+                        "Description": "",
+                        "Price": "129.24"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "26",
+                "Price": "60.34",
+                "Item": "Detcare - Glass Cleaner, 500 ml",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/5f1eaa72a78f5869758b532a68cb06a8.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹59.15/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "59.15"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹57.88/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "57.88"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "27",
+                "Price": "80.17",
+                "Item": "Detcare - Kitchen Oil & Grease Remover, 500 ml",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/d90f3e76e039b086af23c2c26599fb38.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹78.56/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "78.56"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹76.95/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "76.95"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "28",
+                "Price": "350.17",
+                "Item": "Detcare - Floor Cleaner, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/730a23ef2254b167ef0ad5275e69a354.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹343.22/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "343.22"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹337.97/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "337.97"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "29",
+                "Price": "265.93",
+                "Item": "Detcare - Glass Cleaner, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/100035af4f40980d0cd6cfa9e4468439.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹260.59/pc for 2 pcs+",
+                        "Description": "",
+                        "Price": "260.59"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹256.61/pc for 6 pcs+",
+                        "Description": "",
+                        "Price": "256.61"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "30",
+                "Price": "250.17",
+                "Item": "Detcare - Toilet Cleaner, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/d008e853ef1f0243ce8501010131d688.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹245.17/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "245.17"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹241.36/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "241.36"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "31",
+                "Price": "132.37",
+                "Item": "Detcare - Concentrated Multipurpose Cleaner (Dilution: 20ml/Ltr), 1 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/4c46d9dba1d53c06c296f7949c9a95c3.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹129.66/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "129.66"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹125.76/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "125.76"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "32",
+                "Price": "42.46",
+                "Item": "B-Clean - Toilet Cleaner, 500 ml",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/de1e8c8c98141b8257b6b3f35a552fce.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹41.61/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "41.61"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹41.02/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "41.02"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "33",
+                "Price": "482.63",
+                "Item": "Shiva - Strong Pine Cleaner (Green Phenyl), 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/6cd989d42817e41fd9017cc125b9fcf1.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹472.97/pc for 2 pcs+",
+                        "Description": "",
+                        "Price": "472.97"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹470.59/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": "470.59"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "34",
+                "Price": "92.37",
+                "Item": "Shiva - Strong Pine Cleaner (Green Phenyl), 1 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/3a772f04f0cec854f38a39a792eed916.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹90.93/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "90.93"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹90.51/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "90.51"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "35",
+                "Price": "302.37",
+                "Item": "Super - White Phenyl, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/4cf6e5c929ceeb5b95f21e95a022c0de.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹296.36/pc for 2 pcs+",
+                        "Description": "",
+                        "Price": "296.36"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹294.83/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": "294.83"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "36",
+                "Price": "58.9",
+                "Item": "Super - White Phenyl, 1 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/4e5853298ddb755b2c92ef3a6775f5a8.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹58.05/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "58.05"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹57.71/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "57.71"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "37",
+                "Price": "306.02",
+                "Item": "Senitol - Floor Cleaner, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/4e65e544047a826849cf5907a121946b.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹300/pc for 2 pcs+",
+                        "Description": "",
+                        "Price": "300"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹295.34/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": "295.34"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "38",
+                "Price": "246.61",
+                "Item": "Voilet - Glass Cleaner, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/f8f4a510e0046794da9d82a73ec25542.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹239.24/pc for 2 pcs+",
+                        "Description": "",
+                        "Price": "239.24"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹236.78/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": "236.78"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "39",
+                "Price": "217.71",
+                "Item": "Violet - Floor Cleaner, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/b44ba9abbbec929185b59784ee76d908.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "40",
+                "Price": "35.42",
+                "Item": "White Phenyl, 1 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/903caf708e4205886bf9d0425ab8a6c8.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "41",
+                "Price": "67.88",
+                "Item": "Diversey - Glass Cleaner, 500 ml",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/bf34cc7c0500805d6b76274c7e3f43bf.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "42",
+                "Price": "64.07",
+                "Item": "Magic Surface - Glass Cleaner, 500 ml",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/420c6c8b229c567e9ec7f5f57826bb0a.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹62.8/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "62.8"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹62.54/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "62.54"
+                    },
+                ]
+
+            },
+        ]
+    },
+    {
+        "SectionName": "Cleaning Tools ",
+        "SectionOrder": "27",
+        "MenuItem": [
+            {
+                "MenuId": "1",
+                "Price": "123.33",
+                "Item": "General Purpose Duster - Multi Colour (Pack of 12)",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "at ₹10.28/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/4bb5a10282daa450d7a3e8af1134c662.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹10.07/pc for 36 pcs+",
+                        "Description": "",
+                        "Price": "10.07"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹9.76/pc for 60 pcs+",
+                        "Description": "",
+                        "Price": "9.76"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "2",
+                "Price": "175.05",
+                "Item": "Floor Duster (Pocha) (Pack of 12)",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "at ₹14.59/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/c04069ffd8c4d319e43feab5d4f7bd8f.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹14.29/pc for 24 pcs+",
+                        "Description": "",
+                        "Price": "14.29"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹14.15/pc for 48 pcs+",
+                        "Description": "",
+                        "Price": "14.15"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "3",
+                "Price": "172.88",
+                "Item": "3M Sponge Wipe (Pack of 4)",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "at ₹43.22/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/c1f6c9bde1498c0d8fb6e41b071c7cd5.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹41.93/pc for 12 pcs+",
+                        "Description": "",
+                        "Price": "41.93"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹41.06/pc for 20 pcs+",
+                        "Description": "",
+                        "Price": "41.06"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "4",
+                "Price": "35.71",
+                "Item": "Microfiber Cloth (LD) 280 GSM, Green 40 X 40 cm",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/b6504ca24cf288ba45e2ba28ab5e8653.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹35.24/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "35.24"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹34.86/pc for 15 pcs+",
+                        "Description": "",
+                        "Price": "34.86"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "5",
+                "Price": "66",
+                "Item": "Soft Broom (Pack of 1)",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/5803b2b3134780c4dbf0497f5f433018.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹64.6/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "64.6"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹64.3/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "64.3"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "6",
+                "Price": "35.8",
+                "Item": "Hard Broom (Pack of 1)",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/6af39622e14d693b385f7f27391accdb.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹35/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "35"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹34.5/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": "34.5"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "7",
+                "Price": "156.27",
+                "Item": "Floor Commercial Wiper 21 - Yellow, 1 Pc",
+    "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/a654267ddec92689a9d42bddfeae9020.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹153.22/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "153.22"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹150/pc for 6 pcs+",
+                        "Description": "",
+                        "Price": "150"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "8",
+                "Price": "74.5",
+                "Item": "909 - Soft Broom, 1 Piece",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/653a8cf55bc91b95772dcb1088d2fb88.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹72.3/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "72.3"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹70.8/pc for 6 pcs+",
+                        "Description": "",
+                        "Price": "70.8"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "9",
+                "Price": "48.39",
+                "Item": "Kent Mop, Full Set, 1 Pc",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/9d1366eba74ac48b50b0264f1b5de28b.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹47.29/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "47.29"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹46.86/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "46.86"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "10",
+                "Price": "129.14",
+                "Item": "Checked Cloth (Pack of 12)",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "at ₹10.76/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/acf9f11c-6b5f-45d9-9dbe-dca878428fd5_CheckedClothPackof12.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹10.55/pc for 36 pcs+",
+                        "Description": "",
+                        "Price": "10.55"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹10.39/pc for 60 pcs+",
+                        "Description": "",
+                        "Price": "10.39"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "11",
+                "Price": "175.43",
+                "Item": "Mop Cloth (Pack of 12)",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "at ₹14.62/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/85375a89-e0ed-4b13-94ed-f5f9d0985beb_MopClothPackof12.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹14.33/pc for 36 pcs+",
+                        "Description": "",
+                        "Price": "14.33"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹14.04/pc for 60 pcs+",
+                        "Description": "",
+                        "Price": "14.04"
+                    },
+                ]
+
+            },
+        ]
+    },
+    {
+        "SectionName": "Consumables ",
+        "SectionOrder": "28",
+        "MenuItem": [
+            {
+                "MenuId": "1",
+                "Price": "216.61",
+                "Item": "Wintex - Kitchen Paper Roll, 1.2 Kg",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/37a84b0a5b0b3da9d19fedf815cdc216.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹212.29/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "212.29"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹207.97/pc for 6 pcs+",
+                        "Description": "",
+                        "Price": "207.97"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "2",
+                "Price": "32.29",
+                "Item": "Standard Billing/KOT (Printer) Roll - 48 GSM, Width - 78 mm",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/2b892bd160cb5822f1e10d84421ceb3e.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹31.27/pc for 10 pcs+",
+                        "Description": "",
+                        "Price": "31.27"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹30.68/pc for 30 pcs+",
+                        "Description": "",
+                        "Price": "30.68"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "3",
+                "Price": "555.59",
+                "Item": "Black Garbage Bag - Large, 42x45 Inch, 5 Kg",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/7f47799ecf87d678c1ae891fa24ae2e8.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹544.49/pack for 2 packs+",
+                        "Description": "",
+                        "Price": "544.49"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹538.9/pack for 4 packs+",
+                        "Description": "",
+                        "Price": "538.9"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "4",
+                "Price": "23.56",
+                "Item": "Disposable Plastic Gloves (Pack of 100)",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "at ₹0.24/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/8bde1555b926877c6fd3900a18cff1aa.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹0.23/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "0.23"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹0.23/pc for 600 pcs+",
+                        "Description": "",
+                        "Price": "0.23"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "5",
+                "Price": "500",
+                "Item": "Black Garbage Bag - Small, 32x42 Inch, 5 Kg",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/d9a3cdfa4bd1b91c61a51696f768a18c.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹485/pack for 2 packs+",
+                        "Description": "",
+                        "Price": "485"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹475/pack for 4 packs+",
+                        "Description": "",
+                        "Price": "475"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "6",
+                "Price": "278.21",
+                "Item": "Latex Gloves (Pack of 100)",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "at ₹2.78/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/8e2bc17154f614a9b819ad01f1dc1b74.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹2.7/pc for 200 pcs+",
+                        "Description": "",
+                        "Price": "2.7"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹2.64/pc for 400 pcs+",
+                        "Description": "",
+                        "Price": "2.64"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "7",
+                "Price": "548.81",
+                "Item": "Green Garbage Bag - Large, 42x45 Inch, 5 Kg",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/b100d33fb8067bbc3b5d97093a4ce59b.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹537.8/pack for 5 packs+",
+                        "Description": "",
+                        "Price": "537.8"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹526.86/pack for 10 packs+",
+                        "Description": "",
+                        "Price": "526.86"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "8",
+                "Price": "548.81",
+                "Item": "Blue Garbage Bag - Large, 42x45 Inch, 5 Kg",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/11d81a50ee189e4973a2bc51bb2138aa.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹537.8/pack for 5 packs+",
+                        "Description": "",
+                        "Price": "537.8"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹526.86/pack for 10 packs+",
+                        "Description": "",
+                        "Price": "526.86"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "9",
+                "Price": "92.54",
+                "Item": "Wintex - Toilet Paper Roll 2 Ply (Pack of 6)",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "at ₹15.42/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/6387933b059a66ff7cfb3a5caff3ec9d.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹15.11/pc for 18 pcs+",
+                        "Description": "",
+                        "Price": "15.11"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹14.8/pc for 36 pcs+",
+                        "Description": "",
+                        "Price": "14.8"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "10",
+                "Price": "77.71",
+                "Item": "Pizza Stools (Pack of 100)",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "at ₹0.78/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/2747ee35979b2d1d37b090e0237a2923.jfif",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹0.77/pc for 400 pcs+",
+                        "Description": "",
+                        "Price": "0.77"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹0.76/pc for 800 pcs+",
+                        "Description": "",
+                        "Price": "0.76"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "11",
+                "Price": "188.9",
+                "Item": "Hit Insect Killer (Cockroach Spray), 400 ml",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/cd08c81ba57aaf4e2389f5dee1f4439f.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹185.17/pc for 2 pcs+",
+                        "Description": "",
+                        "Price": "185.17"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹183.22/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": "183.22"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "12",
+                "Price": "188.05",
+                "Item": "Hit Insect Killer (Mosquito Spray), 400 ml",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/fc7c8b13f32b9b85787594956192c1b6.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹186.19/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "186.19"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹184.32/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "184.32"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "13",
+                "Price": "170",
+                "Item": "Premium Billing/KOT (Printer) Roll, Width - 78 mm (Pack of 5)",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "at ₹34/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/cdecce3268c3647c2f357eaf2bd49114.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹31.27/pc for 10 pcs+",
+                        "Description": "",
+                        "Price": "31.27"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹30.69/pc for 30 pcs+",
+                        "Description": "",
+                        "Price": "30.69"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "14",
+                "Price": "40.93",
+                "Item": "Housekeeping Rubber Gloves (Orange) 1 Pair",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/b379b463a2f216cc93432ab890c30be2.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹40.08/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "40.08"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹39.24/pc for 8 pcs+",
+                        "Description": "",
+                        "Price": "39.24"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "15",
+                "Price": "548.81",
+                "Item": "Green Garbage Bag - Small, 32x42 Inch, 5 Kg",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/6a5eac6202945fbaa2aabe8d620f54a3.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹537.8/pack for 5 packs+",
+                        "Description": "",
+                        "Price": "537.8"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹526.86/pack for 10 packs+",
+                        "Description": "",
+                        "Price": "526.86"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "16",
+                "Price": "548.81",
+                "Item": "Blue Garbage Bag - Small, 32x42 Inch, 5 Kg",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/d37aab7c9c62ac2c3e4430976da2cf79.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹537.8/pack for 5 packs+",
+                        "Description": "",
+                        "Price": "537.8"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹526.86/pack for 10 packs+",
+                        "Description": "",
+                        "Price": "526.86"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "17",
+                "Price": "125.05",
+                "Item": "Disposable 3 Ply Face Mask (With Nose Pin) Ultrasonic Stitching (Pack of 100)",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "at ₹1.25/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/0d2fdf2325724037c9aa9553cd00ea0d.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹1.23/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "1.23"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹1.2/pc for 600 pcs+",
+                        "Description": "",
+                        "Price": "1.2"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "18",
+                "Price": "57.29",
+                "Item": "Black Garbage Bag Pack (Large)",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/2bcbfc76c331cb94ff8a660068da05b3.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹56.36/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "56.36"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹55.85/pc for 6 pcs+",
+                        "Description": "",
+                        "Price": "55.85"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "19",
+                "Price": "563.73",
+                "Item": "Black Garbage Bag (Small), 5 Kg (Approx 60 Units)",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/4388135c651a699a4f6e13e71d9a38ac.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹552.46/pack for 2 packs+",
+                        "Description": "",
+                        "Price": "552.46"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹541.19/pack for 4 packs+",
+                        "Description": "",
+                        "Price": "541.19"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "20",
+                "Price": "68.31",
+                "Item": "Plastic Floor Wiper, 1 Pc",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/796d63e9af60a743b58d2a9d92eb653e.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹66.95/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": "66.95"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹66.19/pc for 8 pcs+",
+                        "Description": "",
+                        "Price": "66.19"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "21",
+                "Price": "23.56",
+                "Item": "Dustpan, 1 Pc",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/3a3b04a98a4063f8a3948fae15dce1a1.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹23.14/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "23.14"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹22.88/pc for 10 pcs+",
+                        "Description": "",
+                        "Price": "22.88"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "22",
+                "Price": "182.37",
+                "Item": "Origami - Kitchen Paper Roll, 1.1 Kg",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/6346fe733714ea7dcf5ef0130f7f68f3.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹178.73/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "178.73"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹176.95/pc for 8 pcs+",
+                        "Description": "",
+                        "Price": "176.95"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "23",
+                "Price": "132.37",
+                "Item": "Origami - Toilet Paper Roll, 2 Ply, 200 Pulls (Pack of 10)",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "at ₹13.24/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/34d3405d59e8aa564f6c618efddb9415.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹13.11/pc for 30 pcs+",
+                        "Description": "",
+                        "Price": "13.11"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹12.98/pc for 50 pcs+",
+                        "Description": "",
+                        "Price": "12.98"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "24",
+                "Price": "81.95",
+                "Item": "Lautus - Toilet Tissue Roll, 2 Ply 300 Pulls, (Pack of 4)",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "at ₹20.49/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/4d11c64c470e989950d7451a99119935.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹19.87/pc for 12 pcs+",
+                        "Description": "",
+                        "Price": "19.87"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹19.47/pc for 24 pcs+",
+                        "Description": "",
+                        "Price": "19.47"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "25",
+                "Price": "29.32",
+                "Item": "Disposable Plastic Gloves, (Pack of 100)",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "at ₹0.29/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/c82cbd01c3bedb07c94b688d64cafdef.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹0.29/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "0.29"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹0.28/pc for 500 pcs+",
+                        "Description": "",
+                        "Price": "0.28"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "26",
+                "Price": "188.39",
+                "Item": "Green Garbage Bag, 30*50 (Pack of 7)",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "at ₹26.91/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/55bd35dbfd7b0cb6e1d422e06db89436.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹26.36/pc for 21 pcs+",
+                        "Description": "",
+                        "Price": "26.36"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹26.09/pc for 35 pcs+",
+                        "Description": "",
+                        "Price": "26.09"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "27",
+                "Price": "91.44",
+                "Item": "Black Garbage Bag, 1 Kg (Pack of 12 Approx)",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "at ₹9.14/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/b8c795760cb7cc917643ca98985bb0a4.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹9.01/pc for 30 pcs+",
+                        "Description": "",
+                        "Price": "9.01"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹8.97/pc for 60 pcs+",
+                        "Description": "",
+                        "Price": "8.97"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "28",
+                "Price": "138.47",
+                "Item": "Veg Stickers Sheet (1000 Stickers)",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "at ₹13.85/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/2f760726d4af8264e7fafcfd1ee3d81d.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹13.43/pc for 20 pcs+",
+                        "Description": "",
+                        "Price": "13.43"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹13.02/pc for 50 pcs+",
+                        "Description": "",
+                        "Price": "13.02"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "29",
+                "Price": "138.47",
+                "Item": "Non-Veg Stickers (1000 Stickers)",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "at ₹13.85/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/f0cdc323d0ed44b71fa70187e5a5a8ec.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹13.43/pc for 20 pcs+",
+                        "Description": "",
+                        "Price": "13.43"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹13.02/pc for 50 pcs+",
+                        "Description": "",
+                        "Price": "13.02"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "30",
+                "Price": "79.75",
+                "Item": "Black Garbage Bag Pack (Extra Large)",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/37f4dc82ebebf8bd5c7abd953086fdba.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹78.22/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "78.22"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹76.61/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "76.61"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "31",
+                "Price": "44.32",
+                "Item": "Printer Roll (Bill Roll), Width: 78 mm, Length: 40 m, 50 GSM",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/10a4032b41595d3801d5de79c9652473.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "32",
+                "Price": "37.05",
+                "Item": "Microfiber Cloth - LD, 280 GSM, 40X40 cm",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/75cb91ebef6ddbb236b383bacc05d91e.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "33",
+                "Price": "97.81",
+                "Item": "Disposable 3 Ply Face Mask With Nose Pin (Pack of 100)",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "at ₹0.98/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/492dd63a3ce708ced4ac8eb2474ba228.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "34",
+                "Price": "115.09",
+                "Item": "Veg Stickers Sheet, 600 Stickers Per Sheet (1 Sheet)",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/4532701d27de3c9eda27189c63903577.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "35",
+                "Price": "295.59",
+                "Item": "Nitrile Gloves Medium Size, Blue Powder Free (Pack of 100)",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "at ₹2.96/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/1fa82ee17f894086520e42ad1fbcf9c1.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "36",
+                "Price": "114.07",
+                "Item": "Godrej - Aer Spray, 1 Piece (Any One Fragrance Bottle)",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/a8cf1dedcd5176b7703715775ce363a8.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "37",
+                "Price": "115.09",
+                "Item": "Non-Veg Sticker Sheet, 600 Stickers Per Sheet (1 Sheet)",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/ce6ed63e55deefe397384a4f2c57546a.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "38",
+                "Price": "789.55",
+                "Item": "Nitrile Gloves, Powder Free, Color: Blue, Size: Large (Pack of 100)",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "at ₹7.9/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/18592016f95724b906001b6888b3164a.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "39",
+                "Price": "66.95",
+                "Item": "Scrub Pad - Green, 6x4 Inch (Pack of 10)",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "at ₹6.7/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/3fc7baed0379a65b8d14fd5ad31430c7.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "40",
+                "Price": "27.71",
+                "Item": "Toilet Brush, 1 Pc",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/a261e95d2da3b1fcc45f6d8f5fbe028d.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+        ]
+    },
+    {
+        "SectionName": "Dishwash & Detergents ",
+        "SectionOrder": "29",
+        "MenuItem": [
+            {
+                "MenuId": "1",
+                "Price": "328.73",
+                "Item": "Eco Kleen - Lemon Dishwash Liquid, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/75ceb004008e8a335db10f1a5255c21c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹325.42/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "325.42"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹323.81/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "323.81"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "2",
+                "Price": "59.24",
+                "Item": "Fena - Detergent Powder, 1 Kg",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/47c040c760d907f4d74146cf816a97f5.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹58.9/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "58.9"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹58.64/pc for 10 pcs+",
+                        "Description": "",
+                        "Price": "58.64"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "3",
+                "Price": "60.68",
+                "Item": "Kleen - Detergent Powder, 1 Kg",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/d321cc79508c8d3fc29df9587d61d2c9.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹60.34/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "60.34"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹60.08/pc for 10 pcs+",
+                        "Description": "",
+                        "Price": "60.08"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "4",
+                "Price": "18.31",
+                "Item": "NIP - Washing Detergent Powder (600 - 700 gm)",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/0915150639fcca111546d007f353aa39.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹17.88/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "17.88"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹17.63/pc for 10 pcs+",
+                        "Description": "",
+                        "Price": "17.63"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "5",
+                "Price": "81.27",
+                "Item": "Stainless Steel Multipurpose Scrubber (Pack of 10)",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "at ₹8.13/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/b935f6ed9937a1180d429702e07f471e.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹7.88/pc for 30 pcs+",
+                        "Description": "",
+                        "Price": "7.88"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹7.72/pc for 50 pcs+",
+                        "Description": "",
+                        "Price": "7.72"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "6",
+                "Price": "48.64",
+                "Item": "Kleen - Dishwash Tub, 500 gm",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/68e7cc88c8e02de55a40f45f95bb9862.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹47.88/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "47.88"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹47.37/pc for 10 pcs+",
+                        "Description": "",
+                        "Price": "47.37"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "7",
+                "Price": "16.78",
+                "Item": "Kleen - Detergent Bar, 200 gm",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/8bebe68ebf657fba07a13298dc24542a.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹16.61/pc for 7 pcs+",
+                        "Description": "",
+                        "Price": "16.61"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹16.36/pc for 14 pcs+",
+                        "Description": "",
+                        "Price": "16.36"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "8",
+                "Price": "117.12",
+                "Item": "Scrub Pad - Green, 6x4 Inch (Pack of 12)",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/42abc4038ebe8a742e76186bef715eea.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹114.75/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "114.75"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹113.56/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "113.56"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "9",
+                "Price": "7.03",
+                "Item": "3M Scotch Brite - Scrub Pad",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/ef43520f5c0d13c12994860d7c505821.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹6.86/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "6.86"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹6.78/pc for 15 pcs+",
+                        "Description": "",
+                        "Price": "6.78"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "10",
+                "Price": "80",
+                "Item": "Kitchen Wipe (Pack of 3)",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "at ₹26.67/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/5cd5f2c9e0eccc99c225a818b85f60e3.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹26.13/pc for 6 pcs+",
+                        "Description": "",
+                        "Price": "26.13"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹25.99/pc for 15 pcs+",
+                        "Description": "",
+                        "Price": "25.99"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "11",
+                "Price": "50.34",
+                "Item": "Again - Dishwash Bar, 200 gm (Pack of 3)",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "at ₹16.78/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/b112ab4a9098aaedf7afc0599c8811a2.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹16.47/pc for 30 pcs+",
+                        "Description": "",
+                        "Price": "16.47"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹16.13/pc for 60 pcs+",
+                        "Description": "",
+                        "Price": "16.13"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "12",
+                "Price": "328.73",
+                "Item": "Savemore - Lemon Dishwash Liquid, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/ccb680d058d68fc714c09301954f4c3f.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹325.51/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "325.51"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹323.81/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "323.81"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "13",
+                "Price": "48.64",
+                "Item": "Savemore - Dishwash Tub, 500 gm",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/9d51173c03308ad4495f0cf6e4408d13.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹47.97/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": "47.97"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹47.46/pc for 10 pcs+",
+                        "Description": "",
+                        "Price": "47.46"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "14",
+                "Price": "8.05",
+                "Item": "Pride - Detergent Bar, 175 gm",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/19f7edeea9c48070b19393352edbb4af.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹7.97/pc for 20 pcs+",
+                        "Description": "",
+                        "Price": "7.97"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "15",
+                "Price": "8.05",
+                "Item": "Pride - Dishwash Bar, 200 gm",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/6d889783d184ba49211fbac9c9bd19bd.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹7.97/pc for 20 pcs+",
+                        "Description": "",
+                        "Price": "7.97"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "16",
+                "Price": "36.36",
+                "Item": "Glazzy - Dishwash Bar, 700 gm",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/b6c02893b95cfd9eacf6997f93ad5f7e.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹35.59/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": "35.59"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹35.08/pc for 9 pcs+",
+                        "Description": "",
+                        "Price": "35.08"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "17",
+                "Price": "91.78",
+                "Item": "Steel Scrubber (Pack of 12)",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "at ₹7.65/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/c18444ea420973d012c555912535e658.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹7.5/pc for 36 pcs+",
+                        "Description": "",
+                        "Price": "7.5"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹7.35/pc for 60 pcs+",
+                        "Description": "",
+                        "Price": "7.35"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "18",
+                "Price": "49.75",
+                "Item": "Janta - Detergent Powder, 1 Kg",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/6d034d4c0f59f3bced235efde64bcd8c.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹48.81/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "48.81"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹48.56/pc for 12 pcs+",
+                        "Description": "",
+                        "Price": "48.56"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "19",
+                "Price": "316.69",
+                "Item": "Ayuregen - Dishwash, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/f2901fa1b3ea9967f0f8e7157f19a25e.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹310.42/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "310.42"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹308.81/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "308.81"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "20",
+                "Price": "35.42",
+                "Item": "Steelo Brite - Scrub Pad (Pack of 5)",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "at ₹7.08/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/b81968f208581c2368097c13567e92e0.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹6.97/pc for 15 pcs+",
+                        "Description": "",
+                        "Price": "6.97"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹6.8/pc for 45 pcs+",
+                        "Description": "",
+                        "Price": "6.8"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "21",
+                "Price": "346.61",
+                "Item": "Glazzy - Liquid Dishwash, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/2e9981ca33edcd3975b31c3a1fc186e4.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹339.75/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "339.75"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹334.49/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "334.49"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "22",
+                "Price": "255.68",
+                "Item": "Folex - Lemon Dishwash Liquid, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/8da558d6e52e40600408d07c6b034fef.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹251.86/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "251.86"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹250.51/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "250.51"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "23",
+                "Price": "33.64",
+                "Item": "Birla - Dish Wash Bar, 500 gm",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/2487fc99e6dabf22167652d6f0ab3aae.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹32.97/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "32.97"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹32.46/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "32.46"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "24",
+                "Price": "155.85",
+                "Item": "Angel - Dish Wash Liquid, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/4bff8e06ceafaf2d1056b7f2dde5c4f6.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹152.8/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "152.8"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹150.42/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "150.42"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "25",
+                "Price": "37.71",
+                "Item": "One Wash - Detergent Powder, 1 Kg",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/1b40a3b4fa0dba297ac0b7adb80b6ce0.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹37.03/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "37.03"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹36.61/pc for 10 pcs+",
+                        "Description": "",
+                        "Price": "36.61"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "26",
+                "Price": "51.61",
+                "Item": "Nirma - Detergent Powder, 1 Kg",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/a1c39ef9ef67b092b4b427827ed70e5f.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹51.36/pc for 10 pcs+",
+                        "Description": "",
+                        "Price": "51.36"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "27",
+                "Price": "26.19",
+                "Item": "Dishwash Bar, 300 gm",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/a48672114bc144d7490611e4cc5f643d.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹25.68/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "25.68"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹25.51/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "25.51"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "28",
+                "Price": "84.83",
+                "Item": "3M Scotch Brite - Scrub Pad 10 cm X 15 cm, (Pack of 4)",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "at ₹21.21/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/09095875d9b46273fe3fc1312cd84305.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹20.76/pc for 16 pcs+",
+                        "Description": "",
+                        "Price": "20.76"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹20.13/pc for 24 pcs+",
+                        "Description": "",
+                        "Price": "20.13"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "29",
+                "Price": "357.29",
+                "Item": "Detcare - Cloth Wash Liquid, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/db96141e08c56edc78b1551a9bffaa83.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹353.73/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "353.73"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹351.95/pc for 7 pcs+",
+                        "Description": "",
+                        "Price": "351.95"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "30",
+                "Price": "358.47",
+                "Item": "Detcare - Dishwash, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/5bc63be9038beb9b3484c6f80f2b7650.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹351.27/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "351.27"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹345.93/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "345.93"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "31",
+                "Price": "293.56",
+                "Item": "Vesso - Lemon Dishwash Liquid, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/302a1de88021a2f1a16cd1782693eb2e.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹289.15/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "289.15"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹287.71/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "287.71"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "32",
+                "Price": "37.97",
+                "Item": "SVC - Detergent Powder, 1 Kg",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/bb400f047ad03e8b91f715851424df2a.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹37.37/kg for 6 kgs+",
+                        "Description": "",
+                        "Price": "37.37"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹37.2/kg for 10 kgs+",
+                        "Description": "",
+                        "Price": "37.2"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "33",
+                "Price": "8.47",
+                "Item": "Wheel - Detergent Bar, 200 gm",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/359668d6a38e450b707ed1f0227e8a2c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "34",
+                "Price": "272.37",
+                "Item": "Voilet - Lemon Dishwash Liquid, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/f3b148aae98d5fcf90fde64da9c608bc.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "35",
+                "Price": "60.51",
+                "Item": "Magic Surface - Lemon Dishwash Liquid, 500 ml",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/638308b304361a8666668e2bfb87d174.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "36",
+                "Price": "25.42",
+                "Item": "Vim - Dishwash Bar, 100 gm (Pack of 4)",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "at ₹6.36/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/3781756880dc61f6863df1e6d73b2d18.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "37",
+                "Price": "17.37",
+                "Item": "Clean Brite - Scrub Pad",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/0f3a298316501b0d9a612e90c2c25f3c.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹17.03/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": "17.03"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹16.78/pc for 10 pcs+",
+                        "Description": "",
+                        "Price": "16.78"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "38",
+                "Price": "14.24",
+                "Item": "Sabena Dishwash Powder, 450 gm Pouch",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/39c8157366a3ed5bbe6d869d4b215725.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹13.9/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "13.9"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹13.81/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "13.81"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "39",
+                "Price": "64.83",
+                "Item": "Active Wheel - Detergent Powder, 1 Kg",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/f160a4fe028205db444b12d2bc5c29ac.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹64.15/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "64.15"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹63.9/pc for 9 pcs+",
+                        "Description": "",
+                        "Price": "63.9"
+                    },
+                ]
+
+            },
+        ]
+    },
+    {
+        "SectionName": "Handwash & Sanitizers ",
+        "SectionOrder": "30",
+        "MenuItem": [
+            {
+                "MenuId": "1",
+                "Price": "331.36",
+                "Item": "Eco Kleen - Handwash, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/fdad28d45119c6e91658dba3c7ade91e.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹326.36/pc for 2 pcs+",
+                        "Description": "",
+                        "Price": "326.36"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹323.05/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": "323.05"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "2",
+                "Price": "287.54",
+                "Item": "Angel - Handwash, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/44e38aa568d43253456dd1d2e5affc60.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹281.86/pc for 2 pcs+",
+                        "Description": "",
+                        "Price": "281.86"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹277.54/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": "277.54"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "3",
+                "Price": "654.83",
+                "Item": "Air First - Hand Sanitizer, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "at ₹130.97/ltr",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/f2986ba4d07dd11c20e60f30734882ff.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹128.34/ltr for 10 ltrs+",
+                        "Description": "",
+                        "Price": "128.34"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹127.03/ltr for 20 ltrs+",
+                        "Description": "",
+                        "Price": "127.03"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "4",
+                "Price": "324.83",
+                "Item": "Ayurgen - Lemon Handwash, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/de4e7369fadce52fee1cfc474c980867.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹315.08/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "315.08"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹311.78/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "311.78"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "5",
+                "Price": "346.61",
+                "Item": "Glazzy - Rose Handwash, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/2b3fadb9ff117fed7cbeeea07df04bc5.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹339.66/pc for 2 pcs+",
+                        "Description": "",
+                        "Price": "339.66"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹334.49/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": "334.49"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "6",
+                "Price": "213.56",
+                "Item": "Folex - Rose Handwash, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/c25175464a9ac0942b1c7e7b8f4ce952.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹209.32/pc for 2 pcs+",
+                        "Description": "",
+                        "Price": "209.32"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹206.1/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": "206.1"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "7",
+                "Price": "361.27",
+                "Item": "Detcare - Strawberry Handwash, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/f326b3b817fedb254d6bd5399072b84f.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹354.07/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "354.07"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹348.64/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "348.64"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "8",
+                "Price": "302.37",
+                "Item": "CleanSoap - Rose Handwash, 5 L Can",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/78f9d6c53e15e11d2d7d42d5a86430e9.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹296.36/pc for 2 pcs+",
+                        "Description": "",
+                        "Price": "296.36"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹294.83/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": "294.83"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "9",
+                "Price": "63.22",
+                "Item": "CleanSoap - Rose Handwash, 1 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/c44462baada7b8a42b707ee28c1d0be2.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹61.95/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "61.95"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹60.68/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "60.68"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "10",
+                "Price": "61.69",
+                "Item": "CleanSoap - Lavender Handwash, 1 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/792597b3101d8d5b555f3fa117202c3a.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "11",
+                "Price": "308.64",
+                "Item": "Violet - Rose Handwash, 5 L",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/06edc75e9d01f625764dc7f0e4f9726c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "12",
+                "Price": "148.81",
+                "Item": "Meru Care - Hand Sanitizer, 500 ml",
+                "CategoryName": "Cleaning & Consumables",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/fbd2d86001da93e1658a3e16d0659bdb.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+        ]
+    },
 ];
 var Categories = [
 ];
@@ -33042,576 +36909,3 @@ var RecommendedItemList = [
         "Description2": ""
     },
 ];
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
