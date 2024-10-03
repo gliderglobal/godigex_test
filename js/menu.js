@@ -14493,6 +14493,18543 @@ var MenuList = [
             },
         ]
     },
+    {
+        "SectionName": "Chilli, Turmeric & Coriander Powder ",
+        "SectionOrder": "18",
+        "MenuItem": [
+            {
+                "MenuId": "1",
+                "Price": "251.52",
+                "Item": "Three Mango - Mirch Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/b6985e94126684db962a684f60826541.webp",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹247.81/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹244/pack for 13 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "2",
+                "Price": "465.43",
+                "Item": "MDH - Deggi Mirch, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/52ae541604f9535028b164b6302ae964.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹451.43/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹432.86/pack for 9 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "3",
+                "Price": "26.29",
+                "Item": "MDH - Coriander/Dhaniya Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/7c94477b-ade6-46fc-80b5-46021c721be2_MDHCorianderDhaniyaPowder100g.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹25.43/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹24.67/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "4",
+                "Price": "236",
+                "Item": "Eastmade - Turmeric (Haldi) Powder, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/066ce0f51d836a97695c334830b26910.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹231.33/kg for 3 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹226.57/kg for 7 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "5",
+                "Price": "28",
+                "Item": "MDH - Haldi Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/63331eb629500b24f4f3fc7fd89b5e65.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹27.14/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹26.29/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "6",
+                "Price": "253.81",
+                "Item": "Eagle - Red Chilli Powder, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/751b682ed046cf61b9cf579013e7d836.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹250/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹246.19/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "7",
+                "Price": "887.14",
+                "Item": "MDH - Deggi Mirch, 100 gm (Pack of 10)",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "at ₹88.71/pc",
+                "ImageUrl": "img/pics/26ea7f06f2da3f3eaee5e5570855fe34.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "8",
+                "Price": "140.1",
+                "Item": "Eastmade - Coriander (Dhania) Powder, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/916345133d74585bdeb210088abecb6e.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "9",
+                "Price": "91.05",
+                "Item": "MDH - Kashmiri Chilli Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/8a92b213f7278e05311ce5bf58c93395.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "10",
+                "Price": "54.67",
+                "Item": "Eagle - Yellow Chilli Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/442c6b95ef9b0bc8988cf41e047e12e2.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "11",
+                "Price": "160.38",
+                "Item": "MDH - Coriander / Dhaniya Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/mdhCorianderPowder.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "12",
+                "Price": "124.67",
+                "Item": "ES - Coriander Powder (Dhaniya Powder), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/296da2200cd0e51eaa17dc482801cb87.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "13",
+                "Price": "124.67",
+                "Item": "ES - Coriander Powder (Dhaniya Powder), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/296da2200cd0e51eaa17dc482801cb87.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "14",
+                "Price": "162.48",
+                "Item": "MDH - Haldi Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/5b98cd316c4d0c8d61b02492a51b6d52.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "15",
+                "Price": "235.81",
+                "Item": "Eastmade - Chilli (Mirch) Powder, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/139cc2ba53765ca93fbb16bc860c93dd.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹232.19/kg for 3 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹228.76/kg for 5 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "16",
+                "Price": "32.1",
+                "Item": "Eagle - Red Chilli (Lal Mirch) Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/0c3139b71a0c07843ec9c11fac708231.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹31.14/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹30.19/pc for 8 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "17",
+                "Price": "65.62",
+                "Item": "Eagle - Kashmiri Mirch Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/ded8eeff0c0d2065d13b31683fbdba36.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹63.9/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹62.29/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "18",
+                "Price": "65.62",
+                "Item": "Eagle - Kashmiri Mirch Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/ded8eeff0c0d2065d13b31683fbdba36.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹63.9/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹62.29/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "19",
+                "Price": "285.05",
+                "Item": "Eagle - Special Kutti Mirch, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/c5cfb170a837195bfbd331745251292f.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹280.76/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹276.48/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "20",
+                "Price": "17.81",
+                "Item": "Eastmade - Coriander Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/5da9634f3e8f1f48cc75a5eb8ec4bbf1.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹17.24/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹16.67/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "21",
+                "Price": "47.14",
+                "Item": "MDH - Lal Mirch Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/35da32ab82ccce2ff6530ee669eb1b8a.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "22",
+                "Price": "208",
+                "Item": " ES - Red Chilli Powder, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/58f69b610a878ceaf7fa5357d538e9c8.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹204.76/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹201.71/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "23",
+                "Price": "27.14",
+                "Item": "Eastmade - Turmeric Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/965431aa534d0292f465b3d3e4ac503e.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹26.38/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹21.71/pack for 20 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "24",
+                "Price": "238.57",
+                "Item": "MDH - Lal Mirchi Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/b0388805ff1f561d22ac759b297df1a1.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹232.67/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹225.52/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "25",
+                "Price": "23.24",
+                "Item": "ES - Turmeric Powder (Haldi), 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/cf2da5c16a5e68d6cf3ea8493490bde7.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹22.67/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹22/pc for 8 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "26",
+                "Price": "202",
+                "Item": "ES - Turmeric Powder (Haldi), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/556592279e9956fa649a6b2b68d5735d.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹198.95/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹195.9/pc for 8 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "27",
+                "Price": "168.19",
+                "Item": "Eagle - Coriander Powder, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/a2d879a4b424213d0dae0cae0cac49de.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "28",
+                "Price": "592.19",
+                "Item": "Catch - Kashmiri Mirch Powder, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/a530547cd3f5636008174f8ad8be4f8f.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "29",
+                "Price": "318",
+                "Item": "Maharaj Choice - Red Chilly Powder, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/819890b64f4d29011565737e106c51d7.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "30",
+                "Price": "189.43",
+                "Item": "Eastmade - Kashmiri Chilli Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/285f6079558d83412ebbf8762a5f00f5.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "31",
+                "Price": "28.76",
+                "Item": "Eagle - Turmeric Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/828bc2ac23f8d12e3acc0f3465905bd9.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "32",
+                "Price": "270.76",
+                "Item": "Eagle - Kashmiri Mirch Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/9bebd8d95d7b3405e38daa85efb14692.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹266.67/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹262.67/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "33",
+                "Price": "125.05",
+                "Item": "Dhani - Coriander (Dhania) Powder, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/a1243ef05de742bfec74c3b2934a14cb.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹122.57/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹120/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "34",
+                "Price": "245.05",
+                "Item": "Eagle - Turmeric Powder, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/0f185aa17b4ef6dc6d88f5225d403ecc.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "35",
+                "Price": "291.24",
+                "Item": "Maharaj Choice - Turmeric Powder, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/19658174ee5d656ad66329dd90a9b9b6.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "36",
+                "Price": "15.33",
+                "Item": "ES - Coriander Powder (Dhaniya Powder), 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/73755f925466e101845c1f08d6ded83d.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "37",
+                "Price": "19.81",
+                "Item": "Eagle - Coriander (Dhaniya) Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/e1b2ea28c02884d527bb8a4fef123033.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "38",
+                "Price": "26.29",
+                "Item": "Eastmade - Chilli (Mirch) Powder, 100 gm Pack",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/4eb98a5eb9dc134667bf03b4f16f94fe.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹25.52/pack for 7 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹24.76/pack for 15 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "39",
+                "Price": "24.19",
+                "Item": "ES - Red Chilli Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/e741f40fce47ebdc7a522b3f6e3fb576.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹23.62/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹23.24/pc for 7 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "40",
+                "Price": "24.19",
+                "Item": "ES - Red Chilli Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/e741f40fce47ebdc7a522b3f6e3fb576.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹23.62/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹23.24/pc for 7 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "41",
+                "Price": "85.81",
+                "Item": "Everest - Kashmirilal Chilli Powder, 100 gm Box",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/e1494c4de2ad157a479dc96f4c601a0c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "42",
+                "Price": "58",
+                "Item": "Minar - Yellow Chilli Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/9a461be66d2ee70f843ff41bb29fc092.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "43",
+                "Price": "186",
+                "Item": "Minar - Dhania (Coriander) Powder, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/8bde21135fc3918fe375e4a1cb3fbf71.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "44",
+                "Price": "240.86",
+                "Item": "Minar - Red Chilli Powder (Mirch Powder), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/18a520cbff680766ad0e7d9a073333cd.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "45",
+                "Price": "259.62",
+                "Item": "Dhani - Red Chilli (Lal Mirch) Powder, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/c000033396091a863001e9793e5b5970.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "46",
+                "Price": "158.19",
+                "Item": "ES - Kashmiri Mirch Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/35cdf3ec8c03e8b3b3e788258c7c399f.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "47",
+                "Price": "228.67",
+                "Item": "Everest - Tikhalal Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/4423532bb2121119dfb0a35e416f6ca1.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹221.81/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹214.95/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "48",
+                "Price": "32.76",
+                "Item": "ES - Kashmiri Mirch Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/66cb68dba9c4fc110887f48787a8a959.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "49",
+                "Price": "1162.19",
+                "Item": "Eastmade - Chilli (Mirch) Powder, 5 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "at ₹232.44/kg",
+                "ImageUrl": "img/pics/87c018038774010f3cef39d1cb4e2a8b.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹228.95/kg for 15 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹225.47/kg for 25 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "50",
+                "Price": "180.76",
+                "Item": "Everest - Turmeric Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/481ff2162097e0c88fe6411897649712.webp",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹176.19/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹171.71/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "51",
+                "Price": "417.9",
+                "Item": "Everest - Kashmiri Lal Chilli Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/331a1581814dd7d71de5dc3ed760c8a0.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹403.24/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹390.76/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "52",
+                "Price": "44.76",
+                "Item": "Eastmade - Kashmiri Chilli Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/07521334f04f799355053f3aa39a6d71.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹43.62/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹42.57/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "53",
+                "Price": "228.67",
+                "Item": "Everest - Kutilal, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/03ac34f0bfe92402976a8f279b9d5ff5.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹220.67/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹216.19/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "54",
+                "Price": "1144.57",
+                "Item": "Eastmade - Turmeric (Haldi) Powder, 5 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "at ₹228.91/kg",
+                "ImageUrl": "img/pics/6b895db92aff311e81a9c232f25b80fa.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹225.49/kg for 20 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹222.06/kg for 40 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "55",
+                "Price": "82.57",
+                "Item": "Minar - Kashmiri Chilli Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/0446ec4a4ddb0e044f9a434cb2e59e3d.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "56",
+                "Price": "144.95",
+                "Item": "Everest - Coriander Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/a30ed3c1da6e032ae27ffb4fa3a6d95e.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹135.9/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "57",
+                "Price": "144.95",
+                "Item": "Everest - Coriander Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/a30ed3c1da6e032ae27ffb4fa3a6d95e.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹135.9/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "58",
+                "Price": "66.86",
+                "Item": "SNN - Coriander Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/e05f3770b3717a0dd7964527e799c7d8.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "59",
+                "Price": "100.29",
+                "Item": "SNN - Turmeric Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/ef206916aafaecc17e5facf80558868e.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "60",
+                "Price": "150.48",
+                "Item": "SNN -  Premium Red Chilli Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/3e9f86a682d75ac31fb55ba8fe5452ab.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "61",
+                "Price": "53.81",
+                "Item": "SNN -  Kashmiri Chill Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/c16268b715441a010ed88e5cf18b0797.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "62",
+                "Price": "83.62",
+                "Item": "SNN -  Chilli Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/347fce48e2d3a791dc9b77929cd6fb9c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "63",
+                "Price": "275.7",
+                "Item": "Suhana - Sarvam AG Coriander Powder, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/06eadce1c66cff817c162aa8f3dad2bb.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "64",
+                "Price": "327.2",
+                "Item": "Suhana - Sarvam AG Turmeric Powder, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/288ec24776e8629ffa6eee54da5c9bf2.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "65",
+                "Price": "126.86",
+                "Item": "Sakthi - Kulambu Chilli Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/f00a500b45aa108a7fb1252e3d635b6a.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "66",
+                "Price": "26.38",
+                "Item": "Sakthi - Kulambu Chilli Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/dceab7af854f72293ffe42ef15aeef3c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "67",
+                "Price": "13.33",
+                "Item": "Sakthi - Kulambu Chilli Powder, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/7e76588281e27446b23512415c625585.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "68",
+                "Price": "681.05",
+                "Item": "Ramdev - Red Gold Kashmiri Chilli Powder, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/c5ae6b73563f42364a28cc97293a5382.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "69",
+                "Price": "364.29",
+                "Item": "Suhana - Ambari Turmeric Powder, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/36204f816e8e420714b9b367363afaf3.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "70",
+                "Price": "155.71",
+                "Item": "Suhana - Ambari Dhane Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/026b0092671ed0a06fc06a0b61a4caf2.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "71",
+                "Price": "320.67",
+                "Item": "Everest - Coriander Powder, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/14be1ee46c6540ba173af24956a14b4d.webp",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "72",
+                "Price": "358.38",
+                "Item": "Everest - Turmeric Powder, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/d992f9a8b8098131d081329f52bdd56b.webp",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "73",
+                "Price": "462.86",
+                "Item": "Everest - Tikhalal Chilli Powder, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/9dd66344ac2e30e10e2a165e211a935f.webp",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "74",
+                "Price": "182.48",
+                "Item": "Suhana - Ambari Haldi Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/17f5b2bd3f2fc54e3f18853fc03639bf.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹178/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹173.43/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "75",
+                "Price": "275.62",
+                "Item": "Suhana - Sarvam AG Chilli Powder, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/dd9a129701a3ec58d990f5b80e2a2f1c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹270.1/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹264.67/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "76",
+                "Price": "987.9",
+                "Item": "Suhana - D.R. Chilli Powder, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/8943e4855e957090deaf6c29d3a8ac2d.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹963.24/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹948.38/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "77",
+                "Price": "65.71",
+                "Item": "Swastik - Kashmiri Chilli Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/6933d3829a3f7cd3fb7da1bc77451b18.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "78",
+                "Price": "236.86",
+                "Item": "Surya - Kashmiri Chilli Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/8cca26c8001cbfd510d060700f7c7999.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹233.24/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹229.71/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "79",
+                "Price": "78.29",
+                "Item": "Surya - Coriander Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/ee6046aee66c917d66eb003f3a08eb9c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹76.67/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹75.14/pc for 9 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "80",
+                "Price": "104.29",
+                "Item": "Surya - Turmeric Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/2bfd608e4b62075f2474518d3ec456ce.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹102.19/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹100.19/pc for 9 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "81",
+                "Price": "119.43",
+                "Item": "Surya - Chilli Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/0d20b90715da04b0c6e73c9d6ebe1a3c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹117.62/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹115.81/pc for 9 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "82",
+                "Price": "378.76",
+                "Item": "Eastern - Chilli Powder, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/dbff931915d973f1d8549c218348877c.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹373.05/kg for 5 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹367.43/kg for 10 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "83",
+                "Price": "711.81",
+                "Item": "Badshah - Kashmiri Chilli Powder, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/8300b5f58a3e399bcce2ecc19dc3b496.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹704.67/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹697.52/pc for 10 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "84",
+                "Price": "82.57",
+                "Item": "Badshah - Kashmiri Chilli, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/822e7277838c464a7a808768bc8093a7.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹80.95/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹79.24/pc for 10 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "85",
+                "Price": "143.71",
+                "Item": "Cookme - Haldi Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/f4abe5160d5791303eebc3dc522a7c40.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹141.62/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹139.43/pc for 6 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "86",
+                "Price": "491.33",
+                "Item": "Suhana - Byadagi Chilli Powder, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/bb44f550e7bd64c84ccb67117949ec9d.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹481.52/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹471.71/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "87",
+                "Price": "1071.14",
+                "Item": "Ramdev - Coriander Powder (I.P), 5 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "at ₹214.23/kg",
+                "ImageUrl": "img/pics/04bff55448763c072933e47a3efbce7d.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "88",
+                "Price": "1699.52",
+                "Item": "Ramdev - Turmeric Powder (I.P), 5 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "at ₹339.9/kg",
+                "ImageUrl": "img/pics/0237ad29cf986b35a0e6eba4a165a8e8.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "89",
+                "Price": "1383.52",
+                "Item": "Ramdev - Chilli Powder (I.P), 5 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "at ₹276.7/kg",
+                "ImageUrl": "img/pics/b68d3c77b7b3f3229cde2949cae0f6e6.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "90",
+                "Price": "441.52",
+                "Item": "Ramdev - Coriander Powder (I.P), 2 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "at ₹220.76/kg",
+                "ImageUrl": "img/pics/0c5d1961a8b9e43af0ae9362b5b9e5a2.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "91",
+                "Price": "654.67",
+                "Item": "Ramdev - Turmeric Powder (I.P), 2 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "at ₹327.33/kg",
+                "ImageUrl": "img/pics/02a3950f53ea7112a3533e6b18d3b101.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "92",
+                "Price": "567.62",
+                "Item": "Ramdev - Chilli Powder (I.P), 2 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "at ₹283.81/kg",
+                "ImageUrl": "img/pics/bea3347917c9448c2782b0528e453f18.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹279.57/kg for 6 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹275.29/kg for 10 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "93",
+                "Price": "312.19",
+                "Item": "Suhana - Ambari Coriander/ Dhane Powder, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/f5a2daea717583302ab80f61c46ad56c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹304.38/kg for 3 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹299.62/kg for 6 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "94",
+                "Price": "343.52",
+                "Item": "Suhana - Ambari Lal Mirch Powder, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/f203f3a05ee0d3424f291dff81967410.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹336.67/kg for 3 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹329.81/kg for 8 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "95",
+                "Price": "27.71",
+                "Item": "Cookme - Turmeric Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/e82370e8ee048b3088e1b0a3cccdead7.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹26.86/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹26/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "96",
+                "Price": "16.29",
+                "Item": "Cookme - Coriander Masala, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/f90a82db4dfa1d1ce54b19cdb9b6e5e3.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹15.81/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹15.33/pack for 20 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "97",
+                "Price": "57.05",
+                "Item": "Cookme - Kashmiri Chilli, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/765ce705a95815401868e395a0bd675a.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹55.33/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹53.62/pack for 20 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "98",
+                "Price": "23.14",
+                "Item": "Cookme - Chilli Powder, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/f8d9b8d08e311deeaf3627ec1cc1fa85.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹22.38/pack for 16 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹21.71/pack for 25 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "99",
+                "Price": "116.48",
+                "Item": "JK - Rajasthani Red Chilli, 250 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/ac71fd484a35bb69630cbe1aef1e0378.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹114.19/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹110.67/pack for 12 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "100",
+                "Price": "91.71",
+                "Item": "JK - Kashmiri Mirch Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/a76f765941e5935ff54c9da7d50d2a78.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "101",
+                "Price": "163.43",
+                "Item": "JK - Haldi Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/3c1d227db6ac01ce8fb4a3e816c30b20.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹158.48/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹153.71/pack for 8 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "102",
+                "Price": "500.38",
+                "Item": "Ramdev - Red Gold Kashmiri Chilli Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/ee532a87fb3f09a850c0cb0645be2507.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹492.86/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹485.33/pack for 8 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "103",
+                "Price": "156.29",
+                "Item": "Ramdev - Coriander Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/80da1ff82a41bd04bd951efa9d565977.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹151.62/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹146.95/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "104",
+                "Price": "185.9",
+                "Item": "Ramdev - Turmeric Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/5cadbd36c761bfa9c6bd7e5c9408b2a7.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹183.05/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹180.29/pack for 7 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "105",
+                "Price": "308.19",
+                "Item": "Ramdev - Chilli Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/27c1f9d5dfb6c77b933361f4b3630716.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹303.52/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹298.95/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "106",
+                "Price": "131.52",
+                "Item": "Sakthi - Turmeric Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/30ba97c87bcf7b1d9d0f44ac927ceb56.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "107",
+                "Price": "26.19",
+                "Item": "Sakthi - Turmeric Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/19543f7e9d887e1d02558d13cf55f7d6.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "108",
+                "Price": "84.48",
+                "Item": "Sakthi - Coriander Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/bdde141f90361ecd764c5d611bceeeed.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹82.86/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹80.29/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "109",
+                "Price": "21.24",
+                "Item": "Sakthi - Coriander Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/1ceea526539c9967b032bcfa07f1375a.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹20.57/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹19.9/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "110",
+                "Price": "144.95",
+                "Item": "Sakthi - Chilli Powder Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/a75f4fafdd081b75ebbe9bf776bec984.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹142.19/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹139.14/pack for 13 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "111",
+                "Price": "30.86",
+                "Item": "Sakthi - Chilli Powder Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/7ad295453623361f3658e0daa6dcdb91.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹29.9/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹29.05/pack for 23 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "112",
+                "Price": "161.05",
+                "Item": "Eastern - Turmeric Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/98fd25af8c3830be2713c1ddff5f5f6e.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹157.81/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹154.48/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "113",
+                "Price": "301.81",
+                "Item": "Eastern - Kashmiri Chilli Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/fea9567b6662d37a88abd549ea4e311d.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹297.24/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹292.67/pack for 7 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "114",
+                "Price": "117.52",
+                "Item": "Eastern - Coriander Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/454b471eef30d154a3f275e8d953c230.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹115.14/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹111.71/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "115",
+                "Price": "180.29",
+                "Item": "Eastern - Chilli Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/145f13d7430b8684b4fc8a4fc22bde3d.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹177.62/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹174/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "116",
+                "Price": "128.29",
+                "Item": "Sakthi - Turmeric Powder,  500  gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/e4739f99e1c3bcbd1abc8665b7785bf5.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹125.62/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹115.43/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "117",
+                "Price": "224.29",
+                "Item": "Maharaj Choice - Dhania Powder, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/6657b00ea7fff6c5527079909421d944.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "118",
+                "Price": "188.19",
+                "Item": "Suhana - Haldi Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/c75e0055ed2dab63d457947dafc10abd.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹182.48/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹176.95/pack for 7 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "119",
+                "Price": "182.19",
+                "Item": "Suhana - Coriander Cumin Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/95267170bb75e1ef5a7161e3678bcb32.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹177.62/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹172.19/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "120",
+                "Price": "197.24",
+                "Item": "Sparsh - Byadagi Chilli Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/62d1dd142c6dc0273863070e29d8279a.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹193.33/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹189.43/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "121",
+                "Price": "390.86",
+                "Item": "Sparsh - Kashmiri Chilli Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/6619d6df414571941c862514dd6247f6.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹385.05/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹379.14/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "122",
+                "Price": "93.62",
+                "Item": "Swastik - Dhania Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/928eca6a296575b23322a814ed64cdb8.webp",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "123",
+                "Price": "123.14",
+                "Item": "Swastik - Haldi Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/8b6f7365db89f3212d8888c4e517e897.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "124",
+                "Price": "121.62",
+                "Item": "Swastik - Mirch Powder, 500 gm Pack",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/45e841d78c77837e4c81f0cfb36dc341.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "125",
+                "Price": "220.95",
+                "Item": "Sparsh - Chilli Powder, 1 Kg Pouch",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/e20bd2888f736be678893cd3f9a81dd6.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "126",
+                "Price": "36.57",
+                "Item": "MDH - Haldi Powder,  100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/344dc1cc6d3349a98e6aa44eebe13e8b.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "127",
+                "Price": "128.76",
+                "Item": "Sparsh - Turmeric Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/1a9e866f349d3eb784927070a1e59dfe.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "128",
+                "Price": "90.67",
+                "Item": "Sparsh - Coriander Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/87a4a33771affb551503e79e5eecc970.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "129",
+                "Price": "114.19",
+                "Item": "Sparsh - Chilli Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/38c7f03db495f440fba05b56c217e125.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹112.48/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹110.76/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "130",
+                "Price": "41.05",
+                "Item": "Everest - Turmeric, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/5c15963077e68c8328ccb83815277121.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹38.48/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "131",
+                "Price": "49.43",
+                "Item": "Everest - Tikhalal Chilli Powder, 100 gm Pack",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/99e838586bedbc3dc1f58e93e829eca4.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹47.71/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹46.19/pack for 25 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "132",
+                "Price": "167.33",
+                "Item": "Everest - Coriander, 500 gm Pouch",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/f348b56ada2d1dea4676129fc22b2622.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹162.29/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹156.38/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "133",
+                "Price": "35.81",
+                "Item": "Everest - Coriander Powder, 100 gm Pack",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/41553d77a1e604c85084c213a6fba649.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹33.43/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "134",
+                "Price": "162.48",
+                "Item": "MDH - Turmeric Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/138023247f5f490b51077bf4964c7e85.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "135",
+                "Price": "95.14",
+                "Item": "MDH - Deggi Mirch, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/de092b58c328ed0f0b5bba1434c7946e.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+        ]
+    },
+    {
+        "SectionName": "Grounded Spices ",
+        "SectionOrder": "19",
+        "MenuItem": [
+            {
+                "MenuId": "1",
+                "Price": "82.19",
+                "Item": "MDH - Garam Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/27df6e3f1596ffbbf8f62ff6c2ecc731.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹80.86/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹79.71/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "2",
+                "Price": "74.48",
+                "Item": "MDH - Jeera Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/1d21d2338605458e455007f1b58e275f.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹72.19/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹70/pack for 15 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "3",
+                "Price": "359.81",
+                "Item": "MDH - Kitchen King Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/8009e95971eb04b997b3d37e9669c543.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹349.05/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹334.67/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "4",
+                "Price": "328.57",
+                "Item": "MDH - Chunky Chaat Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/17ad7a0f2b391fa6f7329d7a091a83dc.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹318.67/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹305.52/pack for 9 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "5",
+                "Price": "68.1",
+                "Item": "MDH - Chicken Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/09cabbfd3357046e285d796afd89b233.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "6",
+                "Price": "72",
+                "Item": "MDH - Meat Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/e148831452e9d754c76d84efa4d13f61.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "7",
+                "Price": "44.19",
+                "Item": "Eagle - Kitchen King Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/1043e51ebd898ea516f4eb9c7452e86d.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "8",
+                "Price": "397.05",
+                "Item": "Catch - Chat Masala, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/66678552d37c4da519ba8127707c5885.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "9",
+                "Price": "114.57",
+                "Item": "Eastmade - White Pepper Powder (Safed Mirchi), 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/6cb2ba66dc4d6d72448673b9c619aadc.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "10",
+                "Price": "195.81",
+                "Item": "Eagle - Kitchen King Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/cbe6e93584304f25db14f38ecbcf4b20.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹191.81/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹187.9/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "11",
+                "Price": "42",
+                "Item": "Eagle - Chaat Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/4bfab0eaca8253d2fe66dd17e2d7cb65.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹40.95/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹39.9/pack for 9 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "12",
+                "Price": "68.1",
+                "Item": "MDH - Chana Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/d2a06cb1-6330-4581-81d0-d37e4e324553_MDHChanaMasala100gBox.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹66/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹63.33/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "13",
+                "Price": "687.62",
+                "Item": "MDH - Kitchen King Masala, 100 gm (Pack of 10)",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "at ₹68.76/pc",
+                "ImageUrl": "img/pics/20d8dddfa3c712a62c8f1797063f4afe.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "14",
+                "Price": "77.43",
+                "Item": "Eastmade - Black Pepper Powder (Kali Mirch), 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/f65b7717b9c5b499072b21d85476bd9c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹75.9/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹74.76/pack for 12 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "15",
+                "Price": "155.71",
+                "Item": "Eastmade - Desiccated Coconut Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/b47db9413f2a81eeb31744f6310ede9e.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹149.52/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹143.24/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "16",
+                "Price": "40.1",
+                "Item": "Eastmade - Cumin (Jeera) Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/ec8809af88d8b16464566ed982aa4b65.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "17",
+                "Price": "88.1",
+                "Item": "ES - White Pepper Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/8f0eba8ddcbbc32b01d999a5b0bf8432.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹85.05/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹82.86/pack for 8 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "18",
+                "Price": "40.1",
+                "Item": "Eastmade - Cumin (Jeera) Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/ec8809af88d8b16464566ed982aa4b65.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "19",
+                "Price": "190.86",
+                "Item": "Catch - Hing, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/cbb63fc7ed5a59dddec5ec564e67c061.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹187.05/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹183.24/pack for 7 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "20",
+                "Price": "489.52",
+                "Item": "Catch - Kitchen King Masala, 1 Kg Pack",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/af42488759635b28584bd9ac699549f6.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹479.71/kg for 3 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹469.9/kg for 5 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "21",
+                "Price": "401.33",
+                "Item": "MDH - Garam Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/d84d296a3e167ab78b2d7f1ccf680f9d.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹389.33/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹373.24/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "22",
+                "Price": "345.43",
+                "Item": "Catch - Super Garam Masala, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/69054cd81dc6fdb78899897d0b154b01.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹338.48/kg for 3 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹331.52/kg for 5 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "23",
+                "Price": "628.38",
+                "Item": "MDH - Chunky Chaat Masala, 100 gm (Pack of 10)",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "at ₹62.84/pc",
+                "ImageUrl": "img/pics/24be18cb2ff76239d4be461394a8c2d0.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "24",
+                "Price": "85.24",
+                "Item": "MDH - Hing, 10 gm Jar",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/4e302583-fe45-44d6-b4b7-2d98ab00ff06_MDHHing10gJar.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹82.67/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹80.19/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "25",
+                "Price": "628.38",
+                "Item": "MDH - Chunky Chaat Masala, 100 gm (Pack of 10)",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "at ₹62.84/pc",
+                "ImageUrl": "img/pics/24be18cb2ff76239d4be461394a8c2d0.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "26",
+                "Price": "282.57",
+                "Item": "ES - Cumin Powder (Jeera), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/8b376770cbfced1f7490f77af7dc01c8.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹276.95/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹271.33/pack for 7 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "27",
+                "Price": "134.86",
+                "Item": "Eagle - Hing, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/e535a271586461b4b4215ce551f82bb8.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹132.19/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹129.52/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "28",
+                "Price": "53.81",
+                "Item": "Eagle - Garam Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/5a5d3b54cf2b13226c0fba4c7338691e.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹52.48/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹51.14/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "29",
+                "Price": "98.95",
+                "Item": "Surya - Dry Coconut Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/53f699e65ba5642db727d5bc8d460b94.webp",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹96.95/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹94.95/pc for 8 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "30",
+                "Price": "71.9",
+                "Item": "ES - Black Pepper Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/9323b22cbf0d1e34737d9ebeb8345b81.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "31",
+                "Price": "179.14",
+                "Item": "MDH - White Pepper Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/320bb2e6393846f224757c583ec78f2d.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹166.67/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "32",
+                "Price": "120.29",
+                "Item": "Eagle - Green Cardamom Powder, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/4f1f285fee198512beef0a5587be66a1.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹116.67/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹113.05/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "33",
+                "Price": "245.05",
+                "Item": "Eagle - Super Garam Masala, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/21f0311481fa1bd94452ad927c35eb88.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹241.43/kg for 3 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹237.71/kg for 5 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "34",
+                "Price": "66.38",
+                "Item": "Everest - Chaat Masala, 100 gm Pack",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/7d1a8e847603151324d7bc79a1118393.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹64/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹62/pack for 16 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "35",
+                "Price": "195.81",
+                "Item": "Eagle - Chicken Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/bbfca2b26de8798b0bbd90fbd11c573a.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹191.81/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹187.9/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "36",
+                "Price": "29.81",
+                "Item": "Eastmade - Dry Mango Powder (Amchoor), 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/dba6e4a0c636a99832bc544ea7eccec6.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹29.05/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹28.29/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "37",
+                "Price": "30",
+                "Item": "Eastmade - Chaat Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/06c4b7ff5eabdef2c4d9a050ddad281b.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹28.95/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹27.9/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "38",
+                "Price": "71.05",
+                "Item": "Everest - Kitchen King Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/58250f2cc97d144b94094d164bd4fc6e.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹68.86/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹66.76/pc for 8 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "39",
+                "Price": "66.95",
+                "Item": "LG - Asafoetida/Hing, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/1a120d6862f727fb57a83e36d41295da.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹64.86/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹62.86/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "40",
+                "Price": "69.62",
+                "Item": "MDH - Amchoor Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/4750a9a38541c444072ab8640ad0ba37.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "41",
+                "Price": "46.29",
+                "Item": "Eagle - Chicken Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/85e0a740880cc40eafbfa49d05b1fb0e.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "42",
+                "Price": "68.86",
+                "Item": "MDH - Pav Bhaji Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/35bdf5b81275fa8e696e8a0f291471c5.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "43",
+                "Price": "177.81",
+                "Item": "Eagle - Chaat Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/9680f4032ced2116a6cb2e0c37f350bd.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "44",
+                "Price": "53.14",
+                "Item": "Eastmade - Dry Ginger Powder (Saunth), 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/fc87edc30a0fd25dea8c376d19b06094.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "45",
+                "Price": "77.33",
+                "Item": "Star Zing - White Pepper Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/1078575a03f9a98f0301c230fc3f44d7.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹75.43/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹75.05/pc for 8 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "46",
+                "Price": "220",
+                "Item": "Eagle - Amchoor Chatni Powder, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/f0bb98ff654b84c25f94bab07106d22f.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹217.05/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹212.19/pack for 11 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "47",
+                "Price": "351.14",
+                "Item": "MDH - Meat Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/4e3e33a1-2c15-41f6-8ed3-eaa5cd5a047a_MDHMeatMasala500Gms.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹340.67/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹326.57/pack for 7 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "48",
+                "Price": "68.95",
+                "Item": "MDH - Rajmah Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/32c94eefdd6465aa8b609c8287d49a74.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹64.19/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "49",
+                "Price": "38.19",
+                "Item": "Eastmade - Kitchen King Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/4887fac9649e0fd9b2f4526734763adf.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹36.95/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹35.81/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "50",
+                "Price": "29.9",
+                "Item": "ES - Cumin Powder (Jeera), 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/72f04838d6cf55fb3f0f75a70f6483ec.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "51",
+                "Price": "56.38",
+                "Item": "MDH - Jal Jeera, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/56b93e1b0622ae1fd00b150a6e6c42de.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "52",
+                "Price": "28.38",
+                "Item": "Eastmade - Premium Garam Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/66ff257d7c66b7604a8dbf6e19e534df.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "53",
+                "Price": "690.38",
+                "Item": "ES - Black Pepper Powder, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/c63bd83910c42c8d1a70326cd24c589b.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "54",
+                "Price": "47.05",
+                "Item": "Eagle - Meat Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/f8f2d825c6698b51082c18dfda739d80.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "55",
+                "Price": "54",
+                "Item": "Minar - Chat Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/a2f1e53ba0ec55962f370df4bff6ccf9.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "56",
+                "Price": "61.81",
+                "Item": "MDH - Sambar Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/3f74c339-c768-434c-a004-5ad9c5b45a54_MDHSambarMasala100gm.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "57",
+                "Price": "65.52",
+                "Item": "MDH - Biriyani Masala, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/a249107d4aa082b7fc756add6c7e90fd.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "58",
+                "Price": "51.81",
+                "Item": "Eagle - Biryani Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/979752720fe4230f48ba7f318d06a650.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹51.05/pack for 11 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹50.29/pack for 22 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "59",
+                "Price": "792.76",
+                "Item": "ES - White Pepper Powder, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/d5047bd627a3e98b7455e18c4cec7af1.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹765.05/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹745.24/pc for 8 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "60",
+                "Price": "177.43",
+                "Item": "Everest - White Pepper, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/a19d087ca10d31e01a71e2a8b78ad6ba.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "61",
+                "Price": "23.24",
+                "Item": "ES - Dry Mango Powder (Amchoor), 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/f75f06455ce1f88c53a55873003cf042.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹22.48/pc for 10 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹21.81/pc for 20 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "62",
+                "Price": "118.57",
+                "Item": "Everest - Black Pepper, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/f1013905b3cfc4ceea3de9e4405a68e4.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹110.86/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "63",
+                "Price": "242.19",
+                "Item": "Eagle - Garam Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/14c4504a5ac283d8d33e408eb1e2260b.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹237.24/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹232.38/pack for 8 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "64",
+                "Price": "242.19",
+                "Item": "Eagle - Garam Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/14c4504a5ac283d8d33e408eb1e2260b.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹237.24/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹232.38/pack for 8 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "65",
+                "Price": "42",
+                "Item": "Eagle - Rajma Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/681fe5be9baa51254b8eb3f824890fcc.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "66",
+                "Price": "79.33",
+                "Item": "MDH - Shahi Paneer Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/9ab8531a11fdc05d6e9c15dac551989d.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "67",
+                "Price": "61.9",
+                "Item": "MDH - Curry Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/2a1d5c59802eb83d6dfd28cfd4f4f95d.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "68",
+                "Price": "35.43",
+                "Item": "Eastmade - Cinnamon Powder (Dalchini Powder), 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/6743d5c8a2ab68c1572b90f71d5bafcb.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "69",
+                "Price": "156.95",
+                "Item": "Eastmade - Chaat Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/fe57f4065bb13c834bb2fe6f48e78ce5.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "70",
+                "Price": "147.9",
+                "Item": "Eastmade - Premium Garam Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/cea011dbc9f16178ba56e59a7ea7360a.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "71",
+                "Price": "72.57",
+                "Item": "Everest - Chicken Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/bf17d51bcd869faf0d47e84825c8282f.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "72",
+                "Price": "45.81",
+                "Item": "Eastmade - Chicken Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/96da9967d246dd2d3be35b40c3d199cc.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹44.48/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹43.05/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "73",
+                "Price": "38.29",
+                "Item": "Eagle - Raita Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/84455331393e4977fe0fdaa624a6f590.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹37.33/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹36.38/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "74",
+                "Price": "76.67",
+                "Item": "MDH - Tandoori Chicken Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/fca2ac71f2d7f0cafe38bd55d05670a1.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹71.33/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "75",
+                "Price": "219.52",
+                "Item": "Eastmade - Cardamom Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/756f1f2216042bf8357a698c6154357f.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹214/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹210.67/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "76",
+                "Price": "203.33",
+                "Item": "ES - Dry Mango Powder (Amchoor), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/27763ab7457f5f82d5e5083157a6dcdd.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "77",
+                "Price": "116.57",
+                "Item": "MDH - Black Pepper Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/b58a7c1f7ac6078b316f75e0043edc7f.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹108.38/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "78",
+                "Price": "36.48",
+                "Item": "MDH - T Plus Masala, 25 gm Box",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/7adef7582427f38d1eaa724145ee6316.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹34/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "79",
+                "Price": "185.81",
+                "Item": "Eastmade - Kitchen King Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/d864542d8eea0a423fbc8e19358f57f3.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹182.19/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹178.29/pack for 8 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "80",
+                "Price": "142.19",
+                "Item": "Eagle - White Pepper Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/24cdc73e48cae66b365d4f00c08ac4a9.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "81",
+                "Price": "48.95",
+                "Item": "Eagle - Shahi Paneer Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/f75a2a2ee5616cf47f253a73910436f7.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "82",
+                "Price": "43.71",
+                "Item": "Eagle - Chana Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/54291179178d6f91b974205475398243.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "83",
+                "Price": "26.19",
+                "Item": "Eastmade - Saunf Powder (Fennel Powder), 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/13312e22f8d9cb36ab7eca244fcc5dba.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "84",
+                "Price": "72.57",
+                "Item": "Everest - Meat Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/951add965638e1e95140b228b937875c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "85",
+                "Price": "40.19",
+                "Item": "Eastmade - Chhole Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/89baf2614eda94c110bc9eea24f2ed28.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "86",
+                "Price": "38.29",
+                "Item": "Eagle - Sambhar Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/5f197cb5e8b0e66d21b034e8e1209668.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "87",
+                "Price": "62.48",
+                "Item": "Everest - Sambhar Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/84b108da168c6c56b4db5d9040eda264.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "88",
+                "Price": "70.29",
+                "Item": "Everest - Pav Bhaji Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/a0922036a194484b83f963bd0e81e317.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "89",
+                "Price": "57.71",
+                "Item": "ES - Hing Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/20c47540392c5c0fb2a4d776843f0bda.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "90",
+                "Price": "51.52",
+                "Item": "Eastmade - Tandoori Chicken Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/0ee9bd463612f05abb7105b838ab8bae.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "91",
+                "Price": "40.95",
+                "Item": "Eagle - Pav Bhaji Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/b3ab460c04849b7fbed183e434b8e8f8.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹39.9/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹38.86/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "92",
+                "Price": "75.71",
+                "Item": "Everest - Kasuri Methi, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/5dd19e7d6e73d4bca7d880872ce21bc5.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "93",
+                "Price": "39.81",
+                "Item": "Surya - Jeera Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/a773b1fb86176368689feb70406cab37.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "94",
+                "Price": "57.43",
+                "Item": "Minar - Kitchen King Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/0286015338e499ebcbf531deb02e7c1d.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "95",
+                "Price": "191.24",
+                "Item": "Eagle - Chana Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/7b5bd797a0f6d74ba5b330481b0c79ab.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹188.38/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹185.62/pack for 8 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "96",
+                "Price": "72.29",
+                "Item": "Minar - Biryani Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/9173d86ae752d818e0432790df3f1812.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "97",
+                "Price": "25.43",
+                "Item": "Eastmade - Jaljira Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/1e47327ec22e3041b6a7874eb5261892.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹24.76/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹24.38/pack for 7 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "98",
+                "Price": "33.9",
+                "Item": "Eagle - Jal Jeera Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/dd472e21ccc4ad5bdd063f5fbffff441.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹33.05/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹32.19/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "99",
+                "Price": "71.81",
+                "Item": "Everest - Tandoori Chicken Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/237a8d4dc8b0c9b8f42954ee81f3fa19.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹69.33/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹66.76/pack for 13 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "100",
+                "Price": "145.14",
+                "Item": "Everest - Yellow Hing Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/746a93f942ba7807d72db39499a54e5c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹140.1/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹135.71/pack for 12 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "101",
+                "Price": "65.33",
+                "Item": "Everest - Chhole Masala, 100 gm Pack",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/07d9c191085dedfdf4f2df9b19ed6754.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹63.71/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹62.76/pack for 7 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "102",
+                "Price": "455.43",
+                "Item": "Catch - Chana Masala, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/709bf27a00b14d6fdffa5c5f858d34eb.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹448.67/kg for 7 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹441.81/kg for 13 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "103",
+                "Price": "36.57",
+                "Item": "Eastmade - Sambhar Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/94249d9dbc8a2033e3da4e131a0ed8eb.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹35.52/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹34.38/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "104",
+                "Price": "36.57",
+                "Item": "Eagle - Subzi Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/fa16958a6722750354b500711840ef6a.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹35.71/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹34.76/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "105",
+                "Price": "89.9",
+                "Item": "Eagle - Black Pepper Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/149ab73fee533ba6126877854746fd02.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹88.57/pack for 11 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹87.14/pack for 22 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "106",
+                "Price": "18.86",
+                "Item": "Eastmade - Amla Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/65a630b87be0ecc1208e54d6d833fb86.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹18.38/pack for 11 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹17.9/pack for 21 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "107",
+                "Price": "37.24",
+                "Item": "Eagle - Aloo Subzi Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/d24259b8efb21786c407d3e5c54903d3.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹36.29/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹35.33/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "108",
+                "Price": "43.62",
+                "Item": "Eagle - Soya Chaap Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/fee52ce2d903af647fa01232059507a7.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹42.86/pack for 11 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹42.19/pack for 22 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "109",
+                "Price": "52.29",
+                "Item": "Dhani - Anardana Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/23ca601e0d420f4e7a853598399e2cf7.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹51.24/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹50.67/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "110",
+                "Price": "25.81",
+                "Item": "Eastmade - Sabji Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/6273c834a0388fea05e96b59c1759262.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹25.24/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹24.76/pack for 7 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "111",
+                "Price": "57.62",
+                "Item": "MDH - Black Pepper Powder, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/310b3700a4667d52f946d842daa8813d.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹55.9/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹54.19/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "112",
+                "Price": "40.86",
+                "Item": "Eastmade - Pav Bhaji Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/cfff8b69d8bef0e57678916ba603c52f.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹39.62/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹38.38/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "113",
+                "Price": "336.38",
+                "Item": "MDH - Chana Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/46f02fbac74f527e3389c3c227473305.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹312.86/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "114",
+                "Price": "72",
+                "Item": "Everest - Garam Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/36d8d5aede244f260ac2a82d08101cb7.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹69.81/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹68/pc for 10 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "115",
+                "Price": "62.76",
+                "Item": "Minar - Meat Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/f0bb7430ecfe3a1b8f70a350c1d4ef71.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "116",
+                "Price": "60.19",
+                "Item": "Eastmade - Biriyani Pulav Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/0174d99bb7d6007a18ab83c961dcde28.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹58.29/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹56.48/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "117",
+                "Price": "37.62",
+                "Item": "Eagle - Fish Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/ff2f82158f237077285849f8697851ee.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹36.48/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹35.43/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "118",
+                "Price": "44",
+                "Item": "Minar - Chana Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/2fd95d900b25cb0d3a2020d6407cbbed.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "119",
+                "Price": "52.19",
+                "Item": "Eastmade - Meat Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/cb64328baa33e12feef6de373c4875fb.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹50.29/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹48.48/pack for 8 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "120",
+                "Price": "112.29",
+                "Item": "Minar - White Pepper Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/e3cf116185de600c83b5943fcfc3ba1f.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "121",
+                "Price": "79.24",
+                "Item": "Minar - Garam Masala Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/d144f44d39fd45e7a3900a89f3b0fded.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "122",
+                "Price": "42.67",
+                "Item": "Eagle - Fennel Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/c0056bd9061142b1e90d8088e2a77802.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "123",
+                "Price": "52.57",
+                "Item": "Minar - Pav Bhaji Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/7b495b8e787e08b88ce28eaece3659a5.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "124",
+                "Price": "66",
+                "Item": "Minar - Sabji Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/d9d168cbb55e4c8bd3703cd89da7cb91.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "125",
+                "Price": "227.81",
+                "Item": "Ramdev - Strong Hing, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/4fe86b1095031f0753ddb5b904d9bc9a.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "126",
+                "Price": "111.9",
+                "Item": "Everest - Sabji Masala, 200 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/082b9ae0353682f22f193c9b5b968055.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "127",
+                "Price": "152.95",
+                "Item": "Everest - Garam Masala, 200 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/3bf7d34713209517c7e53be2037fa0bc.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "128",
+                "Price": "342.95",
+                "Item": "Everest - Meat Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/4b59bf3aedff619acc2680c2cccc1d66.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "129",
+                "Price": "67.43",
+                "Item": "MDH - Chunky Chaat Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/9bd6abcd0d519a6d0f197c4f20ff3929.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "130",
+                "Price": "39.05",
+                "Item": "SNN - Mutton Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/33cf6c135b21b5887ada051b51acb00b.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "131",
+                "Price": "55.71",
+                "Item": "SNN - Super Sambar Powder, 200 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/6ae832d54dd220c236a69076683a04cd.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "132",
+                "Price": "127.05",
+                "Item": "SNN - Super Chicken Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/c057fdc3cd3b9c5f0f863dd7f067dadd.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "133",
+                "Price": "94.76",
+                "Item": "SNN - Super Garam Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/5c5120604b298b865621da3219feabbb.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "134",
+                "Price": "99.24",
+                "Item": "Star Zing - Black Pepper Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/12a03644e52e6b4223972ce749d2bdbd.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "135",
+                "Price": "724.19",
+                "Item": "LG - Asafoetida/Hing, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/17f1428892bd69fd8f64961c4482aa92.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "136",
+                "Price": "724.19",
+                "Item": "LG - Asafoetida/Hing, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/17f1428892bd69fd8f64961c4482aa92.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "137",
+                "Price": "209.71",
+                "Item": "Sakthi - Curry Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/c0bc7c9ba490db932d43f3661fd9a940.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "138",
+                "Price": "42.29",
+                "Item": "Sakthi - Curry Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/397ad531d9f05ac1151511718bd51a74.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "139",
+                "Price": "23.71",
+                "Item": "Sakthi - Egg Kurma Masala, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/b0c22d6a047f69d087cc1485250c6edb.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "140",
+                "Price": "19.71",
+                "Item": "Sakthi - Channa Masala, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/9bb33446127cb3446918f9fd31bc6ba8.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "141",
+                "Price": "15.43",
+                "Item": "Sakthi - Aniseed Powder, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/500a54b65bfb973ba0f5312aebe7c239.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "142",
+                "Price": "18.76",
+                "Item": "Sakthi - Fish Curry Masala, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/1e9905395322afa6022a64b52315a84c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "143",
+                "Price": "26.76",
+                "Item": "Sakthi - Rasam Powder, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/d85ebe4a01b22577b2a4e58d228cee7c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "144",
+                "Price": "21.14",
+                "Item": "Sakthi - Curry Masala, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/ec986ace8b436a4b019f0b8311debaa7.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "145",
+                "Price": "469.71",
+                "Item": "Suhana - Sambar Masala, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/ba5e21949ab83d23f31b10ad41b5112a.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "146",
+                "Price": "503.43",
+                "Item": "Suhana - Pav Bhaji Masala, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/bbe59d6e53fd751f72c441fd949026fb.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "147",
+                "Price": "513.43",
+                "Item": "Suhana - Kitchen King Masala, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/90f3974876c31b917f3772a80c6a7993.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "148",
+                "Price": "1058.19",
+                "Item": "Eastmade - White Pepper Powder (Safed Mirchi), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/ccc0e16ae2a7eaa3afae19adaaf974d9.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "149",
+                "Price": "74.95",
+                "Item": "Everest - Amchoor Powder, 100 gm ",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/4191963e318610adf716464ac3a4a8ea.webp",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "150",
+                "Price": "629.81",
+                "Item": "Everest - Chaat Masala, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/5d1b033b803a820e79eb6cfd90c2a556.webp",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "151",
+                "Price": "732.29",
+                "Item": "Everest - Meat Masala, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/6abce2433e54260023616fe000c2ee04.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "152",
+                "Price": "703.05",
+                "Item": "Everest - Chicken Masala, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/b74e84de08f82ac2f641a0ff7d9daf5e.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "153",
+                "Price": "686.76",
+                "Item": "Everest - Kitchen King Masala, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/4634691b60e04f92af3efcf49dfba75d.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "154",
+                "Price": "758.86",
+                "Item": "Everest - Garam Masala, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/b75ea17a042035ce16ccdf082be6d894.webp",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "155",
+                "Price": "228.29",
+                "Item": "Sakthi - Garam Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/499808a7363c1f0ffa08f41550dc3cf4.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "156",
+                "Price": "81.62",
+                "Item": "Surya - Mustard Powder (Rai Powder), 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/addc7fdd1a86134584d281e8362b5a81.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "157",
+                "Price": "48.1",
+                "Item": "Eastmade - Undhiya Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/012f860028d88c77f8e71912f8c9c980.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "158",
+                "Price": "255.62",
+                "Item": "Eastmade - Meat Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/0b5c9190bbe7bb481c8ea01dcde2e6ab.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹249.24/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹245.43/pc for 6 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "159",
+                "Price": "206.19",
+                "Item": "Eastmade - Chhole Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/c3bf589bc422d8d24adc2e5fecffc14f.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹201.05/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹197.9/pc for 6 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "160",
+                "Price": "155.05",
+                "Item": "Eastmade - Chat Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/aa676caabf9eb1ec976b5a5cf506c52d.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "161",
+                "Price": "61.52",
+                "Item": "Everest - Pani Puri Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/40b7385bfce04856926223ede85c3ff5.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹59.71/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹57.81/pc for 10 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "162",
+                "Price": "372.48",
+                "Item": "Everest - Garam Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/98ea3ada40fae5ec489758a9eb5f81ee.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹365.05/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹357.62/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "163",
+                "Price": "330",
+                "Item": "Everest - Chhole Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/c0897445d73d692c655d6f7db87d776a.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹323.43/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹316.76/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "164",
+                "Price": "103.52",
+                "Item": "Everest - Super Garam Masala, 200 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/0c6629c9d713ad8909b89695279b176d.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹100.95/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹99.43/pc for 7 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "165",
+                "Price": "61.14",
+                "Item": "Badshah - Fish Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/aa58a33bdeb3c45777155650648fe53a.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹59.62/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹58.19/pc for 10 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "166",
+                "Price": "553.14",
+                "Item": "Catch - Ginger Powder, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/3c1c1b07f6ff3caf68d3de0cc8e56f6c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹536.48/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹520/pack for 8 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "167",
+                "Price": "17.62",
+                "Item": "Sakthi - Chaat Masala, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/19444b1511db0ce40d180cdc7c3067e9.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹17.05/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹16.57/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "168",
+                "Price": "23.24",
+                "Item": "Sakthi - Fish Fry Masala, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/15a7f56a7da587d90c3dcf855571f214.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹22.86/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹22.38/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "169",
+                "Price": "22.29",
+                "Item": "Sakthi - Chilli Chicken 65 Masala, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/9e6d7f46fafd21c4dc50e2056d399dd8.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹21.62/pc for 10 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹20.95/pc for 20 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "170",
+                "Price": "565.05",
+                "Item": "Suhana - Meat Masala, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/5a0ac90a625b9fd611edfdfd92e17c0a.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹559.33/kg for 3 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹553.71/kg for 5 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "171",
+                "Price": "548.19",
+                "Item": "Suhana - Tandoori Chicken Masala, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/1a6eb5028152e04caf10ffb5d44c4566.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹534.48/kg for 3 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹526.29/kg for 6 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "172",
+                "Price": "465.24",
+                "Item": "Suhana - Chat Masala, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/963459e913d88bf83b2f2db4ac7c045b.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹453.62/kg for 3 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹446.57/kg for 5 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "173",
+                "Price": "541.71",
+                "Item": "Suhana - Chicken Masala, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/87e660054f3186f7f639525c98c6e197.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹528.19/kg for 3 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹520.1/kg for 6 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "174",
+                "Price": "35.52",
+                "Item": "ES - Dry Ginger Powder (Saunth), 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/c0a9da1585c1a6540c5f70e1b6c5b206.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹34.48/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹33.33/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "175",
+                "Price": "579.71",
+                "Item": "Badshah - Pav Bhaji Masala, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/74e5cebae50d1d73fcf7e845ce91e504.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹571.05/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹562.29/pc for 10 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "176",
+                "Price": "189.24",
+                "Item": "Surya - Jeera Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/612e4fc639beb1fbe1904b26003c1762.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹186.38/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹183.52/pc for 8 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "177",
+                "Price": "112.1",
+                "Item": "Surya - Chaat Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/00c3ac14d045c9611132dde5ff438093.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹110.38/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹108.67/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "178",
+                "Price": "112.1",
+                "Item": "Surya - Sambar Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/acb5cd48b0ff7a3423c8a20c7fc247ab.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹110.38/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹108.67/pc for 8 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "179",
+                "Price": "117.81",
+                "Item": "Surya - Chicken Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/e766eccbafc9afcf5491b43834e4e3cc.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹116/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹114.29/pc for 7 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "180",
+                "Price": "117.81",
+                "Item": "Surya - Garam Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/ead9c0f82069de5f8d5e1acc3e2da935.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹116/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹114.29/pc for 6 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "181",
+                "Price": "33.52",
+                "Item": "Eastern - Amchur Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/6fee9f16ec3152b965878b38043ebd2f.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹32.67/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹31.81/pack for 12 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "182",
+                "Price": "52.1",
+                "Item": "Eastern - Chaat Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/59dc6a9795736acfa02f2b546d142720.webp",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "183",
+                "Price": "43.52",
+                "Item": "Eastern - Dry Ginger Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/0f872dc7d0ae95f178cee7ba63938d26.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹42.48/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹41.33/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "184",
+                "Price": "110.48",
+                "Item": "Eastern - Cumin Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/928d66837d5d6c4408f3fe59118082ab.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹107.71/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹104.95/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "185",
+                "Price": "292.67",
+                "Item": "Badshah - Garam Masala, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/5f3e49b087151e0ed9c3f4f4bed990c2.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹283.9/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹278.19/pc for 6 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "186",
+                "Price": "564.19",
+                "Item": "Badshah - Kitchen King, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/f64b3f7943f22580b3c6efb22036f301.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹555.71/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹547.24/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "187",
+                "Price": "677.9",
+                "Item": "Badshah - Cumin / Jeera Powder, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/7ee0b88fee46420d631d2a013d97d3a4.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "188",
+                "Price": "583.33",
+                "Item": "Badshah - Chicken Masala, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/d4850201bd045d633508e2b2c6c257df.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "189",
+                "Price": "509.14",
+                "Item": "Badshah - Chat Masala, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/a4e541e84488b3e9c7477bd9d5ed738e.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "190",
+                "Price": "79.62",
+                "Item": "Badshah - Hing, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/1b73485f9d2a9f031842375518a2a77b.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "191",
+                "Price": "65.62",
+                "Item": "Badshah - Paneer Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/d4f8861ec90f8af1e936008f4bec4e97.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "192",
+                "Price": "52.67",
+                "Item": "Badshah - Mutton Biryani Masala, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/1ff2f14c0291893da46096a56e5e0ff4.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹51.33/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹50.57/pc for 7 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "193",
+                "Price": "57.05",
+                "Item": "Badshah - Chicken Biryani, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/41c5913f04137a83662ed1c55df14535.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "194",
+                "Price": "39.24",
+                "Item": "Badshah - Cumin/Jeera Powder, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/d07401c9531fc952b2c33e663cbb7db0.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹38.38/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹37.62/pc for 10 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "195",
+                "Price": "97.9",
+                "Item": "Badshah - Black Pepper Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/c0887c3b0ef8646c5cb2b677a6f2260d.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "196",
+                "Price": "61.05",
+                "Item": "Badshah - Kitchen King, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/f90a65338a802fd6cf5062e3272c2582.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "197",
+                "Price": "54",
+                "Item": "Badshah - Sambar Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/1baf6f2316c11b20b71a27be8d28c7c7.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "198",
+                "Price": "46.19",
+                "Item": "Badshah - Jaljeera Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/10d9f7e29bd92d79e9052d9ffdd1cec3.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹45.05/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹43.9/pc for 10 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "199",
+                "Price": "302",
+                "Item": "Badshah - Meat Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/b8801a7439ff48b3128cee8fb36bd534.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "200",
+                "Price": "62.48",
+                "Item": "Badshah - Meat Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/2292e1859dc9540900b44a8dd8c0d1e5.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹60.86/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹59.33/pc for 7 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "201",
+                "Price": "594.57",
+                "Item": "Badshah - Tandoori Chicken Masala, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/ae92a5230e48582ac4afe1006a159471.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "202",
+                "Price": "63.05",
+                "Item": "Badshah - Tandoori Chicken Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/910a7b09323833d287bd9e5fac06ab3e.webp",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "203",
+                "Price": "65.14",
+                "Item": "Badshah - Amchur Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/1d189df3b7472fe13c2e59a14778bbd4.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "204",
+                "Price": "61.71",
+                "Item": "Badshah - Chhole Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/45ef4387c46f197b55c6fe68d69eff68.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "205",
+                "Price": "279.71",
+                "Item": "Badshah - Chat Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/e432539d3ea68469b4250a9627c22ffa.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹271.33/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹262.86/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "206",
+                "Price": "59.81",
+                "Item": "Badshah - Chat Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/ce668a8455f061508a4b2df3456fc629.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "207",
+                "Price": "55.33",
+                "Item": "Badshah - Chana Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/cfbdf39151eb3104e08bd44e4fb7c557.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "208",
+                "Price": "110",
+                "Item": "Badshah - Biryani Pulav Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/5cb55b2730eaab95abe8929b04e06974.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "209",
+                "Price": "297.62",
+                "Item": "Badshah - Premium Garam Masala, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/7a7b2dcf7403afc465dd47fa2cfb644f.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "210",
+                "Price": "24.19",
+                "Item": "Cookme - Tarka Masala, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/a2f0d28b7f18b2e801a5bcd9108d0642.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹23.52/pc for 10 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹22.76/pc for 20 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "211",
+                "Price": "36.67",
+                "Item": "Cookme - Cumin Powder, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/428d032106cf635aec37c95d5bcad581.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹35.52/pc for 10 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹34.48/pc for 20 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "212",
+                "Price": "64.48",
+                "Item": "Cookme - Black Pepper Masala, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/f21bad09b3afcd502f75a0fd4d503cba.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹62.57/pc for 10 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹60.67/pc for 20 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "213",
+                "Price": "370.67",
+                "Item": "Everest - Cumin Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/5c148b9d568e479c88a5e04d5c8e2ee5.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹357.71/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹346.57/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "214",
+                "Price": "71.05",
+                "Item": "Everest - Kitchen King, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/c621e9ad949a2ef1748e28c58b3e905f.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹68.48/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹66.38/pack for 14 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "215",
+                "Price": "233.24",
+                "Item": "Ramdev - Kitchen King Masala Powder (I.P), 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/078abedec1531fbdd3d039596648f284.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "216",
+                "Price": "197.24",
+                "Item": "Ramdev - Chaat Masala Powder (I.P), 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/38ed819fec8199a7a0aca9ce5d45f873.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹194.29/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹191.33/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "217",
+                "Price": "197.33",
+                "Item": "Ramdev - Garam Masala Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/b46c8b99a66b863f48469b0dd9ca3a01.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹193.43/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹189.43/pack for 8 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "218",
+                "Price": "911.24",
+                "Item": "Suhana - Biryani Masala, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/9344b109df99f322ba47e437a3a839f8.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹888.48/kg for 3 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹874.76/kg for 6 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "219",
+                "Price": "541.71",
+                "Item": "Suhana - Mutton Masala, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/1ee610fcc42739a7fb93ada6b0b586ba.webp",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹528.19/kg for 3 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹520.19/kg for 6 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "220",
+                "Price": "373.43",
+                "Item": "Suhana - Super Garam Masala, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/52344d300f900230dca686f09e4eaaeb.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹364.19/kg for 3 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹358.57/kg for 5 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "221",
+                "Price": "239.81",
+                "Item": "Suhana - Ambari Kanda Lehsun, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/b0de8514f896cea2f3c3fcf45d76309a.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹233.81/kg for 3 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹227.81/kg for 7 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "222",
+                "Price": "328.67",
+                "Item": "Suhana - Ambari Goda Masala, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/53425f98491de3aee5c8609b1b12ecf0.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹320.48/kg for 3 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹315.52/kg for 6 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "223",
+                "Price": "177.81",
+                "Item": "Suhana - Ambari Sunday Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/c9e702450d90c33d1754a533f573c20f.webp",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹174.29/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹170.76/pack for 8 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "224",
+                "Price": "80",
+                "Item": "Everest - Cumin Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/07046b796066c99aa49d157444f3b349.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹78/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹76/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "225",
+                "Price": "349.24",
+                "Item": "Everest - Tandoori Chicken Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/00e40247714e1fad3825ab26eaf85b31.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹337.05/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹326.57/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "226",
+                "Price": "22.67",
+                "Item": "Cookme - Sabji Masala, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/72598847a63a81556c978c8cc18cb2c7.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹22/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹21.33/pack for 20 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "227",
+                "Price": "24.86",
+                "Item": "Cookme - Meat Masala, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/cbd6b5add7bd74e85666787c38c9d11b.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹24.19/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹23.33/pack for 20 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "228",
+                "Price": "76.19",
+                "Item": "Cookme - Garam Masala, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/58b4c52bd47f7d377d3e8a8e4ab7f018.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹74.29/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹72.38/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "229",
+                "Price": "24.86",
+                "Item": "Cookme - Fish Curry Masala, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/5eafa3b7ebef1a82b9b8e7dece3f6bd6.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹24.19/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹23.33/pack for 20 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "230",
+                "Price": "24.86",
+                "Item": "Cookme - Chicken Masala, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/9939b7b750d5af5d285d6fb372aa7cde.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹24.19/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹23.33/pack for 20 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "231",
+                "Price": "16.29",
+                "Item": "Cookme - Chat Masala, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/7837e7d611a90a3131a477dd7e22a4dd.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹15.81/pack for 7 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹15.33/pack for 11 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "232",
+                "Price": "34.19",
+                "Item": "Cookme - Chana Masala, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/bf0cf96c39110ddcf28b6879117553b0.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹33.14/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹32.19/pack for 20 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "233",
+                "Price": "28.29",
+                "Item": "Cookme - Alurdom Masala, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/3179e3910499aaa326629e01708ab8e6.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹27.43/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹26.57/pack for 20 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "234",
+                "Price": "28.48",
+                "Item": "JK - Mustard Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/e77567b75895000d4bcfd1b81b8604b5.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹27.62/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹27.05/pack for 11 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "235",
+                "Price": "30.67",
+                "Item": "JK - Paani Puri Masala, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/19277c811947b6f8de213505892f3cc0.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "236",
+                "Price": "53.33",
+                "Item": "JK - Jal Jeera Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/9befb610981e4809ba469788ec9a1592.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹51.71/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹50.67/pack for 12 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "237",
+                "Price": "79.71",
+                "Item": "JK - Hing Powder, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/235b9447826bbfe02711828ea59315c6.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹78.19/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹76.57/pack for 12 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "238",
+                "Price": "44.76",
+                "Item": "JK - Coconut Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/95d09e8e7e55daea4dc478dd9bc438e0.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹43.43/pack for 7 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹42.57/pack for 13 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "239",
+                "Price": "100",
+                "Item": "JK - Biriyani Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/24c593e815142f44893a35c7eae7e5a8.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹98/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹96/pack for 12 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "240",
+                "Price": "64",
+                "Item": "JK - Amchoor Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/7f4e2bb440758a2491be55537cff604c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹62.76/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹61.52/pack for 12 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "241",
+                "Price": "77.14",
+                "Item": "JK - Aloo Dum Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/2e02550486028a8ea6f8f506b7facf79.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹74.86/pack for 11 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹72.48/pack for 22 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "242",
+                "Price": "307.52",
+                "Item": "Everest - Chaat Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/f37c6649f16df18077e4030f816da7c0.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹296.76/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹287.52/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "243",
+                "Price": "133.9",
+                "Item": "Everest - Chhole Masala, 200 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/b176ed9335541f9d11e77c50b3751ba7.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "244",
+                "Price": "141.33",
+                "Item": "Everest - Kitchen King Masala, 200 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/21ac39d6eb62b476869a9504d723e406.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹136.38/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹132.19/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "245",
+                "Price": "135.62",
+                "Item": "Everest - Pav Bhaji Masala, 200 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/a5af5acc5cf5e7d1f1e11d4b94f8dd76.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹130.86/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹126.86/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "246",
+                "Price": "65.81",
+                "Item": "Ramdev - Biryani Pulav Masala, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/485ee3379bd206990a2223654a9c107b.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹64.48/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹63.24/pack for 8 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "247",
+                "Price": "67.14",
+                "Item": "Ramdev - Chat Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/97acfa79fb840f44e2a4c3ee71cb5a50.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹66.19/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹65.05/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "248",
+                "Price": "67.9",
+                "Item": "Ramdev - Sambhar Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/22b8506140dbaba85c3845011599ec71.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹66.86/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹65.81/pack for 7 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "249",
+                "Price": "266.38",
+                "Item": "Ramdev - I.P. Chhole Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/e298c6ed891f1ebfc657f7ecb6d76498.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹259.71/pack for 7 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹253.05/pack for 15 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "250",
+                "Price": "77.14",
+                "Item": "Ramdev - Garam Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/0ff85ea8e32754f8803c0e5884838653.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "251",
+                "Price": "104.95",
+                "Item": "Ramdev - Strong Hing, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/67a06ee90c71806fad98fbacb93297e8.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹102.38/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹99.71/pack for 8 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "252",
+                "Price": "60.29",
+                "Item": "Everest - Kanda Lasoon Masala, 200 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/4ca17ea5071782f0a9e770398bb8578f.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹58.19/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹56.38/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "253",
+                "Price": "127.81",
+                "Item": "Everest - Chaat Masala, 200 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/b77db9fbb6709a26de4b56b4e229b234.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹123.33/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹119.43/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "254",
+                "Price": "338.57",
+                "Item": "Everest - Chicken Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/cf5772e24d99420390b05743cec7a759.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹328.48/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹318.29/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "255",
+                "Price": "129.81",
+                "Item": "Everest - Chicken Masala, 200 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/f8abe6973aa9b7994cc51ec516501a29.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "256",
+                "Price": "123.14",
+                "Item": "Everest - Sambhar Masala, 200 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/07dd8a2293b8a981a7e41da17ff96c08.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹120/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹118.19/pack for 7 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "257",
+                "Price": "143.9",
+                "Item": "Everest - Meat Masala, 200 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/ca51fb18d08ed322b446163b1b670266.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹140.29/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹138.19/pack for 7 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "258",
+                "Price": "335.14",
+                "Item": "Everest - Kitchen King Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/264f965cf60d6c86562722e7d4a38f71.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹323.43/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹313.33/pack for 7 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "259",
+                "Price": "252.57",
+                "Item": "Everest - Shahi Biryani, 200 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/00a0dc49d16fef528819ae90cfeed252.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹246.29/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹242.48/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "260",
+                "Price": "48.57",
+                "Item": "Sakthi - Pepper Masala, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/dcc39a04c2765e8ab392cb3a32055b64.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹47.05/pack for 7 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹45.14/pack for 13 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "261",
+                "Price": "171.14",
+                "Item": "Sakthi - Sambar Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/1e3cdfe200a25b7c5a1f7ddbf3723dae.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹167.71/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹164.29/pack for 7 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "262",
+                "Price": "55.24",
+                "Item": "Sakthi - Rasam Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/fa701d28f6913ead4edc71f1297d8808.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹53.52/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹52.48/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "263",
+                "Price": "202.19",
+                "Item": "Sakthi - Mutton Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/cd54b4ac636e89ef0dc24742dd582780.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹195.9/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹189.9/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "264",
+                "Price": "202.19",
+                "Item": "Sakthi - Mutton Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/cd54b4ac636e89ef0dc24742dd582780.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹195.9/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹189.9/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "265",
+                "Price": "23.24",
+                "Item": "Sakthi - Garam Masala, 50gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/b82168e5dfeadc1caa2463bebc34708f.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹22.57/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹21.9/pack for 8 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "266",
+                "Price": "25.14",
+                "Item": "Sakthi - Cumin Masala, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/c92c801ca98d1f982ee1e5cf5bbe32ba.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹24.38/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹23.62/pack for 8 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "267",
+                "Price": "156.95",
+                "Item": "Sakthi - Chicken Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/8b1f2946faf54b4a02ae14bd9feb949c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹153.81/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹150.67/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "268",
+                "Price": "25.14",
+                "Item": "Sakthi - Biriyani Masala, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/f31334e90003bb7dd7f15e32223d2c8a.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹24.48/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹23.71/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "269",
+                "Price": "507.62",
+                "Item": "Catch - Sambhar Masala, 1Kg Pack",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/2f24aa51c7750f7f54e18b7d57f32bed.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "270",
+                "Price": "396.76",
+                "Item": "Eastern - Super Garam Masala, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/4b0a8a61c79a8268f19bf9fa85e953b3.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹390.86/kg for 3 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹384.86/kg for 5 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "271",
+                "Price": "578.48",
+                "Item": "Catch - Rajma Masala, 1 Kg Pack",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/5c91e34489d7853a1b9e5bb8e21e71ef.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹564/kg for 4 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹549.52/kg for 8 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "272",
+                "Price": "192.19",
+                "Item": "Suhana - Super Garam Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/96f18f6736d05b04c716640d76c8645d.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹187.33/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹184.38/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "273",
+                "Price": "57.33",
+                "Item": "Suhana - Kitchen King Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/4a99a9ab89205c010c084486388adc60.webp",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹56.19/pack for 11 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹54.48/pack for 22 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "274",
+                "Price": "270.19",
+                "Item": "Suhana - Kitchen King Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/0d911e228ac0c33acc8ca81eff010685.webp",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹263.52/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹259.43/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "275",
+                "Price": "62.57",
+                "Item": "Suhana - Chicken Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/8a0601cd574347fb169da020565987b0.webp",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹61.05/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹60.19/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "276",
+                "Price": "62.57",
+                "Item": "Suhana - Meat Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/267424d987e98ccce0b7de9628a298e6.webp",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹61.05/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹60.19/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "277",
+                "Price": "52",
+                "Item": "Suhana - Sabji Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/df87d25849b30d1017da682140662303.webp",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹50.67/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹49.9/pack for 7 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "278",
+                "Price": "58.95",
+                "Item": "Suhana - Chaat Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/7c9d9ee952c1d90b053164694f318efb.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹57.81/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹56.57/pack for 30 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "279",
+                "Price": "118.19",
+                "Item": "Suhana - Biryani Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/6091635844adc3b3dbe9a032803d2d95.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹115.24/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹113.52/pack for 7 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "280",
+                "Price": "59.52",
+                "Item": "Suhana - Chhole Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/31c1e8eee282c6f71e7fb8e827b467f3.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "281",
+                "Price": "68",
+                "Item": "Suhana - Shahi Garam Masala, 100 gm Box",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/430663df2e9a39b90014e47f873348b7.webp",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹66.29/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹65.33/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "282",
+                "Price": "299.24",
+                "Item": "Suhana - Shahi Garam Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/0bc0cf79867289423265f1a6978ac851.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹291.81/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹287.24/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "283",
+                "Price": "61.24",
+                "Item": "Suhana - Pavbhaji Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/3a70b1c88a314dcdd998eb7338fc1766.webp",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹59.71/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹58.76/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "284",
+                "Price": "54.38",
+                "Item": "Suhana - Sambar Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/92cb63284ec45bbc90f8094f48b5c31b.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹53.05/pack for 7 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹52.29/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "285",
+                "Price": "88.19",
+                "Item": "Suhana - Cumin Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/e48b22246b7fa43f2778c11b2ad73fb6.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹85.9/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹83.71/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "286",
+                "Price": "336.48",
+                "Item": "Suhana - Cumin Powder, 500 gm Pack",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/769a602cb2acdc2688f5b00b11fc008d.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "287",
+                "Price": "51.52",
+                "Item": "Everest - Jal Jeera Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/5910419b3ec22077b067fbb7f56a8ae3.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹48.19/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "288",
+                "Price": "186.38",
+                "Item": "Sparsh - Jal Jeera Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/0393cc3f024015010172430e7a728f66.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹183.52/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹180.86/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "289",
+                "Price": "49.62",
+                "Item": "Three Mango - Sambar Masala Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/18a98f7762640dddf4ad526d54c53e73.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹48.86/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹48.19/pack for 25 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "290",
+                "Price": "59.52",
+                "Item": "MDH - Dal Makhni Masala, 100 gm Box",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/6952aaee0cf859d788131e23f6e990b7.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "291",
+                "Price": "64.1",
+                "Item": "Eastmade - White Pepper Powder, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/7742a67d894fde6586e3815fd7514f5e.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "292",
+                "Price": "178",
+                "Item": "Sparsh - Channa Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/017e026d8cc7ca5552dbcc3d1c6ca35f.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "293",
+                "Price": "156.38",
+                "Item": "Sparsh - Chaat Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/3d62447df329449e08ce299650625b7f.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "294",
+                "Price": "228",
+                "Item": "Sparsh - Kitchen King Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/443968e79ac643bdd6a912fcb4f4b6f5.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "295",
+                "Price": "152.48",
+                "Item": "Sparsh - Rasam Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/e7bbce75b0130bb176056e73ada06296.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "296",
+                "Price": "126.76",
+                "Item": "Sparsh - White Pepper Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/6057d796edbbc2d27aee7b919de559e0.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "297",
+                "Price": "260.86",
+                "Item": "Sparsh - Black Pepper Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/acf740997a8b09886ed30f8046545b7f.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "298",
+                "Price": "144.67",
+                "Item": "Sparsh - Sambar Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/bae5d588c0ed9ee2fd0cd64e81da5521.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹142.48/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹140.29/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "299",
+                "Price": "143.81",
+                "Item": "Sparsh - Super Chicken Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/0c511b471ab702003114f5d244efa2fd.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "300",
+                "Price": "111.14",
+                "Item": "Sparsh - Super Garam Masala, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/7495d53bf237114f9ab124ee406a7a0f.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹109.52/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹105.62/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "301",
+                "Price": "276.19",
+                "Item": "Sparsh - Jeera Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/60d0efde128b411f36b45c04b5ed155f.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹271.9/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹267.81/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "302",
+                "Price": "50",
+                "Item": "Everest - Garam Masala, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/35cfd7ffa1fc3815f3444336761b7161.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "303",
+                "Price": "57.52",
+                "Item": "Everest - Cumin Powder, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/3a66716001439589e8523c5470d35648.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹53.81/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "304",
+                "Price": "55.52",
+                "Item": "MDH - Pani Puri Masala, 100 gm Box",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/bdf43163cc90404ba1710897167fa16e.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "305",
+                "Price": "155.05",
+                "Item": "Badshah - White Pepper Powder, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/bff57d1a54b9b077a64a97d3b07a166a.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "306",
+                "Price": "72.95",
+                "Item": "MDH - Kitchen King Masala, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/66e9df97965fce78784d2341457a774c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "307",
+                "Price": "39.71",
+                "Item": "Surya - Rasam Powder, 100g",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/eff9ba5178d5afc2504bf3fd6c983e94.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+        ]
+    },
+    {
+        "SectionName": "Magaz ",
+        "SectionOrder": "20",
+        "MenuItem": [
+            {
+                "MenuId": "1",
+                "Price": "474",
+                "Item": "ES - Magaz Tumba, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/dda4448ed154c06bec2af6882111518a.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "2",
+                "Price": "535.05",
+                "Item": "Eastmade - Watermelon Seeds (Indian Magaz), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/f71336ecb0783d5765f0bacbba7e6860.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "3",
+                "Price": "540",
+                "Item": "Eastmade - Watermelon Seeds (Sudanese Magaz), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/46ad92acb0ffdc60612519a26a628067.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "4",
+                "Price": "2650",
+                "Item": "Bulk Whole - Melon Seeds (Sudanese Magaz) Loose, 5 Kg Bag",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "at ₹530/kg",
+                "ImageUrl": "img/pics/60a2214dcbf80a9456554eb462af6260.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "5",
+                "Price": "540",
+                "Item": "MB (Annkoot) - Sudanese Magaz, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/12427bcef790dee4240ff9a9f6132fd6.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "6",
+                "Price": "2650",
+                "Item": "Eastmade - Watermelon Seeds (Indian) Magaz, 5 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "at ₹530/kg",
+                "ImageUrl": "img/pics/4c09e93f9fe5b3f2d2dd3b5f1a2dd299.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "7",
+                "Price": "475.05",
+                "Item": "ADH - Watermelon Seeds (Sudanese Magaz), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/7aa5489588ed4cf5949adf01f9f899f7.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "8",
+                "Price": "540",
+                "Item": "Vashi Masala - Watermelon Seed (Magaz), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/d205693fb18a12088a7f3e223f6e1607.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+        ]
+    },
+    {
+        "SectionName": "Mouth Freshener and Papad ",
+        "SectionOrder": "21",
+        "MenuItem": [
+            {
+                "MenuId": "1",
+                "Price": "36.07",
+                "Item": "Eastmade - Sweet Saunf, 200 gm (2 gm x 100 Pcs)",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/3fd74e25cc6ba7e758768be1b77ca6d5.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "2",
+                "Price": "44.4",
+                "Item": "Balasa - Punjabi Masala Papad (7 Inch), 200 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/0bdbcbc45161ad128ef561d2ad9074a1.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "3",
+                "Price": "83",
+                "Item": "Lijjat - Punjabi Masala Papad, 200 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/69339f55-2125-4178-9fe4-6caaa28839b6_LijjatPapadPunjabiMasala200G.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "4",
+                "Price": "120",
+                "Item": "Eastmade - Sweet Saunf, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/2354f94c471ca9ca6cbd25427804ceb3.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹117.59/kg for 3 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹115.18/kg for 5 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "5",
+                "Price": "72.1",
+                "Item": "Lijjat - Udad Papad, 200 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/e21b06b0-2599-41e1-986a-6c3fd2cdf2d3_LijjatPapadUdadPapad200G.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "6",
+                "Price": "47.5",
+                "Item": "Balasa - Appalam Papad 4 inch, 200 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/224e5ca1fd16e235391bdaf5d0472ddf.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹46.1/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹44.7/pack for 8 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "7",
+                "Price": "35.71",
+                "Item": "Balasa - Pani Puri Fryum, 180 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/d9e6404b314a84c069d768920db256b3.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "8",
+                "Price": "31.33",
+                "Item": "Balasa - Badminton Papad (Fryums), 200 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/6fadfbed5cd3c8efd24ba69851ff8e8f.webp",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "9",
+                "Price": "320.3",
+                "Item": "Lijjat - Urad Papad Large (Family Pack), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/78e63331a7e4bb05b803e9610616d8b7.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "10",
+                "Price": "376.7",
+                "Item": "Lijjat - Punjabi Masala (Small), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/13bbd8cf-e761-46d0-909b-465511a80d73_LijjatPapadPunjabiMasala1KgSmall.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "11",
+                "Price": "161.4",
+                "Item": "Ambika - Appalam No.2, 280 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/abafddf168fb7f20e0e8052d2ab7fb8e.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+        ]
+    },
+    {
+        "SectionName": "Namkeens ",
+        "SectionOrder": "22",
+        "MenuItem": [
+            {
+                "MenuId": "1",
+                "Price": "41.96",
+                "Item": "Balasa - Nylon Sev (Bhel Puri Chaat), 170 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/4ecebfc57344bb7f9dfba33527f7e616.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹40.62/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹39.46/pack for 8 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "2",
+                "Price": "44.46",
+                "Item": "Balasa - Aloo Bhujia, 170 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/3b2ef48edad359ad0c144f8107936adf.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹43.12/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹41.79/pack for 8 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "3",
+                "Price": "41.96",
+                "Item": "Balasa - Mix Farsan, 170 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/623c6ed91125c20b55f0938b7bcc77d0.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+        ]
+    },
+    {
+        "SectionName": "Salts & Sugars ",
+        "SectionOrder": "23",
+        "MenuItem": [
+            {
+                "MenuId": "1",
+                "Price": "27.2",
+                "Item": "Tata - Salt, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/224399c30766ecda4626115d1d272f5f.webp",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹26.7/kg for 10 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "2",
+                "Price": "286",
+                "Item": "Trust - Classic White Sugar, 5 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "at ₹57.2/kg",
+                "ImageUrl": "img/pics/d88b50fbfd9564ef1a204841555ba4c9.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹56.34/kg for 15 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹55.49/kg for 25 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "3",
+                "Price": "62.57",
+                "Item": "Trust - Breakfast Sugar, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/a41bb88a4e82cd0864554d51fbd79f21.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹61.62/kg for 5 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹60.67/kg for 12 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "4",
+                "Price": "78.7",
+                "Item": "Catch - Black Salt, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/10fa631c2b66084476511e260d93ed00.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹77.1/kg for 10 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "5",
+                "Price": "10.9",
+                "Item": "I-Shakti - Refined Free Flow Iodised Salt, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/8cd8f56a42a393dc80aeb14c8721fee0.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹10.7/kg for 10 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "6",
+                "Price": "82.67",
+                "Item": "Trust - White Sugar Sachet, 5 gm (Pack of 200)",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/e75541a8609d17584fe5b3387432d56f.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹81.43/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹80.19/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "7",
+                "Price": "446.29",
+                "Item": "Sugar, 10 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "at ₹44.63/kg",
+                "ImageUrl": "img/pics/1d62ab271e278b3bf5210800f9d59e05.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "8",
+                "Price": "2116.67",
+                "Item": "Bajaj - Double Sulphitation Sugar (M-31), 50 Kg Bag",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "at ₹42.33/kg",
+                "ImageUrl": "img/pics/b74c4423f6c60cce707c82dc3386e460.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "9",
+                "Price": "93.84",
+                "Item": "Trust - Brown Sugar Sachet, 5 gm (Pack of 200)",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/e6aafa0963b4426a0f5f952f1ac8f29e.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹92.41/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹90.98/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "10",
+                "Price": "36.7",
+                "Item": "Shasha - Kala Namak, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/b120b658506b2c31ede3825ab04f0dfe.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹36.4/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹36.3/pc for 8 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "11",
+                "Price": "62.19",
+                "Item": "Trust - Icing Sugar, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/0c215008467d8f7d106c3de3c8f4e62b.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹60.86/kg for 5 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹59.62/kg for 10 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "12",
+                "Price": "25.3",
+                "Item": "Black Salt, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/blackSalt.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "13",
+                "Price": "67.52",
+                "Item": "Jaggery, 900 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/12ca919a533cba52488bfc6bc457eba7.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹73.54/kg for 4.5 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹71.32/kg for 11.7 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "14",
+                "Price": "60.38",
+                "Item": "Mishri, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/9ef77aecdef300e62b4f8d15a1206476.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "15",
+                "Price": "69.02",
+                "Item": "Trust - Demerara/Golden Brown Coffee Sugar, 1 Kg Pack",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/9517ee871fef3977118dd538a6280846.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "16",
+                "Price": "62.48",
+                "Item": "Trust - Caster Sugar, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/44c85d6d4a69eed0dec25215c363e3f1.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "17",
+                "Price": "31.9",
+                "Item": "Bebe Lite - Jaggery, 450 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/320127525b5da5e40d0d4f5df1ac93a1.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "18",
+                "Price": "44",
+                "Item": "Sendha Namak, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/8d7983167260f4183c79bd0d2f65c9f2.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "19",
+                "Price": "2132",
+                "Item": "Simbhaoli - Sugar M31 Double Refined Sugar, 50 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "at ₹42.64/kg",
+                "ImageUrl": "img/pics/72ecd194496f8aff9e7027d274faf695.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "20",
+                "Price": "97",
+                "Item": "Catch - Premium Pink Rock Salt, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/c01d34fa4b555879f8015c6dfcd52f87.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "21",
+                "Price": "76.76",
+                "Item": "Uttam - Sugar White Sachets (5 gm x 200 Units), 1 Kg Pack",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/99807ffedf1ef2f7ddde7a97fea695ab.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹74.48/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "22",
+                "Price": "2210",
+                "Item": "Bajaj - Kinauni Double Refined S-31 Sugar, 50 Kg Pack",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "at ₹44.2/kg",
+                "ImageUrl": "img/pics/115fa743b4d277f7669246ca9fe69480.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "23",
+                "Price": "51.81",
+                "Item": "Uttam - Double Refined Sugar, 1 Kg Pack",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/ca35e2fc11a64718dd7d95d38c39a15d.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹50.76/kg for 4 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹50/kg for 6 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "24",
+                "Price": "66.29",
+                "Item": "Uttam - Caster Sugar, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/8c388287fc189b024e0da64ca830969b.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "25",
+                "Price": "80.48",
+                "Item": "Uttam - Brown Sugar, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/5676f841de406edc7b44ac8cd60534de.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "26",
+                "Price": "66.29",
+                "Item": "Uttam - Caster Sugar, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/8c388287fc189b024e0da64ca830969b.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "27",
+                "Price": "135.05",
+                "Item": "Bebe - Jaggery Powder Sachets, 5 gm (Pack of 160)",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/4cae54c3cc14a602ca7d76af71c6cda4.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "28",
+                "Price": "80.48",
+                "Item": "Uttam - Brown Sugar, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/5676f841de406edc7b44ac8cd60534de.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "29",
+                "Price": "58.67",
+                "Item": "Uttam - Icing Sugar, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/dcb7b5779827726532a05a4b304e530a.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "30",
+                "Price": "66.67",
+                "Item": "Catch - Chat Masala Sprinkler, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/fceb6429e3eca807e75fea536f99238e.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "31",
+                "Price": "35.2",
+                "Item": "Catch - Black Salt, 200 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/21f4a7efa3b86e7b2b4de29087e2210c.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "32",
+                "Price": "270",
+                "Item": "Uttam - Double Refined Sugar, 5 Kg Pack",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "at ₹54/kg",
+                "ImageUrl": "img/pics/faadf785599055345c33699033fb6174.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "33",
+                "Price": "88.86",
+                "Item": "Uttam - Brown Sugar Sachets (5 gm x 200 Sachets)",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/0dc3d0a2cc49b6c32770f96fe0087ac4.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "34",
+                "Price": "1125.05",
+                "Item": "Madhur - (M - Grade) Sugar, 25 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "at ₹45/kg",
+                "ImageUrl": "img/pics/1edb0df9b206cc671d9142b3192d4027.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "35",
+                "Price": "69",
+                "Item": "True - Salt Sachet, 1 gm (Pack of 500)",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/2be30fc75186e20daf2ae13bf9102025.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "36",
+                "Price": "1976",
+                "Item": "Sugar (Grade - S30/S31), 50 Kg Bag",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "at ₹39.52/kg",
+                "ImageUrl": "img/pics/17628ab5a083365f341f4d15ab5bdb4c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "37",
+                "Price": "1998.76",
+                "Item": "Sugar (Grade - M30/M31), 50 Kg Bag",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "at ₹39.98/kg",
+                "ImageUrl": "img/pics/c19b884a232d720a84c79e9e959906e5.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "38",
+                "Price": "8.5",
+                "Item": "Catch - Salt Sachet, 1 gm (Pack of 50)",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/857a9dedae2968e6b132ffec1eb75268.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "39",
+                "Price": "58.8",
+                "Item": "Solapur Jaggery (Gud) IP Pack, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/611b7ab1c61a3773f2d757aea7606bea.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹57.6/kg for 5 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹55.9/kg for 10 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "40",
+                "Price": "37.24",
+                "Item": "Catch - Black Pepper Sachet, 0.25 gm (Pack of 100)",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "at ₹0.37/pc",
+                "ImageUrl": "img/pics/9207813203636ed3f004f20a26ff39e9.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "41",
+                "Price": "16",
+                "Item": "Aashirvaad - Crystal Salt, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/b00a6fe722a5cac016cd0fc6507febb6.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹15.5/kg for 25 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "42",
+                "Price": "2380.57",
+                "Item": "Sugar (Grade-L31), 50 Kg Bag",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "at ₹47.61/kg",
+                "ImageUrl": "img/pics/ab73798a5532d950a1bacb05428093af.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹47.37/kg for 100 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "43",
+                "Price": "46.76",
+                "Item": "Sugar (Grade-S30), 1 Kg Pack",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/cba605c1f01f1802e5d3779ae1d2f00a.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "44",
+                "Price": "58.19",
+                "Item": "Sugar (Grade-M30), 1 Kg Pack",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/4a957f64fd113bd2ed5a5b40a0682760.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹57.05/kg for 5 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹55.24/kg for 10 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "45",
+                "Price": "252.76",
+                "Item": "Jivana - Double Refined Sugar, 5 Kg Pack",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "at ₹50.55/kg",
+                "ImageUrl": "img/pics/53ab5ce252f7c4d2af0d00588c083b0d.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "46",
+                "Price": "70",
+                "Item": "Rasmalai Gold - Premium Desi Jaggery, 900 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/3afbe2fe641801e5e2ee7dc3300d6d56.webp",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹68.67/kg for 5 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹66.57/kg for 10 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "47",
+                "Price": "68.76",
+                "Item": "Rasmalai Gold - Kolhapuri Jaggery, 960 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/a2af67fa8e4ac1336f6b0107ba41f55d.webp",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹67.43/kg for 5 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹65.33/kg for 10 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "48",
+                "Price": "337.52",
+                "Item": "Rasmalai - Premium Desi Jaggery, 5 Kg Box",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "at ₹67.5/kg",
+                "ImageUrl": "img/pics/39101ad4a00398f70eb37c40ada0f043.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹66.15/kg for 25 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹64.13/kg for 50 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "49",
+                "Price": "54",
+                "Item": "Tata - Salt, 2 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "at ₹27/kg",
+                "ImageUrl": "img/pics/2d78f05031edfbc5db58677a34c78b60.webp",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹26.75/kg for 8 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹26.5/kg for 16 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "50",
+                "Price": "295.05",
+                "Item": "Jaggery, 5 Kg Pack",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "at ₹59.01/kg",
+                "ImageUrl": "img/pics/8fbc862bba4ab113e7d6924c02fe9611.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹57.01/kg for 25 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹55.01/kg for 50 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "51",
+                "Price": "267.9",
+                "Item": "Bannari - Double Refined Sugar, 5 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/715898e928a269c5e704ba74d0b9137e.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹262.57/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹254.48/pc for 10 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "52",
+                "Price": "272.67",
+                "Item": "SNJ 10000 - Refined Sugar S-30 Granulated, 5 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "at ₹54.53/kg",
+                "ImageUrl": "img/pics/943cb12349e995e7978c6a040dd16fec.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹53.45/kg for 25 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹51.81/kg for 50 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "53",
+                "Price": "54.76",
+                "Item": "SNJ 10000 - Refined Sugar S-30 Granulated, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/0dd73826ee2b8f2869f344c0af80edd9.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "54",
+                "Price": "35.4",
+                "Item": "BabaNamak - Black Salt Powder, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/6c606bc03bd79145ae22d82fe2158d9b.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹34.7/kg for 10 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "55",
+                "Price": "15.4",
+                "Item": "Best Salt - Crystal Salt, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/3f15ebc071fd398d038bd1840a392b53.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹15.1/kg for 10 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "56",
+                "Price": "13.5",
+                "Item": "Best Salt - Table Salt, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/508c43702559500ab969c812076f69a9.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹13.2/kg for 10 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "57",
+                "Price": "19.8",
+                "Item": "Nirma - Shudh Salt, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/603f8bc4e658bd3183db882ca1dadc13.webp",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "58",
+                "Price": "500",
+                "Item": "ZKP - Refined Sugar S-30, 10 Kg Bag",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "at ₹50/kg",
+                "ImageUrl": "img/pics/a5d3276f3ecab8cd2258c118e095b921.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹49/kg for 40 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹47.51/kg for 100 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "59",
+                "Price": "55.05",
+                "Item": "Trust - Icing Sugar, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/4f99efe460b09dc13b9a12cbc7cf32ed.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "60",
+                "Price": "1106",
+                "Item": "ZKP - Refined Sugar S-30, 25 Kg Bag",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "at ₹44.24/kg",
+                "ImageUrl": "img/pics/4eff728f0083a00094d5c2cdae98c557.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹43.36/kg for 100 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "61",
+                "Price": "93.5",
+                "Item": "Sparsh - Black Salt Powder, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/0497f5c7fdcf1a929f6b5d3cdff85dd3.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹91.6/kg for 10 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "62",
+                "Price": "15",
+                "Item": "Unbranded - Crystal Salt, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/50159f5d9d7aa8484ab0fd56837291ab.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "63",
+                "Price": "18",
+                "Item": "Aashirvaad - Salt, 1 Kg Pack",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/1126e1e67fe5affee2268eca94dd642d.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "64",
+                "Price": "275.05",
+                "Item": "Sugar, 5 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "at ₹55.01/kg",
+                "ImageUrl": "img/pics/3f327d909832372d8e15ca466c476257.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "65",
+                "Price": "17.7",
+                "Item": "Tata - Crystal Salt, 1 Kg Pack",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/13dbd3e1f20b9cc880d1d8dac62dd133.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "66",
+                "Price": "231.05",
+                "Item": "White Sugar, 5 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "at ₹46.21/kg",
+                "ImageUrl": "img/pics/4bd38d6a29690a9f86ac2bb9d7bfbf9e.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "67",
+                "Price": "59.05",
+                "Item": "Jaggery, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/ed12ab75694d4dc578828b142c172a1b.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "68",
+                "Price": "12.7",
+                "Item": "Black Salt Powder, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/359e6977aea5678e07f0cf4de032890e.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "69",
+                "Price": "12.6",
+                "Item": "Salt, 1 Kg Pack",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/908e15be-6031-4312-9222-7c80db1254f9_UnbrandedSalt1KgPack.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹12.3/kg for 10 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "70",
+                "Price": "61.9",
+                "Item": "Trust - Classic White Sugar, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/826f61a2cd6618778fdab52bafeea80e.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "71",
+                "Price": "69.62",
+                "Item": "Trust - Breakfast/Castor Sugar, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/trustBreakfastSugar.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "72",
+                "Price": "73.21",
+                "Item": "Trust - Sunehra Brown Sugar (Mineral Sugar), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/c257880b894081d39457a88a0dbc295a.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "73",
+                "Price": "70",
+                "Item": "Trust - Castor Sugar, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/mawanaCastorSugar.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "74",
+                "Price": "1966.57",
+                "Item": "Sugar (Grade-S30), 50 Kg Bag",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "at ₹39.33/kg",
+                "ImageUrl": "img/pics/2eb8600eda5d5783dc33e0f70ad84735.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+        ]
+    },
+    {
+        "SectionName": "Whole Spices ",
+        "SectionOrder": "24",
+        "MenuItem": [
+            {
+                "MenuId": "1",
+                "Price": "81.24",
+                "Item": "Eastmade - Black Pepper Whole, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/57e97fc0f868eea8471565b2fdc088cb.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "2",
+                "Price": "166.76",
+                "Item": "Eastmade - Cumin (Jeera) Whole, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/f6cacd35fa53287e5256aaa00d02a6e5.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "3",
+                "Price": "283.52",
+                "Item": "Eastmade - Cardamom (Elaichi Green), 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/d58a9c3c983033d96efb80d2fcbce299.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "4",
+                "Price": "36.38",
+                "Item": "Eastmade - Cumin (Jeera) Whole, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/356f65135a3cc95437e07ff689b20ae8.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹35.71/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹34.95/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "5",
+                "Price": "137.52",
+                "Item": "Livelihood - Lal Mirch (Dry Sabut), 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/0ca9072e726bfa96afdeb6c6abf4d604.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹134.86/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹132.19/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "6",
+                "Price": "30.95",
+                "Item": "Eastmade - Cassia (Dalchini/Taj), 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/cba4674e2173a11bc44fa6ba581a745f.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "7",
+                "Price": "21.71",
+                "Item": "Eastmade - White Sesame (Safed Till), 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/3b808c7a5f84cb79cf15edebe5cb7e79.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "8",
+                "Price": "150.48",
+                "Item": "Eastmade - Fenugreek Leaves (Kasuri Methi), 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/87a07d6ae74dbdae5f17b813381cf9f8.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "9",
+                "Price": "79.81",
+                "Item": "MDH - Kasoori Methi Dry, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/ef1bc4779b541755ec80c1de41d59aaa.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "10",
+                "Price": "139.81",
+                "Item": "ES - Coriander Whole, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/c611ef17b1a6a17e15fa68b8d37d1bc4.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹136.95/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹134.19/pc for 8 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "11",
+                "Price": "328.95",
+                "Item": "Eastmade - Cumin (Jeera), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/63c92fb04805d08460ce0bd3ccd5b9d5.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "12",
+                "Price": "320",
+                "Item": "ADH - Cumin Seeds (Jeera), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/d8a5097b26fd2f9b830ab1fb96c13b4e.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "13",
+                "Price": "28.29",
+                "Item": "Eastmade - Ajwain Seed, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/2bccc0d37fc8c5804edd67fb8ffff49b.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹27.24/pack for 11 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹26.19/pack for 21 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "14",
+                "Price": "174.95",
+                "Item": "Eastmade - Black Cardamom (Badi Elaichi), 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/6776261c74dc9d76b4555aea5ea7bbea.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹171.52/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹168/pack for 8 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "15",
+                "Price": "783.43",
+                "Item": "ES - Black Pepper Whole (Kali Mirch), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/3d816d858bfa5479447de3991e6113f9.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "16",
+                "Price": "285.81",
+                "Item": "AV - Guntur Chilli Whole (Without Stem), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/fb84a66cad377a0318d6262098be86af.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹281.52/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹277.24/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "17",
+                "Price": "12.95",
+                "Item": "Eastmade - Mustard Seed (Rai) Small, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/c3782ef7b7026e1366cfd3086e517052.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹12.57/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹12.19/pack for 9 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "18",
+                "Price": "253.81",
+                "Item": "Catch - Kasuri Methi, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/59f868ae68095d13c76313df64a8dcf3.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹250/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹246.19/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "19",
+                "Price": "67.62",
+                "Item": "ES - Coriander Whole, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/5378ea3fdd681754a6bf3602d494b288.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹66.67/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹65.62/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "20",
+                "Price": "186.95",
+                "Item": "Eastmade - Mace (Javitri), 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/ce79c030f1e22498107ae8fe264ff685.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹184.19/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹181.43/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "21",
+                "Price": "104.29",
+                "Item": "Eastmade - Clove (Laung), 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/d2cf47d63fa5bfca95fe2c78311a3927.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹101.71/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹99.62/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "22",
+                "Price": "357.62",
+                "Item": "AV - Teja Chilli Whole (Without Stem), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/18041bf2dc3d9e2d7b59fbd979281ec0.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "23",
+                "Price": "99.62",
+                "Item": "Eastmade - Black Mustard Seed (Rai) Big, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/59372d672282727c09f279ed1c8407da.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹97.62/kg for 4 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹95.62/kg for 8 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "24",
+                "Price": "121.81",
+                "Item": "Eastmade - Star Anise Seeds (Badiyan), 200 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/8903dcfcc5d6ecd083c0c03632f3cdd2.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹118.76/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹116.29/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "25",
+                "Price": "91.14",
+                "Item": "ES - Mace (Javitri), 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/1a80ae7a56e680e2dbf22f180ce2874d.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹89.81/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹88.38/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "26",
+                "Price": "38.57",
+                "Item": "Eastmade - Bay Leaf (Tej Patta), 200 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/53267bb9ac5987051baf707f44a2d342.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹37.52/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹36.38/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "27",
+                "Price": "204.38",
+                "Item": "Eastmade - Quinoa Seed, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/e25dcd74a05c7d9d9b2b5efabee68b3c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹199.24/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹194.19/pack for 12 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "28",
+                "Price": "168.86",
+                "Item": "ES - Black Cardamom (Badi Elaichi), 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/fe73abe2542c70ad01d3b08ff961c9cf.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "29",
+                "Price": "402.48",
+                "Item": "Livelihood - Kali Mirch Sabut, 500g Pack",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/95217f8b-3ef0-4df3-8c36-8ff6d67b9035_LivelihoodKaliMirchSabut500gPack.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹794.86/kg for 1.5 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹784.76/kg for 2.5 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "30",
+                "Price": "106.3",
+                "Item": "Tamarind Seedless, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/ca5e85810ac49f8257e22a0fa9484530.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹103.6/kg for 5 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹101/kg for 13 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "31",
+                "Price": "92.86",
+                "Item": "ES - Clove Headless (Laung), 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/2693cdc8e996ad0a90be16b1086e537b.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹90.57/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹88.19/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "32",
+                "Price": "217.24",
+                "Item": "Eastmade - Fennel (Saunf) Big, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/460a7f57516ad9b40210d00dcc6d1c8f.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "33",
+                "Price": "268.48",
+                "Item": "Eastmade - Poppy Seeds (Khus Khus), 200 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/2d57dda06c9882c380babae23e3fa06b.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹261.81/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹255.05/pack for 8 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "34",
+                "Price": "148.57",
+                "Item": "Eagle - Kasoori Methi, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/27172b530f90006d2cc0dd083809cce2.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹145.62/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹142.67/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "35",
+                "Price": "19.71",
+                "Item": "Eastmade - Bay Leaf (Tej Patta), 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/3cd59434f516d76c0845b0d8e49af0a8.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹19.05/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹18.48/pack for 8 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "36",
+                "Price": "256.67",
+                "Item": "Eastmade - Ajwain, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/8019bcb9a5ef9d5c3ca9c79b5490c781.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹251.43/kg for 3 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹246.29/kg for 5 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "37",
+                "Price": "234.29",
+                "Item": "AV - Guntur Chilli Whole, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/c23075a12c7fa9273dfabc2efb5dd590.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "38",
+                "Price": "37.14",
+                "Item": "ES - Cumin Seeds (Jeera), 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/32e9e8e451c71b5daba7565cee529abb.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "39",
+                "Price": "34.57",
+                "Item": "Bay Leaf, 200 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/7ba9676c058a534eb1fe05fb159fece8.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "40",
+                "Price": "117.24",
+                "Item": "Livelihood - Fennel (Saunf), 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/c05e9abf5d6c3390364815c863a27298.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "41",
+                "Price": "82.86",
+                "Item": "Eastmade - Coriander (Dhania) Small, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/4e936630665f1c0ebbaf95698aa5c0da.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "42",
+                "Price": "331.24",
+                "Item": "AV - Kashmiri Chilli Whole (Without Stem), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/19ca1cd8db3d0441d032cf83eba5e183.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "43",
+                "Price": "787.33",
+                "Item": "Eastmade - Black Pepper Whole (Kali Mirch), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/b7caa09945a07e228094bc36a2950edb.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "44",
+                "Price": "111.9",
+                "Item": "Eastmade - White Pepper Whole (Safed Mirchi), 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/bc1e229633f77daa1d7d2246e8d14e7f.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹108/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹103.43/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "45",
+                "Price": "119.71",
+                "Item": "Eastmade - Guntur Chilli Whole With Stem, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/24fa68968f406565353504a0ebdb9fa6.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "46",
+                "Price": "292.38",
+                "Item": "Eastmade - Star Anise, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/2c61869c9cd18b2e8b6942a5d3d912c9.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹286.48/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹280.67/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "47",
+                "Price": "127.5",
+                "Item": "Minar - Tamarind Seedless (Imli), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/21566918e554ac83e03ebf76af5222b6.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹125.6/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹123.7/pack for 8 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "48",
+                "Price": "1190.29",
+                "Item": "Livelihood - Choti Elaichi (Green), 500g Pack",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/30d87683-4363-4ad8-89ea-178ad7f09cc2_LivelihoodChotiElaichiGreen500gPack.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "49",
+                "Price": "14.19",
+                "Item": "Eastmade - Fenugreek Seed (Methi Dana), 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/541bbe81a92a858c926f4a14fdbc673f.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹13.62/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹13.05/pack for 12 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "50",
+                "Price": "23.9",
+                "Item": "Eastmade - Saunf Big Seed, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/13565c08536ec3e53b9d83b25d733da7.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹23.05/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹22.19/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "51",
+                "Price": "17.81",
+                "Item": "Eastmade - Coriander Seed, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/942fad6a4fed5935ccd7d56d05d85449.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹17.24/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹16.67/pack for 11 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "52",
+                "Price": "32.1",
+                "Item": "Eastmade - Fenugreek Leaves, 100 gm Box",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/cb5615f1617ad6e80f7bfb638d81c735.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "53",
+                "Price": "132.48",
+                "Item": "Eastmade - Nutmeg (Jaiphal), 200 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/62c908208eda4a38decde04a415f88c0.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "54",
+                "Price": "259.9",
+                "Item": "AV - Teja Chilli Whole, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/6592489f30ef34446b0228a0affe6be6.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "55",
+                "Price": "289.05",
+                "Item": "Livelihood - Dalchini, 1 Kg Pack",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/204c33f5-ed3e-4316-97dc-c97a6648f9fd_LivelihoodDalchini1KgPack.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "56",
+                "Price": "26.29",
+                "Item": "Eastmade - Black Sesame (Kaali Till), 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/d8924bce5123d8dfe0ba1a4bb4faff17.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "57",
+                "Price": "875.05",
+                "Item": "Livelihood - Badi Elaichi, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/6db65b34-804a-43e0-948f-be1c56e1b5c7_LivelihoodBadiElaichi500gPack.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "58",
+                "Price": "364",
+                "Item": "Eastmade - Kashmiri Chilli Whole With Stem, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/146fda1555fad599a84704a3057dc174.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "59",
+                "Price": "243.52",
+                "Item": "Eastmade - Guntur Chilli Whole With Stem, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/3970876c7bc0efdc11e1e10bf71135ad.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "60",
+                "Price": "441.62",
+                "Item": "Eastmade - Cloves (Laung), 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/3f6d5d8bdc8d169dced4a1c1c99c619d.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "61",
+                "Price": "7.52",
+                "Item": "Eastmade - Flax Seeds (Alasi), 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/2264866d6949dcc387cdba4875ac536d.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹6.76/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "62",
+                "Price": "302.57",
+                "Item": "AV - Kashmiri Chilli Whole, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/b1f108be4a0faf54eedf7066403f2d4c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹296.57/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹290.48/pack for 8 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "63",
+                "Price": "775.81",
+                "Item": "Minar - Black Pepper (Kaali Mirch), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/6e304d8a79e1411da96529719a4dce11.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "64",
+                "Price": "102.19",
+                "Item": "Eastmade - Fenugreek Seeds, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/127b5152a992a7b424d771b1c5adeecd.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹100.19/kg for 4 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹98.19/kg for 8 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "65",
+                "Price": "328.86",
+                "Item": "ES - Cumin Seed ( Economy Jeera), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/a5a6ef4fa8543d2c419adf48d83a9143.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "66",
+                "Price": "232.76",
+                "Item": "Eastmade - Cinnamon, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/69fc89c6770c86d1f352617241795dcf.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹228.19/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹223.43/pack for 8 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "67",
+                "Price": "60.19",
+                "Item": "ES - Nutmeg Seeds, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/e67173af6197f00559c8bdf7a0888d7f.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹58/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹56.48/pc for 8 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "68",
+                "Price": "509.73",
+                "Item": "Eastmade - Pumpkin Seed, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/7e2c41f0eb8765fc1fe2e32c8d9bc969.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹497.05/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹489.46/pack for 7 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "69",
+                "Price": "258.86",
+                "Item": "Eastmade - Black Sesame Seeds (Black Till), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/95c5b358e0de60900da24e301b7ecb80.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹254.95/kg for 4 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹251.62/kg for 8 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "70",
+                "Price": "180.95",
+                "Item": "Minar - Mace (Javitri) Indian, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/16a2cb3dfbf677726e7dbc0805218996.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹175.52/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹171.9/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "71",
+                "Price": "340",
+                "Item": "Minar - Jeera (Cumin) Whole Popular, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/9a5ec126d50efd33eec21e9fada73bd4.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "72",
+                "Price": "56",
+                "Item": "Eastmade - Rose Petals (Gulab Patti), 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/41d7e8d82ca36b76c71f2a6c4838b394.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "73",
+                "Price": "38.76",
+                "Item": "Eastmade - Saunf Small Seed, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/b91240f755e0c1910a41033d7cc633dc.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "74",
+                "Price": "23.43",
+                "Item": "Minar - Cinnamon Broken (Dalchini Tukda), 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/39793ecefeedc03bedd1ab485e4cc746.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "75",
+                "Price": "237.33",
+                "Item": "Eastmade - Chia Seed, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/39543bc42dc141dae5467c10ab0e1175.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹232.57/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹227.81/pack for 8 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "76",
+                "Price": "2270",
+                "Item": "Sahana - Green Cardamom/Elaichi (5-6 mm), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/6efa101d96fa5798da3a26485c9acef0.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "77",
+                "Price": "370.76",
+                "Item": "Eastmade - Fennel (Saunf) Small, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/356ac13748d7eb2d7a0e923ab9eb2052.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹365.24/kg for 6 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹359.62/kg for 12 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "78",
+                "Price": "2270",
+                "Item": "MAS - Elaichi (5-6 mm), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/193a24f0957254ccb134df396603f362.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "79",
+                "Price": "105.71",
+                "Item": "Minar - Clove (Laung), 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/e5a35c91e73fdba8c705d3a734b45e5d.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹103.05/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹100.38/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "80",
+                "Price": "293.81",
+                "Item": "Eastmade - Reshampatti (Chilli Whole), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/bdbbcc8fc64ca1b5e5284374d18731b9.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "81",
+                "Price": "365.52",
+                "Item": "Eastmade - Dry Mango (Amchur) Whole, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/037b3c7f605f6164a6a994411c7ae1b2.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹360/kg for 3 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹354.57/kg for 5 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "82",
+                "Price": "297.71",
+                "Item": "Eastmade - Nigella Seeds (Kalonji), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/2b0ff099eeab8f1e8c7f2591bdb822ca.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹293.24/kg for 3 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹288.86/kg for 5 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "83",
+                "Price": "28.86",
+                "Item": "Dhani - Anardana Whole, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/0aa7b9e0b0fbd1ca56520842b38f1021.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "84",
+                "Price": "194.29",
+                "Item": "Dhani - Fennel (Saunf) Whole, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/b6e483da847b0b1cf833a419478af568.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "85",
+                "Price": "26.95",
+                "Item": "Eastmade - Guntur Chilli Whole With Stem, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/0d1cae5d518cd59d76a626e6c359c961.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "86",
+                "Price": "395.05",
+                "Item": "Minar - Jeera (Cumin) Whole Royal, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/dd715ac39844d38edd7c4fcc0bd23149.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "87",
+                "Price": "240",
+                "Item": "Minar - Sesame White Till, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/4defc54c12a7ebabd6169bca17c98864.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "88",
+                "Price": "212.19",
+                "Item": "Minar - Dry Coconut (Khopra), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/573a26b71181570be614541d53d69860.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "89",
+                "Price": "2480",
+                "Item": "Sahana - Green Cardamom/Elaichi (6.5-7.5 mm), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/19461e09da0cff66c381016bd93b208e.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "90",
+                "Price": "328.57",
+                "Item": "MDH - Kasoori Methi Dry, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/7669339cc62ba188f2ad8f3f2e80b42e.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "91",
+                "Price": "45.2",
+                "Item": "Minar - Rose Petal (Gulab Patti), 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/47fde3c110a0d8a89121db74ef773916.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "92",
+                "Price": "38.57",
+                "Item": "ES - Kashmiri Chilli Whole, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/033c6a749b8d0cbda25e16a18539803d.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "93",
+                "Price": "2720",
+                "Item": "Sahana - Elaichi (7.5-8 mm), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/478049bd39de4300ae0d4d47bdbeec1b.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "94",
+                "Price": "141.52",
+                "Item": "Dhani - Cinnamon (Dalchini Paper Dosa) Whole, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/be907a823c2f178bd62f4f12728dd17b.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "95",
+                "Price": "230",
+                "Item": "Minar - Cinnamon Broken (Dalchini Tukda), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/27adca348c277d261c199337601faad6.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹225.52/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹220.86/pack for 8 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "96",
+                "Price": "843.43",
+                "Item": "Shah Jeera, 1 Kg Pack",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/6b215f52127af78b62c1bc93ffbfee2f.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹835.05/kg for 3 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹826.57/kg for 5 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "97",
+                "Price": "340",
+                "Item": "Dhani - Cumin (Jeera) Whole, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/d0fbe1eeffc295624111a1a5966b97d7.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "98",
+                "Price": "605.05",
+                "Item": "Minar - Garam Masala Whole, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/0ed38f817222e454ee010dddd658932d.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "99",
+                "Price": "37.52",
+                "Item": "Minar - Kasoori Methi Leaves, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/49a26be7372635e5180620c3ac837d13.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹36.57/pc for 2 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹36/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "100",
+                "Price": "1561.43",
+                "Item": "Minar - Badi Elaichi (Black Cardamom), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/dee3ad93ed94f0c823306c07957ad563.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "101",
+                "Price": "45.05",
+                "Item": "Eastmade - Kashmiri Chilli Whole With Stem, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/41f44e945e397b3a180b21d6bc0b66e8.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "102",
+                "Price": "500",
+                "Item": "Livelihood - Laung, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/d9380c34-193b-438f-a147-205224b4a1d6_LivelihoodLaung1KgPack.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "103",
+                "Price": "800.86",
+                "Item": "Minar - Shahjeera, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/e340b3368f5d1569780ab08c937f4506.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "104",
+                "Price": "302.57",
+                "Item": "Eastmade - Cassia, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/58be5476317c1f7874a46d5603b2f813.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹295.05/kg for 3 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹290.48/kg for 7 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "105",
+                "Price": "610.19",
+                "Item": "MDH - Kasoori Methi Dry, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/fa6585e8c97e9923400a83f3ea28325b.webp",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹591.81/kg for 5 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹573.52/kg for 10 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "106",
+                "Price": "34.76",
+                "Item": "Minar - Fennel (Saunf) Small, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/607987b7e98922764c89120e6b7d42be.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "107",
+                "Price": "829.43",
+                "Item": "Minar - Black Pepper (Kaali Mirch) 600 g/l, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/b63f74e1bb51b5ddc6da681a5933f158.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "108",
+                "Price": "120.67",
+                "Item": "Minar - Methi Seed (Fenugreek Seed), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/c3348949f7c8436b337705e973c86b4a.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹117.71/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹114.67/pack for 8 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "109",
+                "Price": "257.05",
+                "Item": "Minar - Ajwain Seed, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/79f6d7f511019b8be8f33e73044e51f7.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹250.57/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹246.76/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "110",
+                "Price": "291.24",
+                "Item": "AV - Momo Chilli (Stemcut), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/8cf626cbcad3a04ce45f2b5996958b6d.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "111",
+                "Price": "2750",
+                "Item": "MAS - Elaichi (7.5-8 mm), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/87f4c2edf86b5fd7e30c2aafe7ef853d.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "112",
+                "Price": "53.05",
+                "Item": "Eastmade - Guntur Chilli Whole With Stem, 200 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/e7c2f8e9f66b21c9376ded166be5e18c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹51.71/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹50.67/pack for 12 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "113",
+                "Price": "2400",
+                "Item": "MAS - Elaichi (6.5-7.5 mm), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/1f380b7da3c6967addfabf30aecca814.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "114",
+                "Price": "1680.86",
+                "Item": "ES - Black Cardamom (Badi Elaichi), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/ff7371cd56da8b4d114dc2da047380e4.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "115",
+                "Price": "803.43",
+                "Item": "Dhani - Black Pepper (Kali Mirch) Whole, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/b13a3f9503021809c6282424e43044ea.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "116",
+                "Price": "262.95",
+                "Item": "Minar - Khus Khus (Poppy Seed), 200 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/4e86a58e05b1ee403c1d0c13fdcbecad.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹259.05/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹255.05/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "117",
+                "Price": "59.81",
+                "Item": "Eastmade - Stone Flower (Dagadful), 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/1b919fe7c7a1a60fcaebc700fd05891a.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹58.29/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹57.05/pack for 12 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "118",
+                "Price": "299.05",
+                "Item": "Dhani - Star Anise (Badiyan) Whole, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/f3001acf7a9de8a32e8bafab443d6af7.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹294.57/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹290.19/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "119",
+                "Price": "316.19",
+                "Item": "Dhani - Nutmeg (Jaiphal) Whole, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/e165ffc529ba7502e2c8e7ef65296469.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "120",
+                "Price": "290",
+                "Item": "Minar - Cinnamon Stick (Dalchini Cassia), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/14f96bce492c5084e4bf6ea15b70fa28.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹282.76/pack for 2 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹278.48/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "121",
+                "Price": "144.67",
+                "Item": "Eastmade - Kebab Chini (Cubes), 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/2cce28b04d2936c92e08c617308a8253.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹142.48/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹140.38/pc for 7 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "122",
+                "Price": "821.33",
+                "Item": "ES - Clove Headless (Laung), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/8a4ba4c568477a3d3f90ffbc8d244cf9.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹809.05/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹796.67/pack for 8 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "123",
+                "Price": "476.38",
+                "Item": "Dhani - Clove (Laung) Whole, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/b78f84519e51a26631bf18ff4c38dba6.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "124",
+                "Price": "190.19",
+                "Item": "Eastmade - Kashmiri Chilli Whole With Stem, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/37dd517da6fceb904c8c3a4565fe21b8.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹187.24/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹184.38/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "125",
+                "Price": "103.24",
+                "Item": "Minar - White Pepper Whole, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/d52035f22b718fb21ea3b9b6f35f66b0.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "126",
+                "Price": "2530",
+                "Item": "Minar - Elaichi 6.5-7.5 mm, 1 Kg ",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/be7bf3eb61abdeb3eb2e8fb0dd0b322e.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "127",
+                "Price": "103.24",
+                "Item": "Minar - White Pepper Whole, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/d52035f22b718fb21ea3b9b6f35f66b0.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "128",
+                "Price": "2350",
+                "Item": "MAS - Elaichi 7 mm (Split Quality), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/f1da24f75f593463551e2b0f40004a95.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "129",
+                "Price": "164.57",
+                "Item": "AV - Curd Rice Chilli, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/402914c639c58d1538ce7deafc3e397d.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "130",
+                "Price": "256.19",
+                "Item": "Minar - Onion Seed (Kalonji), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/ac719f4fcd19a4e4b8c26bb2734498c4.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "131",
+                "Price": "898.76",
+                "Item": "Minar - Clove Zanzibar (Laung), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/32e9890af6904fa57d2c7b606bb7608d.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "132",
+                "Price": "861.71",
+                "Item": "Minar - Clove (Laung), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/466b7aa2a76c4e380541ef6f2c0c9e37.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "133",
+                "Price": "41.81",
+                "Item": "Eastmade - Reshampatti, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/6fc52b0a2d09fc1e87cf303089e8d596.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "134",
+                "Price": "122.67",
+                "Item": "ADH- Coriander Seeds / Dhaniya Seeds, 1Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/3521e295-ed51-4ddd-8b3b-b48827b81d7f_SumedhaCorianderSeedsDaniyaSeeds1Kgs.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "135",
+                "Price": "618.48",
+                "Item": "Minar - Star Anise (Badiyan), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/05e6d338122376573a54376fbe94b382.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "136",
+                "Price": "21.33",
+                "Item": "Eastmade - Dill Seeds (Suwa), 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/2015cd35e04d6f39122ec9cd766254c5.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "137",
+                "Price": "33.9",
+                "Item": "Eastmade - Marathi Moggu (Kapok Buds), 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/88ae2c9d60098d75f86866e807590b3d.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "138",
+                "Price": "2890",
+                "Item": "Sahana - Indian Green Cardamom (8 mm, Bold), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/6ef26b30916d5b664d75720db09fe58c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "139",
+                "Price": "599.71",
+                "Item": "Eastmade - Nutmeg (Jaiphal), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/f159af3f10d2c4f8f03911393ee77550.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "140",
+                "Price": "511.52",
+                "Item": "Dhani - White Pepper (Safed Mirch) Whole, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/6bc4babb89a580a73fbae249bf031681.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "141",
+                "Price": "932.38",
+                "Item": "Dhani - Black Cardamom (Kali Elaichi ) Whole, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/ee38f5a296529a64b329a96abbdb0ba2.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "142",
+                "Price": "1932.76",
+                "Item": "Minar - Mace (Javitri) Indonesian, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/bbc95a27cdbfbdd6dc282dde85405538.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "143",
+                "Price": "210.67",
+                "Item": "ADH - White Sesame Seeds (White Till), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/0e9407eddc8a2d7360b487e3703c56c6.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "144",
+                "Price": "2195.43",
+                "Item": "Isha (Sahana) - Elaichi 7 mm (Split Quality), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/4afc3906f05893c29d3a4a7c8d2494c3.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "145",
+                "Price": "84.38",
+                "Item": "Eastmade - Kashmiri Chilli Whole with Stem, 200 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/7e0bf03f09db0397974f80d23a572968.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "146",
+                "Price": "477.81",
+                "Item": "ADH - Star Anise, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/starAnise1Kg.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "147",
+                "Price": "147.9",
+                "Item": "Surya - Dry Khopra, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/05c3f00a42cf1ea357a245597bba2e4b.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "148",
+                "Price": "2415.05",
+                "Item": "Minar - Elaichi 7-8 mm Split, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/1aa6aa4de27ae586f21982ffba53be4f.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "149",
+                "Price": "816.38",
+                "Item": "ADH - Clove (Laung), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/016312a852dd24cd41a9af7e5806f668.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "150",
+                "Price": "660",
+                "Item": "Minar - Nutmeg (Jaiphal), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/07b0d19dae2502495e2a74ca74761088.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "151",
+                "Price": "2088.95",
+                "Item": "Elaichi Dana (Cardamom Seed), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/223e24bd5645d200d6208fe10776fc9c.webp",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "152",
+                "Price": "812.19",
+                "Item": "Tulsi - Shahjeera, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/b4c25c684c36ac90d93c9ab645f3ff81.webp",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "153",
+                "Price": "328.57",
+                "Item": "Eastmade - Black Pepper Whole (Kaali Mirch), 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/6a126b49b4f615c5ca6bf8ab5adbbc7e.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "154",
+                "Price": "268.67",
+                "Item": "Vashi Masala - Lal Mirch (Teja), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/ad1ea696efa51bee43281770cd611e27.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "155",
+                "Price": "764.67",
+                "Item": "Vashi Masala - Kaali Miri (Black Pepper), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/77cb3f2af6e8904b165d89d90f65987a.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "156",
+                "Price": "230.19",
+                "Item": "Vashi Masala - Khopra Gola (Dry Coconut), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/b4a07dfa8e2c50d2915e569d046c2882.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "157",
+                "Price": "225.62",
+                "Item": "Vashi Masala - Ajwain, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/295145a69c260a48d61ed1d147314df0.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "158",
+                "Price": "120.38",
+                "Item": "Vashi Masala - Tej Patta (Bay Leaf), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/678e39c6d673e0911ba9c86511667093.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "159",
+                "Price": "206.57",
+                "Item": "Vashi Masala - Biriyani Dalchini (Cassia), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/62ef50e10a4ebe7c103ad1d0b3a8ecb5.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "160",
+                "Price": "130.86",
+                "Item": "Vashi Masala - Dhaniya Sabut (Coriander Whole), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/1c1fce4f5db07d30fc63205f9870be04.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "161",
+                "Price": "532",
+                "Item": "Vashi Masala - Badiyan (Star Anise), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/fd38548e35639fd126f8ac7863803f45.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "162",
+                "Price": "127.5",
+                "Item": "Vashi Masala - Imli (Tamarind Seedless), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/7df8b23c09a56b48fc2a8c066708bb5a.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "163",
+                "Price": "296.19",
+                "Item": "Vashi Masala - Bydagi Mirch (Kashmiri), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/03f5ebafa97ae6ae336198324cc7446e.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "164",
+                "Price": "272.57",
+                "Item": "Vashi Masala - Pandi Chilli (Guntur Mirch), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/f9e55b86067041c41e1194ecea41eb84.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "165",
+                "Price": "920",
+                "Item": "Vashi Masala - Laung (Cloves), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/57caabd1dce317593600b46cd16b1cb0.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "166",
+                "Price": "330",
+                "Item": "Vashi Masala - Jeera Sabut (Cumin Seeds), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/04d146695e090f2570242396087fc21d.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "167",
+                "Price": "210",
+                "Item": "Vashi Masala - Saunf (Fennel), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/82caca9c4b9647980430a7dfac2d351c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "168",
+                "Price": "225.71",
+                "Item": "Vashi Masala - Safed Till (White Sesame), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/c659293b3cf237871be5602d7d72471c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "169",
+                "Price": "214.48",
+                "Item": "Vashi Masala - Kaali Till (Black Sesame), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/d0342bca289e549078e395a309edef77.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "170",
+                "Price": "60.67",
+                "Item": "Vashi Masala - Kasoori Methi, 250 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/82e0b07fd3a775db773d46c1d5a35a81.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "171",
+                "Price": "405.05",
+                "Item": "JK - Cumin (Jeera), 500 gm ",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/051908faee084e85cd17304e8927baeb.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "172",
+                "Price": "101.81",
+                "Item": "JK - Red Black Mustard (Rai), 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/5d3c41476e1436397f2df1c62e21cb0b.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "173",
+                "Price": "110",
+                "Item": "JK - Fenugreek Seeds (Methi Dana), 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/f002874a885a6ed6d432b3fadfbf552c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "174",
+                "Price": "69.05",
+                "Item": "JK - Kasuri Methi (Fenugreek) Leaves, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/4512c9aaca9e4a6b7fe9b58820265892.webp",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "175",
+                "Price": "21.71",
+                "Item": "JK - Fenugreek Seeds (Methi Dana), 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/f75d95bcbc19cafcab479486aaf4d270.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "176",
+                "Price": "21.05",
+                "Item": "JK - Black Mustard (Rai), 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/004e2ded4228019c671311d9f254f93d.webp",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "177",
+                "Price": "84",
+                "Item": "JK - Cumin (Jeera ), 100 gm ",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/cc1f84a0cdc943d221dd62531f77e624.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "178",
+                "Price": "980",
+                "Item": "Minar - White Pepper Whole, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/613790c9dc7428b472e7af4d48533094.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "179",
+                "Price": "2450",
+                "Item": "MAS - Elaichi 8 mm Bold (Split Quality), 1 Kg	",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/67037e312e5e961c75e5f354b020a2de.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "180",
+                "Price": "23.05",
+                "Item": "ADH - Panchforan, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/be92a3fe1e89d60d2fe2af855fb76eb5.webp",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹22.48/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹21.81/pc for 10 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "181",
+                "Price": "98.86",
+                "Item": "ADH - Mustard Seeds (Rai), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/9103b3e2009aa4683ee03ec586f858a0.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹96.38/kg for 4 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹93.9/kg for 8 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "182",
+                "Price": "351.05",
+                "Item": "ADH - Kasoori Methi, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/2463689697e3945930f06294608e20d1.webp",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹345.81/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹340.48/pack for 8 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "183",
+                "Price": "2600",
+                "Item": "MAS - Elaichi (8 mm Bold), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/6320e3a1f359a7ac4a9ddaa37c8b380c.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "184",
+                "Price": "108",
+                "Item": "ADH - Fenugreek Seeds (Methi Dana), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/59d31039140edd6a1f833fe03397fac0.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹105.33/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹103.71/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "185",
+                "Price": "303.05",
+                "Item": "ADH - Black Sesame Seeds (Black Till), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/91e9b5ba3f53c09f4e507514168c2e23.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "186",
+                "Price": "345.62",
+                "Item": "ADH - Whole Chilli, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/14e8c2d69dd153df1ba8b3c63d66b6db.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "187",
+                "Price": "2461.9",
+                "Item": "ADH - Green Cardamom Elaichi (6.5-7.5 mm), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/f88850900c1374f5bec904beb5272426.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹2,437.33/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹2,412.67/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "188",
+                "Price": "350",
+                "Item": "ADH - Kashmiri Chilli Whole (With Stem), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/c5a76b648cacf19b06a66b0876db4129.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "189",
+                "Price": "790",
+                "Item": "ADH - Black Pepper Whole (Kali Mirch), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/029bad3c35adc10592861d6c33f519cf.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "190",
+                "Price": "297.62",
+                "Item": "ADH - Cassia, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/3229aaec503d5f190ce0814a18b21285.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹293.24/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹288.76/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "191",
+                "Price": "25.24",
+                "Item": "ES - Guntur Chilli Whole, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/14cad23b260451b059f73dc11cedc71f.webp",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹24.67/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹24/pc for 10 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "192",
+                "Price": "184",
+                "Item": "ES - Mace (Javitri), 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/b34ad052e382d6b2a53bc72b9ac1dd87.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹179.43/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹174.76/pc for 6 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "193",
+                "Price": "17.81",
+                "Item": "ES - Coriander Whole, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/35a6740a7f62a7551839dc910c226805.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹17.33/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹16.76/pc for 10 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "194",
+                "Price": "86.86",
+                "Item": "ES - Black Pepper Whole (Kali Mirch), 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/83b820466a7d3b21b3db837448e18bce.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹84.57/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹82.38/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "195",
+                "Price": "773.43",
+                "Item": "ADH - ShahJeera (Caraway), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/41d2bd5602e5b850badb1714e0efa8f9.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹765.71/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹758/pc for 8 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "196",
+                "Price": "35.05",
+                "Item": "Surya - Kasoori Methi, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/3402bbf5e5835c476c6997bc4dc2512e.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹34.38/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹33.62/pc for 9 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "197",
+                "Price": "2640.86",
+                "Item": "ES - Green Cardamom (Elaichi), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/0a51282a3e33a00e8c24c1125992d810.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹2,621.14/kg for 3 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹2,601.33/kg for 5 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "198",
+                "Price": "1500",
+                "Item": "Kebab Chini, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/9be8f6fc7d9ba0ff925d3bd16dd6fb5d.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "199",
+                "Price": "579.05",
+                "Item": "ES - Nutmeg (Jaiphal), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/45760c711780d4de210a6e938cad9cfe.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹570.38/kg for 3 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹561.71/kg for 5 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "200",
+                "Price": "322",
+                "Item": "Badshah - Kasuri Methi, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/e83c13b97594e03204f7aacfd4e096c0.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹314/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹305.9/pc for 8 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "201",
+                "Price": "72.95",
+                "Item": "Badshah - Kasuri Methi, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/e299bb898342d4673e338451a3956184.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹71.14/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹70.19/pc for 7 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "202",
+                "Price": "588.48",
+                "Item": "Eastmade - Star Anise Seeds (Badiyan), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/76a2e3a8d1cbe60b3b12b4d88198a79d.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹576.67/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹564.95/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "203",
+                "Price": "148.57",
+                "Item": "Eastmade - Bay Leaf (Tej Patta), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/350053c0b29b08fe8f7ad3ad8141bd07.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹146.38/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹144.19/pc for 8 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "204",
+                "Price": "480.29",
+                "Item": "Eastmade - Red Rose Petal, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/1231fa22130f97d8e925e5657acce4f5.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹473.05/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹465.9/pc for 6 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "205",
+                "Price": "4253.33",
+                "Item": "Eastmade - Kashmiri Chilli (Without Stem), 5 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "at ₹850.67/kg",
+                "ImageUrl": "img/pics/65458814155cb1a2ef69d2bf4f35c9a0.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹837.9/kg for 15 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "206",
+                "Price": "1619.43",
+                "Item": "Eastmade - Wonder Hot (Without Stem), 5 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "at ₹323.89/kg",
+                "ImageUrl": "img/pics/aadf5bd4267d3402657ffa52bddc11e4.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹319.01/kg for 15 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹314.17/kg for 25 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "207",
+                "Price": "102.9",
+                "Item": "Tamarind Whole, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/d043436cce3c87b790ae6e57ec710a92.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "208",
+                "Price": "296.19",
+                "Item": "AV - Mundu (Gundu) Chilli, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/12b50de6269cfea9ed243144081338ba.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "209",
+                "Price": "269.05",
+                "Item": "Ramdev - Kasoori Methi (I.P), 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/2b80df55965909f9bb43efb5bad6eb8d.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹266.38/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹263.71/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "210",
+                "Price": "675.05",
+                "Item": "Lal Mirch Mild Medium Best (Purple Sticker), 5 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "at ₹135.01/kg",
+                "ImageUrl": "img/pics/ef8ad83bbf11601b073bb9d39b1e1b09.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "211",
+                "Price": "675.05",
+                "Item": "Lal Mirch Spicy Best (Yellow Sticker), 5 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "at ₹135.01/kg",
+                "ImageUrl": "img/pics/7fd0d587c3bd83a3f3e8019f580cb2e3.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "212",
+                "Price": "88",
+                "Item": "JK - Safed Mirch Gota, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/ba606231e729b8156570885f787db3d8.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹86.29/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹84.48/pack for 12 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "213",
+                "Price": "34.29",
+                "Item": "JK - Radhuni Whole, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/e3d5c61e5d9bff44c3c4bbade52fa413.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹33.14/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹31.71/pack for 11 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "214",
+                "Price": "23.14",
+                "Item": "JK - Panch Foran Mix, 50 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/efb7e23978d2900a8cb00d0554067ab1.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹22.38/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹21.43/pack for 11 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "215",
+                "Price": "116.86",
+                "Item": "JK - Sarson Yellow Whole, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/61ce15fdda687cac53287d79add0edfc.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹114.48/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹112.19/pack for 8 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "216",
+                "Price": "1020.76",
+                "Item": "JK - Posto Dana Whole, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/e3d2f228b25eee56772fc75e9e389b2e.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹1,002.48/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹985.05/pack for 8 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "217",
+                "Price": "48.86",
+                "Item": "JK - Kalonji Whole, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/c8a95232fb94c107576f61e5d3a1a909.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹47.14/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹45.24/pack for 11 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "218",
+                "Price": "376.48",
+                "Item": "Ramdev - Kasoori Methi, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/7302e809d5a4d863101e9eff7c6e003c.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹372.76/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹368.95/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "219",
+                "Price": "80.86",
+                "Item": "Ramdev - Kasoori Methi, 100 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/189d730d8d99010b68453cb51ffd7992.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹79.24/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹77.62/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "220",
+                "Price": "3450",
+                "Item": "Unbranded - Green Cardamom (9 mm), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/55e1c6b1430774a8456a2507d971d836.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "221",
+                "Price": "367.05",
+                "Item": "Everest - Kasuri Methi, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/b8e7181977376d0cb891c081812e06cb.webp",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹359.71/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹352.38/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "222",
+                "Price": "68",
+                "Item": "Suhana - Kasoori Methi, 100 gm Pouch",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/c6c3ffaff742d132d7a5c38e5f939b29.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹66.29/pack for 3 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹65.33/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "223",
+                "Price": "2015.71",
+                "Item": "ADH - Mace (Javitri), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/5e473e6dc10016d72bede4a0b90b6a83.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "224",
+                "Price": "106.76",
+                "Item": "ADH - Bay Leaf (Tej Patta), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/4c582e0cf543ad154b8b2bf5ebecfdc1.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹104.1/kg for 3 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹102/kg for 7 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "225",
+                "Price": "851.9",
+                "Item": "Eastmade - Black Cardamom, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/80d66cd9499881d1723b5afe8369c0cc.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "226",
+                "Price": "230",
+                "Item": "ADH - Dry Coconut, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/0fb6d7b381b4a28ff3c105cba76a4afd.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹224.29/kg for 3 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹220.86/kg for 7 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "227",
+                "Price": "378.86",
+                "Item": "Eastmade - Caraway/Shahjeera, 500 gm Pack",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/5b4d2fc69b9598dfe62e27c34225ee9c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹373.24/pack for 4 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹367.52/pack for 8 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "228",
+                "Price": "248.19",
+                "Item": "Sparsh - Kasuri Methi, 425 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/66f5d637ca1010be3619bf5f5c7da64f.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "229",
+                "Price": "420",
+                "Item": "AV Unbranded - Whole Kashmiri Chilli, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/c5ae24e1d1a19db2d42b63faa23f8e4a.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "230",
+                "Price": "121.62",
+                "Item": "Livelihood - Ajwain, 500 gm Pack",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/af87faf05368e8e7bd557646d983504d.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹237.14/kg for 2 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹231.04/kg for 4 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "231",
+                "Price": "28.76",
+                "Item": "Eastmade - Yellow Mustard, 200 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/ee90d8deddf89cc211d257f4b6a03d12.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹27.81/pack for 5 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹26.76/pack for 10 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "232",
+                "Price": "177.81",
+                "Item": "Eastmade - Nigella Seeds (Kalonji), 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/41090907d7af1e802079a64239f51cd8.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹173.33/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹168.86/pc for 8 pcs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "233",
+                "Price": "231.43",
+                "Item": "Eastmade - Nylon Sesame Seeds (Hulled Till), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/368a905079e16f2b41c427675a7f6607.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹227.9/kg for 4 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹223.24/kg for 8 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "234",
+                "Price": "92",
+                "Item": "Eastmade - Black Mustard Seed (Small), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/a2ffa4e9ac64e66f050d22fcf981bccc.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹90.19/kg for 3 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹88.29/kg for 5 kgs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "235",
+                "Price": "95.9",
+                "Item": "Eastmade - Basil Seeds (Sabja), 200 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/f97acdca5d263c240f58212f10b3ab74.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹92.57/pack for 6 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹88.76/pack for 12 packs+",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "236",
+                "Price": "140",
+                "Item": "Eastmade - Ajwain, 500 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/e008bf5b2d993c970fa4383d152d47e4.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "237",
+                "Price": "1207.52",
+                "Item": "ADH - Black Cardamom (Kali Elaichi), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/black-Cardamom1Kg.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "238",
+                "Price": "270",
+                "Item": "ADH - Kalonji (Black Jeera), 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/Kalonji 1 Kg.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "239",
+                "Price": "245.05",
+                "Item": "ADH - Ajwain Seeds, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/ajwainSeeds1Kg.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "240",
+                "Price": "340.48",
+                "Item": "ES - Kashmiri Chilli Whole, 1 Kg",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/feb4d16df06932d7ebb7e5b4feeba658.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "241",
+                "Price": "182.86",
+                "Item": "Star Anise, 250 gm",
+                "CategoryName": "Masala, Salt & Sugar",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/starAnise.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+        ]
+    },
 ];
 var Categories = [
 ];
@@ -14505,3 +33042,576 @@ var RecommendedItemList = [
         "Description2": ""
     },
 ];
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
