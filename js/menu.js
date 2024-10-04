@@ -456,7 +456,7 @@ var MenuList = [
             {
                 "MenuId": "17",
                 "Price": "596.57",
-                "Item": "Sprite Zero - 300 ml Can (Pack of 24) MRP - 40/pc	",
+                "Item": "Sprite Zero - 300 ml Can (Pack of 24) MRP - 40/pc",
                 "CategoryName": " Beverages & Mixers",
                 "Type": "",
                 "Heighlightdescription": "at ₹24.86/pc",
@@ -31468,7 +31468,7 @@ var MenuList = [
             {
                 "MenuId": "179",
                 "Price": "2450",
-                "Item": "MAS - Elaichi 8 mm Bold (Split Quality), 1 Kg	",
+                "Item": "MAS - Elaichi 8 mm Bold (Split Quality), 1 Kg",
                 "CategoryName": "Masala, Salt & Sugar",
                 "Type": "",
                 "Heighlightdescription": "",
@@ -34408,8 +34408,8 @@ var MenuList = [
             {
                 "MenuId": "7",
                 "Price": "156.27",
-                "Item": "Floor Commercial Wiper 21 - Yellow, 1 Pc",
-    "CategoryName": "Cleaning & Consumables",
+                "Item": "Floor Commercial Wiper 21- Yellow, 1 Pc",
+                "CategoryName": "Cleaning & Consumables",
                 "Type": "",
                 "Heighlightdescription": "",
                 "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/a654267ddec92689a9d42bddfeae9020.png",
@@ -36891,6 +36891,7845 @@ var MenuList = [
                         "Name": "",
                         "Description": "",
                         "Price": ""
+                    },
+                ]
+
+            },
+        ]
+    },
+    {
+        "SectionName": "Aluminium Container",
+        "SectionOrder": "31",
+        "MenuItem": [
+            {
+                "MenuId": "1",
+                "Price": "53.9",
+                "Item": "[CONTAINER ONLY] White Paper Dip/ Sauce Container without Lid, 40 ml (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹0.54/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/bd387aeea68cb062d29aa455155f42e8.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "2",
+                "Price": "151.25",
+                "Item": "Aluminium Container with Lid, 250 ml (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹1.51/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/88d0bfaa2b6fba1d0daa4abbd645d6f8.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "3",
+                "Price": "418.9",
+                "Item": "White Paper Pastry Box (For 2 Pastries), 320 GSM (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹4.19/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/4c35616e3f84e31b7e57203a47df744d.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "4",
+                "Price": "121.95",
+                "Item": "V- Bottom Paper Bag, 80 GSM, (W:24 X G:10 X H:42 cm), Pack of 2 Kg",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹60.98/kg",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/d7e9ae699178dc9b3bf80cf4a979418f.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "5",
+                "Price": "121.95",
+                "Item": "V- Bottom Paper Bag, 80 GSM, (W:20 X G:8 X H:34 cm), Pack of 2 Kg",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹60.98/kg",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/5dab9e65b7d6d7166f9975940b4bcda8.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "6",
+                "Price": "145.42",
+                "Item": "2 Compartment Meal Box Tray with Lid, (Pack of 25)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.82/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/9d0a570148f67c977cae8c58d9a900bd.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "7",
+                "Price": "196.86",
+                "Item": "Rice Bowl 650 ml Black with Lid, (Pack of 35)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.62/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/13e2d7095411a85c34cadd5a09db0be9.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "8",
+                "Price": "165.93",
+                "Item": "Rice Bowl 500 ml Black with Lid, (Pack of 35)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹4.74/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/953590aa16f906f90f419256576423aa.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "9",
+                "Price": "1094.66",
+                "Item": "Origami - M Fold Paper Towel, 19 x 21 cm, 125 Sheets Guaranteed (Pack of 40)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹27.37/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/62f691c09dc7bef0e7fabd173c40da66.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "10",
+                "Price": "568.31",
+                "Item": "Origami - Paper Tissue, 27 x 30 cm, 1 Ply, 100 Pulls Guaranteed (Pack of 25)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹22.73/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/eaf22bc11d901e72d8f67fac579bdf8f.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "11",
+                "Price": "562.88",
+                "Item": "Origami - Paper Tissue, 22 x 22 cm, 1 Ply, 100 Pulls Guaranteed (Pack of 40)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹14.07/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/ebea340196a0548c9a22ad6a450e3f6d.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "12",
+                "Price": "2713.47",
+                "Item": "Damati - Rectangle Container White with Lid, 500 ml (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.43/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/7472ad79e6514a38787fdf315bf94250.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "13",
+                "Price": "721.95",
+                "Item": "Damati - 3 Compartment Meal Tray with Lid, RE 342 (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹14.44/piece",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/0752c8726a984dfd7f35dfa7d10ee5e4.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "14",
+                "Price": "676.61",
+                "Item": "Virgin Paper Tissue, 12x12 Inches, 1 Ply, 100 Pulls (Pack of 25)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹27.06/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/a20d5cf08821188266ea9d643457be99.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "15",
+                "Price": "337.86",
+                "Item": "Aluminium Container with Lid, 750 ml (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹3.38/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/17de21adba2475ecfcb7483d7d4d6239.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹3.31/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "3.31"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹3.24/pc for 500 pcs+",
+                        "Description": "",
+                        "Price": "3.24"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "16",
+                "Price": "70.51",
+                "Item": "Aluminium (Silver) Pouches, 6*8 (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹0.71/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/b580bd8447ca6b010ef5d749247e754a.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹0.69/pc for 200 pcs+",
+                        "Description": "",
+                        "Price": "0.69"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹0.68/pc for 500 pcs+",
+                        "Description": "",
+                        "Price": "0.68"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "17",
+                "Price": "57.97",
+                "Item": "Aluminium (Silver) Pouches, 5*7 (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹0.58/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/155b296e149de20187bee0403f5857b1.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹0.57/pc for 200 pcs+",
+                        "Description": "",
+                        "Price": "0.57"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹0.56/pc for 500 pcs+",
+                        "Description": "",
+                        "Price": "0.56"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "18",
+                "Price": "104.58",
+                "Item": "Aluminium (Silver) Pouches, 10x12 inch (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹1.05/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/846fa6147f796a0020bdf8ed57de1ed2.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹1.03/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "1.03"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "19",
+                "Price": "74.83",
+                "Item": "Aluminium (Silver) Pouches, 8x10 inch (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹0.75/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/b90561e1d2df72d6aa8926c81a224148.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹0.73/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "0.73"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "20",
+                "Price": "27.88",
+                "Item": "Aluminium (Silver) Pouches, 4x6 inch (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹0.28/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/abb25207dd0df2633c77708d0e404d5c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹0.27/pc for 400 pcs+",
+                        "Description": "",
+                        "Price": "0.27"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹0.27/pc for 600 pcs+",
+                        "Description": "",
+                        "Price": "0.27"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "21",
+                "Price": "57.97",
+                "Item": "Aluminium (Silver) Pouches, 5*7 (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹0.58/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/155b296e149de20187bee0403f5857b1.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹0.57/pc for 200 pcs+",
+                        "Description": "",
+                        "Price": "0.57"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹0.56/pc for 500 pcs+",
+                        "Description": "",
+                        "Price": "0.56"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "22",
+                "Price": "104.58",
+                "Item": "Aluminium (Silver) Pouches, 10x12 inch (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹1.05/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/846fa6147f796a0020bdf8ed57de1ed2.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹1.03/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "1.03"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "23",
+                "Price": "74.83",
+                "Item": "Aluminium (Silver) Pouches, 8x10 inch (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹0.75/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/b90561e1d2df72d6aa8926c81a224148.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹0.73/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "0.73"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "24",
+                "Price": "27.88",
+                "Item": "Aluminium (Silver) Pouches, 4x6 inch (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹0.28/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/abb25207dd0df2633c77708d0e404d5c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹0.27/pc for 400 pcs+",
+                        "Description": "",
+                        "Price": "0.27"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹0.27/pc for 600 pcs+",
+                        "Description": "",
+                        "Price": "0.27"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "25",
+                "Price": "113.31",
+                "Item": "Aluminium (Silver) Pouches, 6*11 (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹1.13/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/e7925c1f7b890ce95bf6b63057b3c133.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹1.11/pc for 200 pcs+",
+                        "Description": "",
+                        "Price": "1.11"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹1.09/pc for 400 pcs+",
+                        "Description": "",
+                        "Price": "1.09"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "26",
+                "Price": "87.12",
+                "Item": "Aluminium (Silver) Pouches, 6*9 (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹0.87/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/f80a32f7b723aa12b3bd10ebb4b4541d.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹0.85/pc for 200 pcs+",
+                        "Description": "",
+                        "Price": "0.85"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹0.84/pc for 500 pcs+",
+                        "Description": "",
+                        "Price": "0.84"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "27",
+                "Price": "182.77",
+                "Item": "Aluminium Container, 100 ml (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹1.83/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/8b76a5e0c15c4e7f96de88c60f77c5e4.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹1.79/pc for 200 pcs+",
+                        "Description": "",
+                        "Price": "1.79"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹1.77/pc for 400 pcs+",
+                        "Description": "",
+                        "Price": "1.77"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "28",
+                "Price": "3216.52",
+                "Item": "[CONTAINER ONLY] Aluminium Container, 750 ml (Pack of 1000)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹3.22/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/4639492737705cbdd6b5e56fc793f5c1.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹3.15/pc for 2000 pcs+",
+                        "Description": "",
+                        "Price": "3.15"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "29",
+                "Price": "424.83",
+                "Item": "Golden MDF Cake Base and Cake Saver Set: 1 Kg (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹8.5/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/cfc207b96c18223895498825cf7b7146.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹8.24/pc for 250 pcs+",
+                        "Description": "",
+                        "Price": "8.24"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹7.99/pc for 500 pcs+",
+                        "Description": "",
+                        "Price": "7.99"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "30",
+                "Price": "297.03",
+                "Item": "Transparent Cake Collar (55 Micron)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/76f841a1a4338f79fec0fd939678e3d7.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹291.1/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "291.1"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹288.22/pc for 10 pcs+",
+                        "Description": "",
+                        "Price": "288.22"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "31",
+                "Price": "548.75",
+                "Item": "Premium Cake Box (For 1/2 Kg Cake) (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹10.97/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/7de25631411b55ba00f20249d6b7ff48.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹10.65/pc for 150 pcs+",
+                        "Description": "",
+                        "Price": "10.65"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹10.32/pc for 250 pcs+",
+                        "Description": "",
+                        "Price": "10.32"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "32",
+                "Price": "306.86",
+                "Item": "Golden MDF Cake Base with Cake Saver Set: 1/2 Kg (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹6.14/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/d049b80a86a67eb87701e40bbbba2a16.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹5.95/pc for 250 pcs+",
+                        "Description": "",
+                        "Price": "5.95"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹5.77/pc for 500 pcs+",
+                        "Description": "",
+                        "Price": "5.77"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "33",
+                "Price": "1103.39",
+                "Item": "White Paper Cake Box (For 1 Kg Cake), 320 GSM (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹11.03/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/50347d54adba968098e5afb760b9b542.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹10.7/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "10.7"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹10.37/pc for 500 pcs+",
+                        "Description": "",
+                        "Price": "10.37"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "34",
+                "Price": "837.8",
+                "Item": "White Paper Cake Box (For 1/2 Kg Cake), 320 GSM (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹8.38/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/b773ce678e628abe409a846e93772465.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹8.13/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "8.13"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹7.88/pc for 500 pcs+",
+                        "Description": "",
+                        "Price": "7.88"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "35",
+                "Price": "359.92",
+                "Item": "Golden MDF Cake Base: 1 Kg (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹7.2/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/75ce6e3b5d95ec63e2db435fe3c569af.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹6.98/pc for 250 pcs+",
+                        "Description": "",
+                        "Price": "6.98"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹6.77/pc for 500 pcs+",
+                        "Description": "",
+                        "Price": "6.77"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "36",
+                "Price": "236.02",
+                "Item": "Golden MDF Cake Base: Half Kg (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹4.72/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/938ade611271f6f2ad30e44714114c22.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹4.58/pc for 250 pcs+",
+                        "Description": "",
+                        "Price": "4.58"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹4.44/pc for 500 pcs+",
+                        "Description": "",
+                        "Price": "4.44"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "37",
+                "Price": "495.68",
+                "Item": "White Paper Pastry Box (For 3 Pastries), 320 GSM (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹4.96/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/c09d21ac75d6076752bc5a6923cf09b7.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹4.81/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "4.81"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹4.66/pc for 500 pcs+",
+                        "Description": "",
+                        "Price": "4.66"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "38",
+                "Price": "37.86",
+                "Item": "Coloured Paper Straws, 6 mm x 197 mm (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹0.38/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/756c46c51b7170977642c4a51940bd46.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "39",
+                "Price": "23.84",
+                "Item": "Coloured Paper Straws, 8 mm x 197 mm (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹0.48/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/9e82522f898bfd3b7737eae69de837f2.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "40",
+                "Price": "29.46",
+                "Item": "Coloured Paper Straws, 10mm x 197mm (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹0.59/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/498f832c8f078b08a2888b436a588075.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "41",
+                "Price": "348.9",
+                "Item": "Palm Leaf 10 Square Plate, (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹6.98/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/53932e5120495ba79dd8afa5f5689da2.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "42",
+                "Price": "203.5",
+                "Item": "Palm Leaf 5 Square Deep Bowl, (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹4.07/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/1cd3b7e2f43a441e4644a41e3842b1f7.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "43",
+                "Price": "1848.05",
+                "Item": "Z E - Cutlery Pouch (Pack of 1000)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹1.85/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/29c703abad88a5b861df83bf79881e09.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "44",
+                "Price": "1777.54",
+                "Item": "The Beer Cafe Lids Only, 150 mm (Pack of 450)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹3.95/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/df9af86b37919588b46f71c8cb6de927.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "45",
+                "Price": "10000",
+                "Item": "Enso Pizza Box - 8x8x2 Inch (Pack of 25)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/dc784860efec427d76d2715307f37336.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "46",
+                "Price": "602.03",
+                "Item": "Oho Shawarma - 300 ml Pet Bottle (Lid Only)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/11e6bb61ec35a7ffa8476274abe2958b.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "47",
+                "Price": "11000",
+                "Item": "Oho Shawarma - 300 ml Pet Bottle (Pack of 112)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹98.21/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/26a71686ef6b3fad1d271c45ecd7ed80.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "48",
+                "Price": "3459.66",
+                "Item": "ID Biodegradable Zomato Paper Bags With Twisted Handle 28cm x 18cm x 15cm (LxHxG) (90 GSM, Coated), Pack of 500",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹6.92/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/cff03884984e040d49bc90a35289dca1.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "49",
+                "Price": "21.36",
+                "Item": "White Paper Straws, 8 mm x 197 mm (330 GSM) (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹0.43/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/2d6136cf417669245c5e7c5462ca0f11.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹0.42/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "0.42"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹0.41/pc for 700 pcs+",
+                        "Description": "",
+                        "Price": "0.41"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "50",
+                "Price": "43.57",
+                "Item": "Wooden Spoon, 140 mm (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/111bcac6bce957e25e25dec2f3e6d66c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹42.95/pack for 4 packs+",
+                        "Description": "",
+                        "Price": "42.95"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹42.5/pack for 8 packs+",
+                        "Description": "",
+                        "Price": "42.5"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "51",
+                "Price": "62.86",
+                "Item": "Wooden Spoon, 160 mm (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/fd24bf846f71a9abff0053cd4f684c73.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹61.96/pack for 5 packs+",
+                        "Description": "",
+                        "Price": "61.96"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹61.34/pack for 15 packs+",
+                        "Description": "",
+                        "Price": "61.34"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "52",
+                "Price": "58.21",
+                "Item": "Wooden Fork, 160 mm (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/fc28f7bd1edc8cb007721d891b9ef4de.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹57.05/pack for 3 packs+",
+                        "Description": "",
+                        "Price": "57.05"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹55.89/pack for 5 packs+",
+                        "Description": "",
+                        "Price": "55.89"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "53",
+                "Price": "47.14",
+                "Item": "Wooden Fork, 140 mm (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/b4d8aa38434f334cecaef12fcd50f7a8.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹46.25/pack for 4 packs+",
+                        "Description": "",
+                        "Price": "46.25"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹45.27/pack for 8 packs+",
+                        "Description": "",
+                        "Price": "45.27"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "54",
+                "Price": "423.56",
+                "Item": "Cube L Fold Napkin, 20x26 cm - 1 Ply, 100 Pulls (Pack of 20)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹21.18/piece",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/7cc50d4f13e694ee65af0a9e8d96d855.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹20.75/piece for 60 pcs+",
+                        "Description": "",
+                        "Price": "20.75"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹20.54/piece for 120 pcs+",
+                        "Description": "",
+                        "Price": "20.54"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "55",
+                "Price": "242.5",
+                "Item": "Chopsticks (100 Pairs)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹2.42/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/1f902b9aabf4e2780e4b1cf19d7482ce.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹2.38/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "2.38"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹2.33/pc for 700 pcs+",
+                        "Description": "",
+                        "Price": "2.33"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "56",
+                "Price": "55.62",
+                "Item": "White Paper Straws, 8 mm x 197 mm (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹0.56/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/2106a29f556204edf597b5f146fba6fd.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹0.55/pc for 500 pcs+",
+                        "Description": "",
+                        "Price": "0.55"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹0.54/pc for 800 pcs+",
+                        "Description": "",
+                        "Price": "0.54"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "57",
+                "Price": "116.34",
+                "Item": "Toothpick, 100 Pieces/Pack (Pack of 10)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹11.63/pack",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/cf01d6fbc51c2e46e047668a040cbf17.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹11.4/pack for 30 packs+",
+                        "Description": "",
+                        "Price": "11.4"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹11.29/pack for 90 packs+",
+                        "Description": "",
+                        "Price": "11.29"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "58",
+                "Price": "93.81",
+                "Item": "Paper Fork, 158 mm, 1000 GSM (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹1.88/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/ebc63d1849709ad23be9953e9c63122d.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "59",
+                "Price": "30",
+                "Item": "Napkin - (Virgin Tissue 1 Ply 100 Pulls), 12X12 Inch",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹0.3/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/381f7a991b821ece1fee57ff9b6a225b.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "60",
+                "Price": "172.68",
+                "Item": "Chopsticks (Pack of 40 Pairs)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹4.32/pack",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/5b007809542d5bb026cc740d7f72f3ed.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹4.23/pack for 80 packs+",
+                        "Description": "",
+                        "Price": "4.23"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹4.19/pack for 160 packs+",
+                        "Description": "",
+                        "Price": "4.19"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "61",
+                "Price": "67.46",
+                "Item": "Kitchen Roll, 100 Sheets",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/06a4554139cbce628ff4b23bdc067396.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹66.1/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": "66.1"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹65.42/pc for 8 pcs+",
+                        "Description": "",
+                        "Price": "65.42"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "62",
+                "Price": "251.61",
+                "Item": "Cutlery Kit (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.03/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/b915273e581033ab67c8b87f56c8e4dd.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹4.98/pc for 100 pcs+",
+                        "Description": "",
+                        "Price": "4.98"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹4.93/pc for 200 pcs+",
+                        "Description": "",
+                        "Price": "4.93"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "63",
+                "Price": "210",
+                "Item": "Compostable Fork (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹2.1/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/98ebe8cdb5069d27e58e900c58421c97.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "64",
+                "Price": "30.89",
+                "Item": "White Paper Straws, 10 mm x 197 mm (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹0.62/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/b0f2a4c37dd4da78765ef4bc5ee0b3cc.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "65",
+                "Price": "53.66",
+                "Item": "Wooden Knife, 140 mm (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/9bd36a154d32a12c60554ca23e608db1.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "66",
+                "Price": "20",
+                "Item": "White Paper Straws, 8 mm x 197 mm (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹0.4/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/fac09dc7c3b313bbdc33ac4c324a3847.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "67",
+                "Price": "37.68",
+                "Item": "White Paper Straws 6 mm x 197 mm, (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹0.38/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/88e2bb1aabaf5507233aaa4c5bb3e5c9.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "68",
+                "Price": "637.03",
+                "Item": "Lautus Tissue Napkin, Virgin 1 Ply 100 Pulls Guaranteed, 12 X 12 Inch (Pack of 24)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹26.54/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/da49e1bf-dd1d-46d9-8b37-4e19bd273093_LautusNapkinVirginImportedTissue1Ply12X12InchesPackof25.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹26.01/pc for 72 pcs+",
+                        "Description": "",
+                        "Price": "26.01"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹25.48/pc for 120 pcs+",
+                        "Description": "",
+                        "Price": "25.48"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "69",
+                "Price": "397.77",
+                "Item": "Fomex - 6 Inch Round Bagasse Plate, (Pack of 250)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹1.59/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/337408ce310ad0d726e02b04238fb497.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹1.56/pc for 500 pcs+",
+                        "Description": "",
+                        "Price": "1.56"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "70",
+                "Price": "767.05",
+                "Item": "Fomex - 11 Inch 4 Compartment Bagasse Round Plate, (Pack of 125)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹6.14/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/f4acfd99f202d556fc64fd7984cd921c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "71",
+                "Price": "190.98",
+                "Item": "Fomex - 340 ml Bagasse Bowl, (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹1.91/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/5d87f7d8e3688088a6dd6b321f85c47c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹1.87/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "1.87"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "72",
+                "Price": "298.3",
+                "Item": "Fomex - 180 ml Bagasse Bowl, (Pack of 250)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹1.19/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/0c0316113a6c636f9218af278ab5b540.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹1.17/pc for 750 pcs+",
+                        "Description": "",
+                        "Price": "1.17"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "73",
+                "Price": "610.8",
+                "Item": "Fomex - 10 Inch 3 Compartment Bagasse Round Plate, (Pack of 125)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹4.89/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/3157ab521b7bde6b9c616248ccf04c4a.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "74",
+                "Price": "737.23",
+                "Item": "Fomex - 12 Inch Round Bagasse Plate, (Pack of 125)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.9/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/ec55fb5e3d811346c16f6eaf665e959a.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹5.78/pc for 375 pcs+",
+                        "Description": "",
+                        "Price": "5.78"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "75",
+                "Price": "2894.02",
+                "Item": "Chuk - Disposable Container Only, 750 ml (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.79/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/41ebf814443e92afc2aee343446cb8e2.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "76",
+                "Price": "2166.7",
+                "Item": "Bagasse Disposable Bowl, 180 ml (Pack of 1500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹1.44/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/79388b3b1c579c6f5889aa235e9a7821.webp",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "77",
+                "Price": "2166.7",
+                "Item": "Bagasse Disposable Bowl, 180 ml (Pack of 1500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹1.44/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/79388b3b1c579c6f5889aa235e9a7821.webp",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "78",
+                "Price": "2894.02",
+                "Item": "Chuk - Disposable Container Only, 750 ml (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.79/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/41ebf814443e92afc2aee343446cb8e2.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "79",
+                "Price": "3200",
+                "Item": "Bagasse Round Plate, 6 Inches (Pack of 2000)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹1.6/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/11e5e22eedade6b0d89f0e6f647daecc.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "80",
+                "Price": "284.11",
+                "Item": "Fomex - 6 x 6 Inch Bagasse Clamshell Container, (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.68/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/bef5b2b2c1d71a75c312fc4f96445b04.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹5.57/pc for 150 pcs+",
+                        "Description": "",
+                        "Price": "5.57"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "81",
+                "Price": "456.87",
+                "Item": "Fomex - 9 x 6 Inch Bagasse Clamshell Container (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹9.14/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/e7c4152acff242260c9e1add1eb8b201.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "82",
+                "Price": "94.15",
+                "Item": "[LID ONLY] White Paper Dip/Sauce Container Lid, 40 ml (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹0.94/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/2ec29fc523b8bd5c4e65d5ede4fd5647.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹0.92/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "0.92"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹0.91/pc for 600 pcs+",
+                        "Description": "",
+                        "Price": "0.91"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "83",
+                "Price": "117.71",
+                "Item": "[Container Only] White Paper Dip/ Sauce Container without Lid, 125 ml (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹1.18/piece",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/6821ba1581f88682cd8d157a4f02f22a.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹1.15/piece for 300 pcs+",
+                        "Description": "",
+                        "Price": "1.15"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹1.14/piece for 600 pcs+",
+                        "Description": "",
+                        "Price": "1.14"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "84",
+                "Price": "2454.58",
+                "Item": "Round Kraft Paper container, Brown With Lid, 250ml (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹4.91/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/befdbfa20513fb76f2e2e39853f89ad8.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹4.81/pc for 1000 pcs+",
+                        "Description": "",
+                        "Price": "4.81"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹4.71/pc for 2000 pcs+",
+                        "Description": "",
+                        "Price": "4.71"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "85",
+                "Price": "2354.66",
+                "Item": "Paper Container With Lid, 250 ml (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹4.71/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/9e9341e94ce912b5fb3fe754bae0e642.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹4.62/pc for 1000 pcs+",
+                        "Description": "",
+                        "Price": "4.62"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹4.52/pc for 2000 pcs+",
+                        "Description": "",
+                        "Price": "4.52"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "86",
+                "Price": "123.56",
+                "Item": "(Lid only) Paper Dip Container, 125 ml (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹1.24/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/99eea1f5e0ccce7e0910b42b639a18ca.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹1.21/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "1.21"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹1.2/pc for 600 pcs+",
+                        "Description": "",
+                        "Price": "1.2"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "87",
+                "Price": "453.21",
+                "Item": "[LID ONLY] Fomex - 750 ml Rectangle Container Lid, (Pack of 125)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹3.63/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/9b099195c25e4f2fd1e913b7a9b88fcd.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹3.55/pc for 375 pcs+",
+                        "Description": "",
+                        "Price": "3.55"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "88",
+                "Price": "661.96",
+                "Item": "[CONTAINER ONLY] Fomex - 750 ml Rectangle Container, (Pack of 125)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.3/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/634488edcc25b173bf0bb8d63dfc2c2d.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹5.19/pc for 375 pcs+",
+                        "Description": "",
+                        "Price": "5.19"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "89",
+                "Price": "2703.56",
+                "Item": "Paper Container With Lid, 500 ml (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.41/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/157f113b72cb59a1e82d733dd91a10a2.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹5.3/pc for 1000 pcs+",
+                        "Description": "",
+                        "Price": "5.3"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹5.19/pc for 2000 pcs+",
+                        "Description": "",
+                        "Price": "5.19"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "90",
+                "Price": "2874.32",
+                "Item": "Round Kraft Paper Container, Brown With Lid, 500 ml (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.75/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/df3fbb80c42ad2a6a39fb90eedba1d0c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹5.63/pc for 1000 pcs+",
+                        "Description": "",
+                        "Price": "5.63"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹5.52/pc for 2000 pcs+",
+                        "Description": "",
+                        "Price": "5.52"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "91",
+                "Price": "592.41",
+                "Item": "[CONTAINER ONLY] Fomex - 500 ml Oval Container, (Pack of 125)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹4.74/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/bc506f6edb0a37db91ee76a4d8e2e2d3.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹4.64/pc for 375 pcs+",
+                        "Description": "",
+                        "Price": "4.64"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "92",
+                "Price": "64.66",
+                "Item": "[Container only] Paper Container 270 GSM, 250 ml (Pack of 25)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹2.59/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/7485fc6781fe4415db84263c46188a40.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "93",
+                "Price": "453.21",
+                "Item": "[LID ONLY] Fomex - 500 ml Oval Container Lid, (Pack of 125)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹3.63/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/7f8b77cf738e21f266e06c4dbe9ba5c3.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹3.55/pc for 375 pcs+",
+                        "Description": "",
+                        "Price": "3.55"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "94",
+                "Price": "52.2",
+                "Item": "[Lid Only] Paper Container, 250 ml (Pack of 25)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹2.09/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/8a860b869a8fdc0a1e73f2676fe4163d.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹2.07/pc for 50 pcs+",
+                        "Description": "",
+                        "Price": "2.07"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹2.05/pc for 100 pcs+",
+                        "Description": "",
+                        "Price": "2.05"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "95",
+                "Price": "2645.42",
+                "Item": "Round Kraft Paper Container, Brown With Lid, 350 ml (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.29/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/d4fc1f4791c7a7acdd169c64604fae45.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹5.18/pc for 1000 pcs+",
+                        "Description": "",
+                        "Price": "5.18"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹5.08/pc for 2000 pcs+",
+                        "Description": "",
+                        "Price": "5.08"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "96",
+                "Price": "3313.64",
+                "Item": "Round Kraft Paper Container, Brown With Lid, 750 ml (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹6.63/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/3b014aec966af97740a953988a628740.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹6.49/pc for 1000 pcs+",
+                        "Description": "",
+                        "Price": "6.49"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹6.36/pc for 2000 pcs+",
+                        "Description": "",
+                        "Price": "6.36"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "97",
+                "Price": "3181.86",
+                "Item": "Paper Container with Lid, 750 ml (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹6.36/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/40034b1c8a11a6c79ca8d9521be3c7e1.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹6.24/pc for 1000 pcs+",
+                        "Description": "",
+                        "Price": "6.24"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹6.17/pc for 3000 pcs+",
+                        "Description": "",
+                        "Price": "6.17"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "98",
+                "Price": "3392.88",
+                "Item": "Round Kraft Paper container, Brown with Lid, 1000 ml (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹6.79/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/eaf05db7abf5559cd05fd57ca5ff8569.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹6.65/pc for 1000 pcs+",
+                        "Description": "",
+                        "Price": "6.65"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹6.51/pc for 2000 pcs+",
+                        "Description": "",
+                        "Price": "6.51"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "99",
+                "Price": "2676.61",
+                "Item": "Paper Container with Lid, 350 ml (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.35/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/9c2a853c6520aa49538302c720fcfed6.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹5.25/pc for 1000 pcs+",
+                        "Description": "",
+                        "Price": "5.25"
+                    },
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹5.14/pc for 2000 pcs+",
+                        "Description": "",
+                        "Price": "5.14"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "100",
+                "Price": "2676.61",
+                "Item": "Paper Container with Lid, 350 ml (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.35/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/9c2a853c6520aa49538302c720fcfed6.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹5.25/pc for 1000 pcs+",
+                        "Description": "",
+                        "Price": "5.25"
+                    },
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹5.14/pc for 2000 pcs+",
+                        "Description": "",
+                        "Price": "5.14"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "101",
+                "Price": "3226.78",
+                "Item": "Paper Container with Lid, 1000 ml (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹6.45/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/8e6b5048759070360f59c589f68254b9.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹6.32/pc for 1000 pcs+",
+                        "Description": "",
+                        "Price": "6.32"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹6.2/pc for 2000 pcs+",
+                        "Description": "",
+                        "Price": "6.2"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "102",
+                "Price": "55.25",
+                "Item": "[Lid Only] Paper Container, 750 ml (Pack of 25)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹2.21/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/7b00ca0a0c3d728398d02226232224a8.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹2.17/pc for 175 pcs+",
+                        "Description": "",
+                        "Price": "2.17"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹2.15/pc for 525 pcs+",
+                        "Description": "",
+                        "Price": "2.15"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "103",
+                "Price": "56.27",
+                "Item": "[Lid Only] Paper Container, 500 ml (Pack of 25)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹2.25/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/2a6685d9b26fe82c7e1f05373b9cc149.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹2.21/pc for 50 pcs+",
+                        "Description": "",
+                        "Price": "2.21"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹2.16/pc for 100 pcs+",
+                        "Description": "",
+                        "Price": "2.16"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "104",
+                "Price": "116.86",
+                "Item": "[Container Only] Paper Container, 750 ml, 330 GSM (Pack of 25)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹4.67/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/9af86861f95c614e59db6281f2ee00f0.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹4.58/pc for 50 pcs+",
+                        "Description": "",
+                        "Price": "4.58"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹4.54/pc for 100 pcs+",
+                        "Description": "",
+                        "Price": "4.54"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "105",
+                "Price": "94.83",
+                "Item": "[Container Only] Paper Container, 500 ml, 330 GSM (Pack of 25)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹3.79/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/7aab16525e3bada66b3cc76f2cc6bfb8.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹3.71/pc for 50 pcs+",
+                        "Description": "",
+                        "Price": "3.71"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹3.69/pc for 100 pcs+",
+                        "Description": "",
+                        "Price": "3.69"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "106",
+                "Price": "52.88",
+                "Item": "[Lid Only] Paper Container, 350 ml (Pack of 25)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹2.12/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/4859b914e50d07ddb705af5debabf30b.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹2.07/pc for 50 pcs+",
+                        "Description": "",
+                        "Price": "2.07"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹2.05/pc for 100 pcs+",
+                        "Description": "",
+                        "Price": "2.05"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "107",
+                "Price": "75.34",
+                "Item": "[Container Only] Paper Container, 350 ml, 300 GSM (Pack of 25)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹3.01/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/9d1c7511dc455fee0d70f85036de1eab.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹2.95/pc for 75 pcs+",
+                        "Description": "",
+                        "Price": "2.95"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹2.92/pc for 100 pcs+",
+                        "Description": "",
+                        "Price": "2.92"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "108",
+                "Price": "2124.55",
+                "Item": "Zume - Bagasse Rectangular Container, Lids Only, 1000 ml (Pack of 600)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹3.54/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/656957b692621eb484441253ad6ff9f1.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "109",
+                "Price": "302.54",
+                "Item": "Kraft Board - Rectangular Lunch Box, 900 ml (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹6.05/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/efb1e3438e313f5317047730556032e8.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "110",
+                "Price": "2301.27",
+                "Item": "2 Compartment Meal Box (P) Tray With Lid (Pack of 400)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.75/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/c28867effbc89a1099d4be8a001a1b16.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹5.58/pc for 800 pcs+",
+                        "Description": "",
+                        "Price": "5.58"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹5.47/pc for 1600 pcs+",
+                        "Description": "",
+                        "Price": "5.47"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "111",
+                "Price": "2135.34",
+                "Item": "3 Compartment Meal Box XL (P) Tray with Lid (Pack of 300)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹7.12/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/53c40abdaaec26cd2cd39a3d382814bc.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹6.9/pc for 600 pcs+",
+                        "Description": "",
+                        "Price": "6.9"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹6.76/pc for 1200 pcs+",
+                        "Description": "",
+                        "Price": "6.76"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "112",
+                "Price": "512.2",
+                "Item": "Damati - 2 Compartment Meal Tray with Lid, RE 232 (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹10.24/piece",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/a0dd93cd00a0ded820602bf09ce83ebb.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹10.14/piece for 150 pcs+",
+                        "Description": "",
+                        "Price": "10.14"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹9.99/piece for 300 pcs+",
+                        "Description": "",
+                        "Price": "9.99"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "113",
+                "Price": "4409.11",
+                "Item": "[Tray Only] 4CP Bagasse - Meal Tray (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹8.82/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/ab7395dc7a7735e69d64c4723fea7e82.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "114",
+                "Price": "3328.3",
+                "Item": "[Lids Only] 4CP Bagasse Meal Tray (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹6.66/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/579b4f9a66b2b2003b007036612dd83c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "115",
+                "Price": "4409.11",
+                "Item": "[Tray Only] 4CP Bagasse - Meal Tray (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹8.82/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/ab7395dc7a7735e69d64c4723fea7e82.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "116",
+                "Price": "3328.3",
+                "Item": "[Lids Only] 4CP Bagasse Meal Tray (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹6.66/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/579b4f9a66b2b2003b007036612dd83c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "117",
+                "Price": "4510.18",
+                "Item": "Chuk - 8CP Disposable Meal Tray (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹9.02/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/a124c6c149065d20ee074f2a98f796ff.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "118",
+                "Price": "160",
+                "Item": "Non Woven Bag Medium, 13 x 16 Inches, 1 Kg",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/db2ca7d3aef32e532a9fc165cf2081ae.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹156.86/kg for 2 kgs+",
+                        "Description": "",
+                        "Price": "156.86"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹153.64/kg for 4 kgs+",
+                        "Description": "",
+                        "Price": "153.64"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "119",
+                "Price": "173.98",
+                "Item": "Kraft Paper Bag, 60 GSM, (W:18 X G:12.5 X H:27 cms) (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹1.74/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/b84c31c4a24c08a2c38c07d26096e731.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹1.71/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "1.71"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹1.67/pc for 800 pcs+",
+                        "Description": "",
+                        "Price": "1.67"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "120",
+                "Price": "238.22",
+                "Item": "Shaker Glass With Lid, 350 ml (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹4.76/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/840a9e0c8183b48e6a75c9c6411b16ec.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹4.67/pc for 200 pcs+",
+                        "Description": "",
+                        "Price": "4.67"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹4.57/pc for 400 pcs+",
+                        "Description": "",
+                        "Price": "4.57"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "121",
+                "Price": "214.83",
+                "Item": "Kraft Paper Bag, 60 GSM, W:21 X G:12.5 X H:33 cm, (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹2.15/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/936a4435da7834baac8e9933c275fb8b.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹2.11/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "2.11"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹2.08/pc for 500 pcs+",
+                        "Description": "",
+                        "Price": "2.08"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "122",
+                "Price": "52.46",
+                "Item": "Paper Cups, 150 ml (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹0.52/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/dcc420f2666b1df61f1cc4067f39dcdb.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹0.52/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "0.52"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹0.51/pc for 600 pcs+",
+                        "Description": "",
+                        "Price": "0.51"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "123",
+                "Price": "563.57",
+                "Item": "Corrugated Pizza Box - 9 Inch (Medium), (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.64/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/29a409ffcab98532f62c4b09df05712f.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹5.52/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "5.52"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹5.47/pc for 600 pcs+",
+                        "Description": "",
+                        "Price": "5.47"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "124",
+                "Price": "57.97",
+                "Item": "Ripple Paper Cup, 250 ml (Pack of 25)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹2.32/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/26df209a5af3f712e333c1c02de795f0.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹2.27/pc for 75 pcs+",
+                        "Description": "",
+                        "Price": "2.27"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹2.25/pc for 150 pcs+",
+                        "Description": "",
+                        "Price": "2.25"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "125",
+                "Price": "470.59",
+                "Item": "Chai Flask, 400 ml - 21 mm Spout (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹9.41/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/09d274014490659009877ed53723dc27.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹9.22/pc for 150 pcs+",
+                        "Description": "",
+                        "Price": "9.22"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹9.13/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "9.13"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "126",
+                "Price": "364.83",
+                "Item": "Shaker Glass With Lid, 500 ml (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹7.3/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/525264bf21f420832b851cb0719e0434.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹7.15/pc for 100 pcs+",
+                        "Description": "",
+                        "Price": "7.15"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹7/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "7"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "127",
+                "Price": "529.41",
+                "Item": "Chai Flask, 700 ml - 21 mm Spout (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹10.59/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/7abc6aad810bcb7bb831e6b57f7f5252.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹10.38/pc for 150 pcs+",
+                        "Description": "",
+                        "Price": "10.38"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹10.27/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "10.27"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "128",
+                "Price": "166.69",
+                "Item": "Compostable Carry Bags, 16x20 Inch (Pack of 1 Kg)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/764c4a300dd58820093005da701474ce.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹163.39/kg for 3 kgs+",
+                        "Description": "",
+                        "Price": "163.39"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹161.69/kg for 5 kgs+",
+                        "Description": "",
+                        "Price": "161.69"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "129",
+                "Price": "166.69",
+                "Item": "Compostable Carry Bags, 13x16 Inch (Pack of 1 Kg)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/825c31aab673ff98d2bddba4fc59167d.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹163.39/kg for 2 kgs+",
+                        "Description": "",
+                        "Price": "163.39"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹161.69/kg for 4 kgs+",
+                        "Description": "",
+                        "Price": "161.69"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "130",
+                "Price": "166.69",
+                "Item": "Compostable Carry Bags, 10x12 Inch (Pack of 1 Kg)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/1943158ff6a32204efc2039991383d3c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹163.39/kg for 2 kgs+",
+                        "Description": "",
+                        "Price": "163.39"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹161.69/kg for 4 kgs+",
+                        "Description": "",
+                        "Price": "161.69"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "131",
+                "Price": "505.85",
+                "Item": "Round Pet Bottle with Autoseal Cap, 350 ml (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.06/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/1ff9b8ea978d6a6b3a34f1e3f6761be8.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹4.96/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "4.96"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹4.91/pc for 500 pcs+",
+                        "Description": "",
+                        "Price": "4.91"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "132",
+                "Price": "494.24",
+                "Item": "Round Pet Bottle with Autoseal Cap, 300 ml (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹4.94/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/027fe20ced9641ce57dec47552789974.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹4.84/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "4.84"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹4.79/pc for 500 pcs+",
+                        "Description": "",
+                        "Price": "4.79"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "133",
+                "Price": "482.63",
+                "Item": "Square Pet Bottle with Autoseal Cap, 250 ml (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹4.83/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/ad9e194426d3bcc8e0dcd0e6c4c89cd1.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹4.73/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "4.73"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹4.68/pc for 500 pcs+",
+                        "Description": "",
+                        "Price": "4.68"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "134",
+                "Price": "223.9",
+                "Item": "Sipper Glass with Black Lid, 350 ml (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹4.48/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/3b497b69e5427d6d60a119be033ad097.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹4.39/pc for 150 pcs+",
+                        "Description": "",
+                        "Price": "4.39"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹4.34/pc for 250 pcs+",
+                        "Description": "",
+                        "Price": "4.34"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "135",
+                "Price": "218.05",
+                "Item": "Sipper Glass with Black Lid, 300 ml (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹4.36/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/9bda24d202c396312290b2500d702843.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹4.27/pc for 150 pcs+",
+                        "Description": "",
+                        "Price": "4.27"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹4.23/pc for 250 pcs+",
+                        "Description": "",
+                        "Price": "4.23"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "136",
+                "Price": "130.85",
+                "Item": "Flat Glass with White Lid, 250 ml (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹2.62/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/7262d536a83ae631347ca710e9261c9d.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹2.56/pc for 150 pcs+",
+                        "Description": "",
+                        "Price": "2.56"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹2.54/pc for 250 pcs+",
+                        "Description": "",
+                        "Price": "2.54"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "137",
+                "Price": "151.19",
+                "Item": "Flat Glass with White Lid, 300 ml (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹3.02/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/32f14f0df75786aa8042e16705a7d519.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹2.96/pc for 150 pcs+",
+                        "Description": "",
+                        "Price": "2.96"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹2.93/pc for 250 pcs+",
+                        "Description": "",
+                        "Price": "2.93"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "138",
+                "Price": "354.07",
+                "Item": "Kraft Paper Clamshell Burger Box (350 GSM) (Pack of 75)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹4.72/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/293bf255f78fa0fabd118b3f0232ec41.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹4.58/pc for 225 pcs+",
+                        "Description": "",
+                        "Price": "4.58"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹4.44/pc for 375 pcs+",
+                        "Description": "",
+                        "Price": "4.44"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "139",
+                "Price": "377.97",
+                "Item": "Shaker Glass with Lid, 250 ml (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹3.78/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/e92bcf7ddf6a2e694dff711c864dbb81.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹3.7/pc for 200 pcs+",
+                        "Description": "",
+                        "Price": "3.7"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹3.63/pc for 500 pcs+",
+                        "Description": "",
+                        "Price": "3.63"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "140",
+                "Price": "222.63",
+                "Item": "Shaker Glass with Lid, 250 ml  (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹4.45/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/bd9398a4cd5ea855201be805e428a2e9.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹4.36/pc for 200 pcs+",
+                        "Description": "",
+                        "Price": "4.36"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹4.27/pc for 400 pcs+",
+                        "Description": "",
+                        "Price": "4.27"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "141",
+                "Price": "341.19",
+                "Item": "White Rectangular Lunch Box, 900 ml (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹6.82/piece",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/d4097bc4460f36c913b1e6bf16a81a5a.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹6.69/piece for 150 pcs+",
+                        "Description": "",
+                        "Price": "6.69"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹6.62/piece for 300 pcs+",
+                        "Description": "",
+                        "Price": "6.62"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "142",
+                "Price": "349.83",
+                "Item": "Kraft Paper Bag, 80 GSM, (W:25 X G:12.5 X H:35.5 cms) (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹3.5/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/4580ae62df995f353945e2295c228322.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹3.43/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "3.43"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹3.37/pc for 500 pcs+",
+                        "Description": "",
+                        "Price": "3.37"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "143",
+                "Price": "2969.83",
+                "Item": "Plain Moulded Glass with Black Lid (T/B), 350 ml (Pack of 600)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹4.95/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/c165682a56e5bbb268269f4fa7c4860b.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "144",
+                "Price": "349.83",
+                "Item": "Kraft Paper Bag, 80 GSM, (W:25 X G:12.5 X H:35.5 cms) (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹3.5/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/4580ae62df995f353945e2295c228322.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹3.43/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "3.43"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹3.37/pc for 500 pcs+",
+                        "Description": "",
+                        "Price": "3.37"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "145",
+                "Price": "30",
+                "Item": "Paper Cups, 100 ml (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹0.6/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/801d6e6c15381dc44c50f9f6d7565087.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹0.59/pc for 100 pcs+",
+                        "Description": "",
+                        "Price": "0.59"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹0.58/pc for 200 pcs+",
+                        "Description": "",
+                        "Price": "0.58"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "146",
+                "Price": "267.63",
+                "Item": "Bhagwati - Rectangle Container 14-500 ml, Black with Lid (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.35/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/34a581305ba07c5b5ac1af6178f04e38.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹5.19/pc for 150 pcs+",
+                        "Description": "",
+                        "Price": "5.19"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹5.09/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "5.09"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "147",
+                "Price": "271.36",
+                "Item": "Damati - Rectangle Container, 500 ml, Black with Lid (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.43/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/f2fc2267325ffafa2ebc593cb89c9b6f.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹5.32/pc for 150 pcs+",
+                        "Description": "",
+                        "Price": "5.32"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹5.21/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "5.21"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "148",
+                "Price": "2677.54",
+                "Item": "Rectangular Container, 500 ml, Black with Lid (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.36/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/8f8360e7d5d6e7272b80061614ec5095.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹5.25/pc for 1500 pcs+",
+                        "Description": "",
+                        "Price": "5.25"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹5.14/pc for 2500 pcs+",
+                        "Description": "",
+                        "Price": "5.14"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "149",
+                "Price": "331.78",
+                "Item": "Bhagwati - Rectangle Container 14-1000 ml, Black with Lid (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹6.64/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/09de4b46f16e9ac8431b8325a83fcdd3.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "150",
+                "Price": "334.83",
+                "Item": "Damati - Rectangle Container, 1000 ml, Black with Lid (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹6.7/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/4e5cf597f124d209161a9b5bf00df88b.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹6.56/pc for 150 pcs+",
+                        "Description": "",
+                        "Price": "6.56"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹6.43/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "6.43"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "151",
+                "Price": "2898.73",
+                "Item": "Rectangle Container - Black with Lid, 650 ml (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.8/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/0486694e644d525416745966b14d6c92.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹5.68/pc for 1500 pcs+",
+                        "Description": "",
+                        "Price": "5.68"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹5.62/pc for 2500 pcs+",
+                        "Description": "",
+                        "Price": "5.62"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "152",
+                "Price": "2581.44",
+                "Item": "Damati - Rectangle Container, 500 ml, Black with Lid (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.16/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/fbfe3e8cdcc95cae1e162096308ae52a.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹5.06/pc for 1000 pcs+",
+                        "Description": "",
+                        "Price": "5.06"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹5.01/pc for 2000 pcs+",
+                        "Description": "",
+                        "Price": "5.01"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "153",
+                "Price": "3473.73",
+                "Item": "Damati - RE 24, Rectangular Container 700ml, Black with Lid (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹6.95/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/6a6fabe2cf5dda8fb0ec434bfbd68975.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹6.88/pc for 1000 pcs+",
+                        "Description": "",
+                        "Price": "6.88"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹6.81/pc for 2000 pcs+",
+                        "Description": "",
+                        "Price": "6.81"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "154",
+                "Price": "3050.08",
+                "Item": "Damati - Rectangle Container, 1000 ml, Black with Lid (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹6.1/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/238debd9dbc1a9a67fb79e99adc0c924.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹5.98/pc for 1000 pcs+",
+                        "Description": "",
+                        "Price": "5.98"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹5.86/pc for 2000 pcs+",
+                        "Description": "",
+                        "Price": "5.86"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "155",
+                "Price": "3223.56",
+                "Item": "Damati - RE 16, Rectangular Container 450ml, Black with Lid (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹6.45/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/6e2de7a94e151475fff962be4d02d410.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹6.32/pc for 1000 pcs+",
+                        "Description": "",
+                        "Price": "6.32"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹6.25/pc for 3000 pcs+",
+                        "Description": "",
+                        "Price": "6.25"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "156",
+                "Price": "2724.15",
+                "Item": "Damati - Rectangle Container, 750 ml, Black with Lid (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.45/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/144edb2b734eccf5b2a376d798925334.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹5.34/pc for 1000 pcs+",
+                        "Description": "",
+                        "Price": "5.34"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹5.28/pc for 2000 pcs+",
+                        "Description": "",
+                        "Price": "5.28"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "157",
+                "Price": "270.17",
+                "Item": "Black Rectangle Container with Lid, 750 ml (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.4/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/78005f380dd82b32f2e2baa032f05fd4.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹5.3/pc for 150 pcs+",
+                        "Description": "",
+                        "Price": "5.3"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹5.19/pc for 250 pcs+",
+                        "Description": "",
+                        "Price": "5.19"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "158",
+                "Price": "268.9",
+                "Item": "Black Rectangle Container with Lid, 650 ml (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.38/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/5cb6e5680461127f3de46e8fb0229c51.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹5.27/pc for 150 pcs+",
+                        "Description": "",
+                        "Price": "5.27"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹5.16/pc for 250 pcs+",
+                        "Description": "",
+                        "Price": "5.16"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "159",
+                "Price": "258.98",
+                "Item": "Black Rectangle Container with Lid, 500 ml (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.18/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/21182703480f2a7db73509c330d90315.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹5.08/pc for 150 pcs+",
+                        "Description": "",
+                        "Price": "5.08"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹4.97/pc for 250 pcs+",
+                        "Description": "",
+                        "Price": "4.97"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "160",
+                "Price": "5429.32",
+                "Item": "RE-32, Rectangular Container, 900 ml, Black With Lid (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹10.86/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/e560083f18c934228b50c78fee1f2369.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "161",
+                "Price": "1112.8",
+                "Item": "LIDS ONLY - Rectangle Container, 500 ml (Pack of 1000)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹1.11/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/c871558a058363c1d3784871c5ce08cf.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "162",
+                "Price": "3561.78",
+                "Item": "RE-32 Rectangular Container - Black Container With Lid, 900 ml (Pack of 400)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹8.9/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/7f1df6b1e334fc6ab6a890a8878968af.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹8.82/pc for 800 pcs+",
+                        "Description": "",
+                        "Price": "8.82"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹8.77/pc for 1600 pcs+",
+                        "Description": "",
+                        "Price": "8.77"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "163",
+                "Price": "3887.29",
+                "Item": "RE-24, Rectangular Container, 700 ml, Black With Lid (Pack of 600)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹6.48/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/560516227128efb37730fa468b327b01.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹6.35/pc for 1200 pcs+",
+                        "Description": "",
+                        "Price": "6.35"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹6.32/pc for 3600 pcs+",
+                        "Description": "",
+                        "Price": "6.32"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "164",
+                "Price": "3606.44",
+                "Item": "RE-16, Rectangular Container, 450 ml, Black With Lid (Pack of 600)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹6.01/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/f37fb9f80bf8c952c913f72d07b100e1.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹5.95/pc for 1200 pcs+",
+                        "Description": "",
+                        "Price": "5.95"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹5.89/pc for 2400 pcs+",
+                        "Description": "",
+                        "Price": "5.89"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "165",
+                "Price": "203.73",
+                "Item": "Damati - Round Container, 500 ml, Black with Lid (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹4.07/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/0e49a5f55f9f6b6bc3237c36039a6279.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹3.99/pc for 150 pcs+",
+                        "Description": "",
+                        "Price": "3.99"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹3.91/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "3.91"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "166",
+                "Price": "163.9",
+                "Item": "Damati - Round Container, 300 ml, Black with Lid (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹3.28/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/53ee071afcc4a63b340b052cacbc75f2.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "167",
+                "Price": "85.08",
+                "Item": "Damati - Round Container, 100 ml, Black with Lid (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹1.7/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/72779abb5d5f2ddcef664e18eaf2c5db.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹1.67/pc for 200 pcs+",
+                        "Description": "",
+                        "Price": "1.67"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹1.65/pc for 400 pcs+",
+                        "Description": "",
+                        "Price": "1.65"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "168",
+                "Price": "330.08",
+                "Item": "Foodwrap - Aluminium Foil, 1 Kg Gross",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/629b574e1c1eb1f40b387f84a01ff60a.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹325.08/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "325.08"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹321.78/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "321.78"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "169",
+                "Price": "72.59",
+                "Item": "Wooden Spork, 160 mm (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹0.73/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/c302e09abc91acfec67e7c0edf5e764d.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹0.71/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "0.71"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹0.7/pc for 500 pcs+",
+                        "Description": "",
+                        "Price": "0.7"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "170",
+                "Price": "203.66",
+                "Item": "Aluminium Container with Lid, 450 ml (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹2.04/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/4c81b9df3af2f4f14d6f98e20cb358a4.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹2/pc for 200 pcs+",
+                        "Description": "",
+                        "Price": "2"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹1.96/pc for 500 pcs+",
+                        "Description": "",
+                        "Price": "1.96"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "171",
+                "Price": "121.61",
+                "Item": "Damati - Round Container [Flat], 250 ml, Black with Lid (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹2.43/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/531ab4bebf4bf37f438b0cdadcfb5387.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹2.41/pc for 150 pcs+",
+                        "Description": "",
+                        "Price": "2.41"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹2.4/pc for 250 pcs+",
+                        "Description": "",
+                        "Price": "2.4"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "172",
+                "Price": "494.15",
+                "Item": "Wintex - Paper Tissue, 23 x 22 cm, 1 Ply, 100 Pulls Guaranteed (Pack of 30)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹16.47/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/76d049da44c7c115da171e0446f7e7bc.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹16.14/pc for 90 pcs+",
+                        "Description": "",
+                        "Price": "16.14"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹15.98/pc for 150 pcs+",
+                        "Description": "",
+                        "Price": "15.98"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "173",
+                "Price": "494.15",
+                "Item": "Wintex - Paper Tissue, 23 x 22 cm, 1 Ply, 100 Pulls Guaranteed (Pack of 30)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹16.47/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/76d049da44c7c115da171e0446f7e7bc.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹16.14/pc for 90 pcs+",
+                        "Description": "",
+                        "Price": "16.14"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹15.98/pc for 150 pcs+",
+                        "Description": "",
+                        "Price": "15.98"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "174",
+                "Price": "240",
+                "Item": "Kraft Paper Bag, 80 GSM, (W:21 X G:12.5 X H:33 cms), (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹2.4/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/8d1b8db4f31ad068dc106c9ad7d28e76.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "175",
+                "Price": "246.69",
+                "Item": "Zomato Tape - L: 55m, W:1 (Pack of 12)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹20.56/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/bbc911d629c2f191de731b0ccd7cf7c6.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "176",
+                "Price": "439.49",
+                "Item": "Kraft Paper Bag, 100 GSM, With Handle (W:9 X G:6 X H:7 Inches), (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹4.39/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/da70591eff86d9469bc52fc1b0b25f7a.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "177",
+                "Price": "194.15",
+                "Item": "Home Fresh- Food Wrapping Butter Paper (Unprinted), 1 Kg",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/630814391b9b886250e10994525b6956.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "178",
+                "Price": "219.32",
+                "Item": "Bhagwati - Round Container 00-50 ml, Black with Lid (Pack of 200)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹1.1/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/df4eb7d646ecc0a329f422f9225027ed.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "179",
+                "Price": "201.19",
+                "Item": "Kraft Paper Bag, 80 GSM, (W:18 X G:12.5 X H:27 cms) (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹2.01/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/8f37e8e833d1f88bde4753c1e0c858f6.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "180",
+                "Price": "311.02",
+                "Item": "Taj - Aluminium Foil, 18 Micron, Extra Thick (Gross), 1 Kg Total",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/eb33cb9f91f54853757f61446f3ed604.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "181",
+                "Price": "554.24",
+                "Item": "Wintex - Paper Tissue, 30 x 30 cm, 1 Ply, 100 Pulls Guaranteed (Pack of 20)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹27.71/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/bb14660b76f3677a935efbf5a3caecbe.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "182",
+                "Price": "400.76",
+                "Item": "Bhagwati - Round Container 03-500 ml, Black with Lid (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹4.01/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/5de4d0a1e6a37ade5cce38213f9aa38c.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "183",
+                "Price": "27.46",
+                "Item": "White Paper Straws, 10 mm x 197 mm, (330 GSM) (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹0.55/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/6716454cc03e949ad3c3325d5b83b48c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "184",
+                "Price": "82.97",
+                "Item": "Home Fresh - Food Wrapping Butter Paper (Unprinted), 30 x 30 cm, 100 Sheets Guaranteed",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹0.83/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/83fe6cca93af192d8666c6eae92490f3.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "185",
+                "Price": "286.19",
+                "Item": "Bhagwati - Rectangle Container 14-750 ml, Black with Lid (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.72/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/6d3bfdff13a7bd5289f65e53323eb616.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "186",
+                "Price": "329.64",
+                "Item": "Aluminium Container with Lid, 650 ml (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹3.3/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/570543ad29e2fcc6cdfc2f5b484ab566.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+        ]
+    },
+    {
+        "SectionName": "lunch box",
+        "SectionOrder": "32",
+        "MenuItem": [
+            {
+                "MenuId": "1",
+                "Price": "252.37",
+                "Item": "White Rectangular Lunch Box, 700 ml (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.05/piece",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/e7a653ea3099bc38e0aab549bf35ea76.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "2",
+                "Price": "205.59",
+                "Item": "Kraft Board - Rectangular Lunch Box, 450 ml (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹4.11/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/e126961bdfa96e628f4cb7dafc711ab9.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "3",
+                "Price": "197.03",
+                "Item": "White Rectangular Lunch Box, 450 ml (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹3.94/piece",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/401b12a2b22f5f854da65c8155657053.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "4",
+                "Price": "266.53",
+                "Item": "Kraft Board - Rectangular Lunch Box, 700 ml (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.33/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/07c98b998a3a5424ce62302629d3e5a6.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+        ]
+    },
+    {
+        "SectionName": "Paper Bags, Boxes & Cups ",
+        "SectionOrder": "33",
+        "MenuItem": [
+            {
+                "MenuId": "1",
+                "Price": "36.61",
+                "Item": "Ripple Paper Cup, 150 ml (Pack of 25)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹1.46/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/6371219ed70e72e5a81a89df47f936d4.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "2",
+                "Price": "523.39",
+                "Item": "Kraft Paper Bag, 100 GSM, With Handle (W:12 X G:7 X H:8 Inches) (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.23/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/67d0e386a7e86bbe2fed7dfb3fa002b8.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "3",
+                "Price": "523.39",
+                "Item": "Kraft Paper Bag, 100 GSM, With Handle (W:12 X G:7 X H:8 Inches) (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.23/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/67d0e386a7e86bbe2fed7dfb3fa002b8.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "4",
+                "Price": "50.34",
+                "Item": "Ripple Paper Cup, 200 ml (Pack of 25)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹2.01/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/4a5f36314994f40b7824cb860d7af55b.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "5",
+                "Price": "847.2",
+                "Item": "Kraft Paper Bag, 100 GSM, With Handle (W:9 X G:9 X H:8 Inches) (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹8.47/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/334ccb90732098b0e3ad96101d30f869.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "6",
+                "Price": "690.51",
+                "Item": "Kraft Paper Bag, 100 GSM, With Handle (W:11 X G:11 X H:8 Inches), (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹6.91/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/ee127b8d18eaf2c2bbdee4f154319da2.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "7",
+                "Price": "43.9",
+                "Item": "Paper Cup/Glass, 150 ml, 190 GSM (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹0.88/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/632ce8935bc8422e0065ad11ccbe5d94.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+        ]
+    },
+    {
+        "SectionName": "Paper Boat Tray",
+        "SectionOrder": "34",
+        "MenuItem": [
+            {
+                "MenuId": "1",
+                "Price": "258.9",
+                "Item": "Kraft Paper Boat Tray, 700 ml (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹2.59/piece",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/7618bb01b7811c359450ac77808756ce.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+        ]
+    },
+    {
+        "SectionName": "Paper Towel",
+        "SectionOrder": "35",
+        "MenuItem": [
+            {
+                "MenuId": "1",
+                "Price": "564.75",
+                "Item": "Wintex - M Fold Paper Towel, 22 x 19 cm, 110 Sheets Guaranteed (Pack of 20)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹28.24/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/7f3d2f3fc1471b31ad99ca77addebb4e.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+        ]
+    },
+    {
+        "SectionName": "Pizza Box",
+        "SectionOrder": "36",
+        "MenuItem": [
+            {
+                "MenuId": "1",
+                "Price": "425.89",
+                "Item": "Corrugated Pizza Box - 7 Inch (Small), (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹4.26/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/c3c059dd2dc1819dda6c32ea9cc8b68c.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+        ]
+    },
+    {
+        "SectionName": "Reusable Rectangular Containers ",
+        "SectionOrder": "37",
+        "MenuItem": [
+            {
+                "MenuId": "1",
+                "Price": "282.37",
+                "Item": "Damati - Rectangle Container, 650 ml, Black with Lid (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.65/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/e78eac11cc941aa92267c4a04c8d3c96.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "2",
+                "Price": "271.69",
+                "Item": "Bhagwati - Rectangle Container 14-650 ml, Black with Lid (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.43/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/15b570c2496573121be77b7ef02e8966.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "3",
+                "Price": "298.22",
+                "Item": "Damati - Rectangle Container, 750 ml, Black with Lid (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.96/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/ff521474d913d70d15f55f54e93f84ce.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "4",
+                "Price": "3138.73",
+                "Item": "Rectangle Container, 750 ml, Black With Lid (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹6.28/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/807508d689ea4601825be81f36e42d55.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "5",
+                "Price": "2680.25",
+                "Item": "Damati - Rectangle Container, 650 ml, Black with Lid (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.36/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/a2535d802a7894aecdedbfee1c4fc450.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "6",
+                "Price": "2823.22",
+                "Item": "Damati - Rectangle Container White with Lid, 650 ml (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.65/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/13b903dedd1e2c7bbd587570ed8ef9e5.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+        ]
+    },
+    {
+        "SectionName": "Reusable Round Containers ",
+        "SectionOrder": "38",
+        "MenuItem": [
+            {
+                "MenuId": "1",
+                "Price": "176.69",
+                "Item": "Taj - Aluminium Foil, 11 Micron, 72 No.",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/9ab4d42983ec98180addd2e733c647cd.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "2",
+                "Price": "230.85",
+                "Item": "Foodwrap - Aluminium Foil, New/Number 72",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/eb12093e07b8f034bc3d453c26d70301.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "3",
+                "Price": "388.39",
+                "Item": "Home Fresh - Aluminium Foil, 18 Micron, 1 Kg Net Guaranteed (Extra Thick)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/765f382690a336323d97276f82e3cefd.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "4",
+                "Price": "80.85",
+                "Item": "Bhagwati - Hinged Round Container H-25 ml, Clear (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹0.81/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/7c003b9c1555281cc4b6528019ab4302.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "5",
+                "Price": "17.03",
+                "Item": "White Paper Straws, 6 mm x 197 mm, (330 GSM) (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹0.34/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/29498e9bfe157f80f1453ffb07f4edca.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "6",
+                "Price": "136.95",
+                "Item": "Cello Tape - Transparent, W: 2 Inch, L: 55 m, (Pack of 6)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹22.82/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/36c79d0e093cc2c0bb7fd7911d295c3f.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "7",
+                "Price": "47.68",
+                "Item": "Coffee Stirrer, 110 mm (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/d9bf770b770f092a2eb65b750db8b920.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "8",
+                "Price": "160",
+                "Item": "Non Woven Bag Large, 16 x 20 Inches, 1 Kg",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/1e01b44eb3aead032572604ce95bc7a5.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "9",
+                "Price": "337.54",
+                "Item": "Bhagwati - Round Container 03-300 ml, Black with Lid (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹3.38/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/d98c0d944da67af47824cab292e8e47b.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "10",
+                "Price": "55.51",
+                "Item": "Damati - Round Container, 50 ml, Black with Lid (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹1.11/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/8ad1653a6e7eea832fa7eb0d66e0e889.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "11",
+                "Price": "270.59",
+                "Item": "Damati - Round Container [Tall], 1000 ml, Black with Lid (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.41/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/a4fae688351958d79fa676c1bc46dce6.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹5.31/pc for 150 pcs+",
+                        "Description": "",
+                        "Price": "5.31"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹5.25/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "5.25"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "12",
+                "Price": "1876.44",
+                "Item": "Damati - Round Container, 500 ml, Black with Lid (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹3.75/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/589c330aa9df3008c18a5406cd4cde8f.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹3.68/pc for 1000 pcs+",
+                        "Description": "",
+                        "Price": "3.68"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹3.6/pc for 2000 pcs+",
+                        "Description": "",
+                        "Price": "3.6"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "13",
+                "Price": "1539.83",
+                "Item": "Damati - Round Container, 300 ml, Black with Lid (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹3.08/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/ad4cfafc1a884ae3f970015ee59a1647.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹3.02/pc for 1000 pcs+",
+                        "Description": "",
+                        "Price": "3.02"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹2.96/pc for 2000 pcs+",
+                        "Description": "",
+                        "Price": "2.96"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "14",
+                "Price": "3373.56",
+                "Item": "Damati - Round Container, 100 ml, Black with Lid (Pack of 2000)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹1.69/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/d09f10301c61be0b6630989f4b152f63.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "15",
+                "Price": "1463.47",
+                "Item": "Hinged Container (P), 35 ml (Pack of 2500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹0.59/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/95b1c9c4d2c3772ee72f48df6817d25e.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "16",
+                "Price": "2660.76",
+                "Item": "5 Compartment Meal Box XL (P) Tray With Lid (Pack of 300)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹8.87/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/fc4d13139069ed4dcae3a5929605997b.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "17",
+                "Price": "2285.08",
+                "Item": "3 Compartment Meal Box (P) Tray With Lid (Pack of 400)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.71/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/443973ff044e692d4b8d00020193421b.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "18",
+                "Price": "2367.88",
+                "Item": "8 Compartment Meal Box (P) Tray With Lid (Pack of 200)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹11.84/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/974a6d7e2a3072bd2c2b1e1f3adf9803.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "19",
+                "Price": "404.91",
+                "Item": "Fomex - 9 Inch Round Bagasse Plate, (Pack of 125)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹3.24/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/b381cf74d539f14e9989a85675540986.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "20",
+                "Price": "48.48",
+                "Item": "Wooden Butter Knife (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/f2431dd2367ae7398c00102d44704f69.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "21",
+                "Price": "1490.76",
+                "Item": "SD - Hinged Container, Clear, 35 ml (Pack of 2500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹0.6/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/283081deebb114562c0c7e74b3c87fcb.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "22",
+                "Price": "2389.66",
+                "Item": "4 Compartment Meal Box (P) Tray with Lid (Pack of 300)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹7.97/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/327e23e2c5d8cbf2e72d920e88bc72d5.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "23",
+                "Price": "601.27",
+                "Item": "Bhagwati - Round Container 04-1000 ml, Black with Lid (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹6.01/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/3c669cc8d9909cfcf94976caca68f5b7.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "24",
+                "Price": "160",
+                "Item": "Non Woven Bag Small, 11 x 14 Inches, 1 Kg",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/17db0ae318186e579a65cefa2fcfe242.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "25",
+                "Price": "534.11",
+                "Item": "Fomex - 7 Inch Square Bagasse Plate, (Pack of 250)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹2.14/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/94c72425320def71ea7c7becc15bf703.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "26",
+                "Price": "1221.44",
+                "Item": "Damati - Round Container [Flat], 250 ml, Black with Lid (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹2.44/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/8e317d2a8dc14bcdb31d604fba5926d1.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "27",
+                "Price": "649.46",
+                "Item": "Corrugated Pizza Box - 10 Inch (Large), (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹6.49/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/2962033e5ab58a23c9364153ea349b6b.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "28",
+                "Price": "1221.44",
+                "Item": "Damati - Round Container [Flat], 250 ml, Black with Lid (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹2.44/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/8e317d2a8dc14bcdb31d604fba5926d1.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "29",
+                "Price": "3925.08",
+                "Item": "Damati - RO 24, Round Container 700 ml, Black with Lid (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹7.85/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/ec579994a59cb2d9604300902970d859.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹7.69/pc for 1000 pcs+",
+                        "Description": "",
+                        "Price": "7.69"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹7.61/pc for 2000 pcs+",
+                        "Description": "",
+                        "Price": "7.61"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "30",
+                "Price": "110.17",
+                "Item": "Round Container, 50 ml, Black With Lid (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹1.1/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/f30bfaada7144c50b0f159bfc21946bf.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹1.09/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "1.09"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹1.07/pc for 500 pcs+",
+                        "Description": "",
+                        "Price": "1.07"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "31",
+                "Price": "1689.41",
+                "Item": "Round Container, 300 ml, Black with Lid (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹3.38/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/2452d41476dc5d13479a17a42cc022fe.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹3.31/pc for 1500 pcs+",
+                        "Description": "",
+                        "Price": "3.31"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹3.24/pc for 2500 pcs+",
+                        "Description": "",
+                        "Price": "3.24"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "32",
+                "Price": "3024.75",
+                "Item": "Damati - RO 16, Round Container 450 ml, Black with Lid (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹6.05/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/d7941540a734b63676a2b71587f37869.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹5.93/pc for 1000 pcs+",
+                        "Description": "",
+                        "Price": "5.93"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹5.87/pc for 2000 pcs+",
+                        "Description": "",
+                        "Price": "5.87"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "33",
+                "Price": "1593.81",
+                "Item": "Damati - Hinged Round Container, 1 Oz (Pack of 2500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹0.64/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/214d05422872966a76e081031deb9e51.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹0.62/pc for 5000 pcs+",
+                        "Description": "",
+                        "Price": "0.62"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹0.61/pc for 10000 pcs+",
+                        "Description": "",
+                        "Price": "0.61"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "34",
+                "Price": "2632.2",
+                "Item": "Damati - Round Container [Tall], 750 ml, Black with Lid (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.26/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/18e78a5487971045e20b67ddb6b46c51.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹5.16/pc for 1000 pcs+",
+                        "Description": "",
+                        "Price": "5.16"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹5.05/pc for 2000 pcs+",
+                        "Description": "",
+                        "Price": "5.05"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "35",
+                "Price": "3714.32",
+                "Item": "Damati - RO 32, Round Container 950 ml, Black with Lid (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹7.43/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/d7bf6eac822f8a4d9609fe253a2987d8.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹7.35/pc for 1000 pcs+",
+                        "Description": "",
+                        "Price": "7.35"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹7.28/pc for 2000 pcs+",
+                        "Description": "",
+                        "Price": "7.28"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "36",
+                "Price": "2131.78",
+                "Item": "Damati - Hinged Round Container, 2 Oz (Pack of 2000)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹1.07/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/3e54e0864b721b85781405713b6bb934.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹1.04/pc for 4000 pcs+",
+                        "Description": "",
+                        "Price": "1.04"
+                    },
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹1.03/pc for 8000 pcs+",
+                        "Description": "",
+                        "Price": "1.03"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "37",
+                "Price": "1058.22",
+                "Item": "Damati - Round Container, 50 ml, Black with Lid (Pack of 1000)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹1.06/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/755515acdd36f00c9b0212def59c29a6.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹1.04/pc for 2000 pcs+",
+                        "Description": "",
+                        "Price": "1.04"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹1.02/pc for 4000 pcs+",
+                        "Description": "",
+                        "Price": "1.02"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "38",
+                "Price": "2686.78",
+                "Item": "Damati - Round Container [Tall], 1000 ml, Black with Lid (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.37/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/e2527f4feb8b634106f0ac8457f55c8f.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹5.32/pc for 1500 pcs+",
+                        "Description": "",
+                        "Price": "5.32"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹5.29/pc for 2500 pcs+",
+                        "Description": "",
+                        "Price": "5.29"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "39",
+                "Price": "5121.95",
+                "Item": "Round Container, 100 ml, Black With Lid (Pack of 3000)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹1.71/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/e6dd4f9f03d67ba6a705468b3a9c6884.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹1.69/pc for 6000 pcs+",
+                        "Description": "",
+                        "Price": "1.69"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹1.66/pc for 12000 pcs+",
+                        "Description": "",
+                        "Price": "1.66"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "40",
+                "Price": "70.68",
+                "Item": "Spino - Round Container, 50 ml, Black with Lid (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹1.41/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/8367cd979a1661f8b2b2c5c9bcfe73a8.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹1.37/pc for 500 pcs+",
+                        "Description": "",
+                        "Price": "1.37"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹1.33/pc for 1000 pcs+",
+                        "Description": "",
+                        "Price": "1.33"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "41",
+                "Price": "308.05",
+                "Item": "Spino - Round Container (Tall), 1000 ml, Black with Lid (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹6.16/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/d33c17a3699f5de8f97205777846c0ec.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹5.98/pc for 500 pcs+",
+                        "Description": "",
+                        "Price": "5.98"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹5.79/pc for 1000 pcs+",
+                        "Description": "",
+                        "Price": "5.79"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "42",
+                "Price": "217.37",
+                "Item": "Spino - Round Container (Tall), 500 ml, Black with Lid (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹4.35/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/69f7b9d10fb24070b59f8603798a92a1.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹4.22/pc for 500 pcs+",
+                        "Description": "",
+                        "Price": "4.22"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹4.09/pc for 1000 pcs+",
+                        "Description": "",
+                        "Price": "4.09"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "43",
+                "Price": "166.69",
+                "Item": "Spino - Round Container (Flat), 300 ml, Black with Lid (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹3.33/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/abc5d9034e738c46863c635c2ee24393.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹3.23/pc for 500 pcs+",
+                        "Description": "",
+                        "Price": "3.23"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹3.13/pc for 1000 pcs+",
+                        "Description": "",
+                        "Price": "3.13"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "44",
+                "Price": "133.39",
+                "Item": "Spino - Round Container (Tall), 250 ml, Black with Lid (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹2.67/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/b94c39e863064519f454b813581ed5ea.jpeg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹2.59/pc for 500 pcs+",
+                        "Description": "",
+                        "Price": "2.59"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹2.51/pc for 1000 pcs+",
+                        "Description": "",
+                        "Price": "2.51"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "45",
+                "Price": "2036.61",
+                "Item": "Damati - Round Container, White with Lid, 500 ml (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹4.07/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/a1d23c51811b94a38ff07b00386dfff5.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "46",
+                "Price": "1701.27",
+                "Item": "Damati - Round Container, White with Lid, 300 ml (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹3.4/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/a5e2cdd1ee9a2c2ccfeca1525dd0a4b0.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "47",
+                "Price": "1378.05",
+                "Item": "Damati - Round Container [Tall], White with Lid, 250 ml (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹2.76/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/fe42e0f49d732d24f54facd21105763b.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "48",
+                "Price": "1768.31",
+                "Item": "Damati - Round Container, White with Lid, 100 ml (Pack of 1000)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹1.77/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/f433a4ca87c42478f11fd3c8f57632a7.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "49",
+                "Price": "1109.83",
+                "Item": "Damati - Round Container, White with Lid, 50 ml (Pack of 1000)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹1.11/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/85abf50e033a72fd52793519f01c66e9.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "50",
+                "Price": "4310.17",
+                "Item": "Bhagwati - Round Container 02-200 ml (Tall) Black with Lid, (Pack of 1500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹2.87/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/97ce1c2b9307cdf1f1b176387deb82e8.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹2.82/pc for 3000 pcs+",
+                        "Description": "",
+                        "Price": "2.82"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "51",
+                "Price": "100",
+                "Item": "Dev - Round Container White with Lid,  100 ml (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹2/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/e167a550231868d1970eba93baa3206e.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "52",
+                "Price": "180",
+                "Item": "Dev - Round Container White with Lid,  500 ml (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹3.6/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/548147014ed14bff3de16775b7bf08e3.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "53",
+                "Price": "130",
+                "Item": "Dev - Round Container White with Lid,  250 ml (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹2.6/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/298e96e1dcdf52cf356c06a7076cc23b.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "54",
+                "Price": "181.95",
+                "Item": "Dev - Round Container 500 ml, Black with Lid, (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹3.64/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/e3f8d91d101519dea8b23fbab1214cea.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹3.57/pc for 100 pcs+",
+                        "Description": "",
+                        "Price": "3.57"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹3.5/pc for 200 pcs+",
+                        "Description": "",
+                        "Price": "3.5"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "55",
+                "Price": "134.66",
+                "Item": "Dev - Round Container, 250 ml, Black with Lid (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹2.69/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/67f76d8bb213129cef9bfd78ae57cb80.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹2.64/pc for 100 pcs+",
+                        "Description": "",
+                        "Price": "2.64"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹2.58/pc for 200 pcs+",
+                        "Description": "",
+                        "Price": "2.58"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "56",
+                "Price": "260.42",
+                "Item": "Damati - Round Container [Tall], 600 ml, Black with Lid (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.21/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/519d11d8b3fe023f8fb0e83b00aef412.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹5.1/pc for 150 pcs+",
+                        "Description": "",
+                        "Price": "5.1"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹5/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "5"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "57",
+                "Price": "418.64",
+                "Item": "Shaker Glass With Lid, 350 ml (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹4.19/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/c893a1edd6823067e7e357ed83768fa8.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹4.1/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "4.1"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹4.02/pc for 500 pcs+",
+                        "Description": "",
+                        "Price": "4.02"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "58",
+                "Price": "80",
+                "Item": "Black Round Container with Lid, 100 ml (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹1.6/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/c86a21d8da026e78564549d81c67156d.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹1.57/pc for 150 pcs+",
+                        "Description": "",
+                        "Price": "1.57"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹1.53/pc for 250 pcs+",
+                        "Description": "",
+                        "Price": "1.53"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "59",
+                "Price": "267.29",
+                "Item": "Black Round Container with Lid, 750 ml (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.35/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/2fc71af8eb47e8e4b74b93f717392b2e.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹5.18/pc for 150 pcs+",
+                        "Description": "",
+                        "Price": "5.18"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹5.08/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "5.08"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "60",
+                "Price": "175.68",
+                "Item": "Black Round Container with Lid, 500 ml (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹3.51/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/972d2f137fee8d13a9b2fd1e44912932.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹3.41/pc for 150 pcs+",
+                        "Description": "",
+                        "Price": "3.41"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹3.34/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "3.34"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "61",
+                "Price": "170.17",
+                "Item": "Black Round Container with Lid, 500 gm (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹3.4/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/3746ef3d50c069178ae2cb003e7d3d17.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹3.3/pc for 150 pcs+",
+                        "Description": "",
+                        "Price": "3.3"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹3.23/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "3.23"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "62",
+                "Price": "126.19",
+                "Item": "Black Round Container with Lid, 250 ml (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹2.52/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/71fd4e791bbb096209ac40116ca59da4.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹2.47/pc for 150 pcs+",
+                        "Description": "",
+                        "Price": "2.47"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹2.45/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "2.45"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "63",
+                "Price": "78.98",
+                "Item": "White Round Container with Lid, 100 ml (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹1.58/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/9f8730c99673024cf12739fdaac34ec1.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹1.53/pc for 150 pcs+",
+                        "Description": "",
+                        "Price": "1.53"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹1.52/pc for 250 pcs+",
+                        "Description": "",
+                        "Price": "1.52"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "64",
+                "Price": "266.1",
+                "Item": "White Round Container with Lid, 750 ml (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.32/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/2ca7638a2377dcdf102a5e5235a91dca.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹5.16/pc for 150 pcs+",
+                        "Description": "",
+                        "Price": "5.16"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹5.06/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "5.06"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "65",
+                "Price": "175.68",
+                "Item": "White Round Container with Lid, 500 ml (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹3.51/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/57b74d93f7bff3837e1ce1093c08cc4a.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹3.41/pc for 150 pcs+",
+                        "Description": "",
+                        "Price": "3.41"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹3.34/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "3.34"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "66",
+                "Price": "162.37",
+                "Item": "White Round Container with Lid, 500 gm (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹3.25/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/f499f849a0fc3e3bf1c59b872421756f.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹3.18/pc for 150 pcs+",
+                        "Description": "",
+                        "Price": "3.18"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹3.15/pc for 250 pcs+",
+                        "Description": "",
+                        "Price": "3.15"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "67",
+                "Price": "145.17",
+                "Item": "White Round Container with Lid, 250 ml (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹2.9/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/3b808efdb2ba6064f5a691d149e939a8.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹2.82/pc for 150 pcs+",
+                        "Description": "",
+                        "Price": "2.82"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹2.76/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "2.76"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "68",
+                "Price": "271.95",
+                "Item": "Damati - Round Container [Tall], 750 ml, Black with Lid (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.44/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/c67e546f5e01ff501d1d294950002234.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹5.33/pc for 150 pcs+",
+                        "Description": "",
+                        "Price": "5.33"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹5.22/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "5.22"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "69",
+                "Price": "1107.29",
+                "Item": "Damati - Hinged Round Container, 2 Oz (Pack of 1000)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹1.11/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/25d5b7459c7d7b8f53a1d1f66aa0261e.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹1.09/pc for 2000 pcs+",
+                        "Description": "",
+                        "Price": "1.09"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹1.06/pc for 4000 pcs+",
+                        "Description": "",
+                        "Price": "1.06"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "70",
+                "Price": "557.54",
+                "Item": "Bhagwati - Round Container 03-750 ml, Black with Lid (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.58/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/6d4efa0ce8d485329267874d07eb2486.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹5.46/pc for 200 pcs+",
+                        "Description": "",
+                        "Price": "5.46"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹5.35/pc for 400 pcs+",
+                        "Description": "",
+                        "Price": "5.35"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "71",
+                "Price": "271.95",
+                "Item": "Damati - Round Container [Tall], 750 ml, Black with Lid (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.44/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/c67e546f5e01ff501d1d294950002234.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹5.33/pc for 150 pcs+",
+                        "Description": "",
+                        "Price": "5.33"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹5.22/pc for 300 pcs+",
+                        "Description": "",
+                        "Price": "5.22"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "72",
+                "Price": "1107.29",
+                "Item": "Damati - Hinged Round Container, 2 Oz (Pack of 1000)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹1.11/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/25d5b7459c7d7b8f53a1d1f66aa0261e.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹1.09/pc for 2000 pcs+",
+                        "Description": "",
+                        "Price": "1.09"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹1.06/pc for 4000 pcs+",
+                        "Description": "",
+                        "Price": "1.06"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "73",
+                "Price": "557.54",
+                "Item": "Bhagwati - Round Container 03-750 ml, Black with Lid (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.58/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/6d4efa0ce8d485329267874d07eb2486.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹5.46/pc for 200 pcs+",
+                        "Description": "",
+                        "Price": "5.46"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹5.35/pc for 400 pcs+",
+                        "Description": "",
+                        "Price": "5.35"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "74",
+                "Price": "510",
+                "Item": "Bhagwati - Round Container 03-600 ml, Black with Lid (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.1/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/ac2ffe4f6711ccaa1f681cc70c32c6d5.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹5/pc for 200 pcs+",
+                        "Description": "",
+                        "Price": "5"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹4.89/pc for 400 pcs+",
+                        "Description": "",
+                        "Price": "4.89"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "75",
+                "Price": "2482.63",
+                "Item": "Damati - Round Container [Tall], 600 ml, Black with Lid (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹4.97/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/051f80ffc72ed16f39152d623144dcf7.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹4.87/pc for 1000 pcs+",
+                        "Description": "",
+                        "Price": "4.87"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹4.77/pc for 2000 pcs+",
+                        "Description": "",
+                        "Price": "4.77"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "76",
+                "Price": "1666.69",
+                "Item": "Damati - Round Container, 100 ml, Black with Lid (Pack of 1000)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹1.67/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/8002747e1b5a0404b319573dd800e2e3.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹1.63/pc for 2000 pcs+",
+                        "Description": "",
+                        "Price": "1.63"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹1.6/pc for 4000 pcs+",
+                        "Description": "",
+                        "Price": "1.6"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "77",
+                "Price": "491.1",
+                "Item": "Round Container - Black Container With Lid, 1500 ml (Pack of 50)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹9.82/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/ea168167c8cc0adf734596e12743e8bd.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹9.53/pc for 100 pcs+",
+                        "Description": "",
+                        "Price": "9.53"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹9.33/pc for 200 pcs+",
+                        "Description": "",
+                        "Price": "9.33"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "78",
+                "Price": "1951.52",
+                "Item": "Zume - Bagasse Round Container, Lids Only, 750 ml (Pack of 600)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹3.25/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/0da5e628edac8ed91155189f3aa7fb84.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "79",
+                "Price": "2146.43",
+                "Item": "Zume - Bagasse Rectangular Container, Lids Only, 750 ml (Pack of 600)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹3.58/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/f7fe55c14b3079e825be22b7c099586a.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "80",
+                "Price": "2828.3",
+                "Item": "[Lids Only] 5CP Bagasse Meal Tray (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.66/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/bc0b2ad18cb9959becbfcc903fad4f16.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "81",
+                "Price": "3901.16",
+                "Item": "[Trays Only] 5 CP Bagasse Meal Tray (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹7.8/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/861fbfcb939d76fcfae9752320c6d490.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹7.69/pc for 1000 pcs+",
+                        "Description": "",
+                        "Price": "7.69"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹7.61/pc for 2000 pcs+",
+                        "Description": "",
+                        "Price": "7.61"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "82",
+                "Price": "21.27",
+                "Item": "Pop tissues (Pack of 100)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹0.21/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/80c0e28717c1928140505e6f1f5ad10f.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹0.21/pc for 2000 pcs+",
+                        "Description": "",
+                        "Price": "0.21"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹0.2/pc for 4000 pcs+",
+                        "Description": "",
+                        "Price": "0.2"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "83",
+                "Price": "4545.45",
+                "Item": "8CP Bagasse - Meal Tray Only (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹9.09/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/125d6e67860606b968761774b246d63f.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "84",
+                "Price": "2878.84",
+                "Item": "[Lids Only] 8CP Bagasse Meal Tray (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.76/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/38ed72cf1682c3a0a82a4947d4c5744a.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "85",
+                "Price": "3459.64",
+                "Item": "3CP Bagasse - Meal Tray, Tray Only (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹6.92/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/80f4d89855ffc5a6aa79ebed6e1034bc.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "86",
+                "Price": "2399.02",
+                "Item": "[Lids Only] 3CP Bagasse Meal Tray (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹4.8/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/f0ef3d75a6e2ff08199a5b2c050310b0.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "87",
+                "Price": "389.66",
+                "Item": "Oxy Wrap, Bio-Degradable Cling Wrap, 12 Inches 600 m",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/00bb6bad3557e02d22317193fc278367.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "88",
+                "Price": "178.98",
+                "Item": "Get Fresh - Aluminium Foil (11 Micron), 72 New",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/c9888c17be492f3187c9ebb59406b258.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "89",
+                "Price": "298.81",
+                "Item": "Get Fresh - Aluminium Foil (18 Micron), 1 Kg Gross",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/b21658c6a0e5b19261c8a31aae5e4405.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "90",
+                "Price": "438.81",
+                "Item": "Get Fresh - Aluminum Foil (18 Micron), 1 Kg Net",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/fbad44d7ee0d33ff6dbcb7ff6042186d.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "91",
+                "Price": "250",
+                "Item": "Get Fresh - Aluminum Foil (11 Micron), 72 m Approx",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/9934ffb05d86e4116ec725fcbc9f7cce.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "92",
+                "Price": "311.02",
+                "Item": "WoH - Aluminium Foil, 11 Micron, No. 72",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/0e9d37fd7f4586886a26d075660c1e65.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "93",
+                "Price": "1971.43",
+                "Item": "Zume - Bagasse Rectangular Container (Lids Only), 650 ml Pack of 600",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹3.29/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/7758f516e1749cd84f66c4c1f74f667c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "94",
+                "Price": "1953.39",
+                "Item": "Zume - Bagasse Rectangular Container (Lids Only), 500 ml (Pack of 600)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹3.26/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/db3a37a9a2285aa7eda5d48fc76a5fe9.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "95",
+                "Price": "1654.55",
+                "Item": "Zume - Bagasse Round Container (Lids Only), 500 ml (Pack of 600)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹2.76/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/4b54de595f5499734e2a081970844061.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "96",
+                "Price": "1879.58",
+                "Item": "Damati - Hinged Round Container, 4 Oz (Pack of 1000)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹1.88/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/fa0426b93c36f9a1fff4feabafcd24fe.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "97",
+                "Price": "773.9",
+                "Item": "Hinged Container (Clear), 35 ml (Pack of 1000)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹0.77/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/eb6910dccbf5d24a72ae163d91d211c6.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "98",
+                "Price": "4390.93",
+                "Item": "RO-16, Round Container, 450 ml, Black With Lid (Pack of 800)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.49/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/fe6af517cb2da692c8b75557f280dd94.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹5.43/pc for 2400 pcs+",
+                        "Description": "",
+                        "Price": "5.43"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹5.41/pc for 4800 pcs+",
+                        "Description": "",
+                        "Price": "5.41"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "99",
+                "Price": "3424.07",
+                "Item": "Round Container - White with Lid, 500 ml (Pack of 1000)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹3.42/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/fa0df7341fd3a5a7d291426257c16e05.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "100",
+                "Price": "1511.27",
+                "Item": "Damati - Round Container [Tall], 250 ml, Black With Lid, Pack of 500",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹3.02/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/cc4ef70db45f0e955d665d457e4d213b.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹2.99/pc for 1000 pcs+",
+                        "Description": "",
+                        "Price": "2.99"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹2.96/pc for 2000 pcs+",
+                        "Description": "",
+                        "Price": "2.96"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "101",
+                "Price": "2600",
+                "Item": "Bhagwati, Round Container, 03-300 ml, White With Lid, Pack of 1000",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹2.6/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/180c6642-5efc-414b-b15d-9fa47459a96f_BhagwatiRoundContainer03300mlWhitewithLidPackof1000.jfif",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "102",
+                "Price": "4302.2",
+                "Item": "RO-32, Round Container, 900 ml, Black With Lid (Pack of 600)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹7.17/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/21e8a33e-7be9-4315-a1a9-773efcd3e171_BhagwatiRoundContainerRO32940mlBlackwithLidPackof600.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "103",
+                "Price": "4278.9",
+                "Item": "RO - 24, Round Container, 700 ml, Black With Lid (Pack of 600)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹7.13/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/3966783d-9896-4891-b9dd-77c88ecd68d0_BhagwatiRoundContainerRO24700mlBlackwithLidPackof600.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹6.99/pc for 1200 pcs+",
+                        "Description": "",
+                        "Price": "6.99"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹6.92/pc for 3600 pcs+",
+                        "Description": "",
+                        "Price": "6.92"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "104",
+                "Price": "858.64",
+                "Item": "[Lids Only] Oracle, PP Round, 500 ml, 123 mm (Pack of 1000)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹0.86/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/636d7b48-58a6-4110-861f-b4eb1fd34c3d_LidsOraclePPRound500ml123mmPackof1000.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+        ]
+    },
+    {
+        "SectionName": "Rice Bowl ",
+        "SectionOrder": "39",
+        "MenuItem": [
+            {
+                "MenuId": "1",
+                "Price": "2905.93",
+                "Item": "Damati - Rice Bowl, 650 ml, Black with Lid (Pack of 500)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹5.81/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/69898851a20d6a5d6c2ce7cfccbaef4c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹5.7/pc for 1000 pcs+",
+                        "Description": "",
+                        "Price": "5.7"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹5.64/pc for 2000 pcs+",
+                        "Description": "",
+                        "Price": "5.64"
+                    },
+                ]
+
+            },
+        ]
+    },
+    {
+        "SectionName": "Toothpick",
+        "SectionOrder": "40",
+        "MenuItem": [
+            {
+                "MenuId": "1",
+                "Price": "117.68",
+                "Item": "Wooden Toothpick, (Pack of 10)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹11.77/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/027a9136c738b6d2bb443918bd6eb757.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+        ]
+    },
+    {
+        "SectionName": "Zomato Tapes & Kitchen Wraps ",
+        "SectionOrder": "41",
+        "MenuItem": [
+            {
+                "MenuId": "1",
+                "Price": "188.47",
+                "Item": "Best Fresh - Cling Film Roll, 1.4 Kg",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/d0cd4aa197779153c42f09ce236a7711.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹184.66/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "184.66"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹182.8/pc for 6 pcs+",
+                        "Description": "",
+                        "Price": "182.8"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "2",
+                "Price": "136.95",
+                "Item": "Cello Tape - Transparent, W: 1 Inch, L: 55 m (Pack of 12)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹11.41/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/22e3863a5b98d7cce4d6a4cd46c406f8.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹11.19/pc for 36 pcs+",
+                        "Description": "",
+                        "Price": "11.19"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹11.07/pc for 60 pcs+",
+                        "Description": "",
+                        "Price": "11.07"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "3",
+                "Price": "483.22",
+                "Item": "Foodwrap - Aluminum Foil, 1 Kg Net",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/2c29af7433bc3db65564f3cf7756638c.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹473.56/pc for 2 pcs+",
+                        "Description": "",
+                        "Price": "473.56"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹463.9/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": "463.9"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "4",
+                "Price": "275.42",
+                "Item": "Home Fresh - Aluminium Foil, 11 Micron, 72 Meter Guaranteed",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/2cf22b2dc445a258012b1dd05921729e.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹270/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "270"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹264.41/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "264.41"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "5",
+                "Price": "341.19",
+                "Item": "Alu-Freshh - Biodegradable Cling Film, 300 m Guaranteed",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/52e4777b59db682d641697a5ff2895b9.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹334.41/pc for 2 pcs+",
+                        "Description": "",
+                        "Price": "334.41"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹331.02/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": "331.02"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "6",
+                "Price": "194.15",
+                "Item": "Alu-Freshh - Biodegradable Cling Film, 1.4 Kg",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/33ffdfa694d702ed27a1a3215aeffba7.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹190.25/pc for 2 pcs+",
+                        "Description": "",
+                        "Price": "190.25"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹186.36/pc for 4 pcs+",
+                        "Description": "",
+                        "Price": "186.36"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "7",
+                "Price": "158.84",
+                "Item": "Grease Proof Butter Paper, 12 X 12 (Pack of 250)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹0.64/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/bd2da57d3ac3a9d7e1e0c8da1eb984c5.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹0.62/pc for 500 pcs+",
+                        "Description": "",
+                        "Price": "0.62"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹0.62/pc for 1000 pcs+",
+                        "Description": "",
+                        "Price": "0.62"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "8",
+                "Price": "266.69",
+                "Item": "Freshee - Aluminium Foil, No. 72",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/672ee07c336d3cf9e98c59176a2b8d1f.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "",
+                        "Name": "",
+                        "Description": "",
+                        "Price": ""
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "9",
+                "Price": "219.83",
+                "Item": "FiveStar - Aluminium Foil No. 72, 11 Micron",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/de809668-035b-4589-9bf1-8cf016ee8590_BeetaAluminiumFoil105Micron1KgNetWeightGuaranteed.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹213.22/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "213.22"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹211.02/pc for 9 pcs+",
+                        "Description": "",
+                        "Price": "211.02"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "10",
+                "Price": "348.04",
+                "Item": "Grease Proof Butter Paper, 12 inches X 12 inches, (Pack of 250)",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "at ₹1.39/pc",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/9cbfa962-ba86-487f-bde0-1b5171f64a18_GreaseProofButterPaper12X10Packof250.jpg",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹1.36/pc for 500 pcs+",
+                        "Description": "",
+                        "Price": "1.36"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹1.34/pc for 1500 pcs+",
+                        "Description": "",
+                        "Price": "1.34"
+                    },
+                ]
+
+            },
+            {
+                "MenuId": "11",
+                "Price": "644.92",
+                "Item": "Biodegradable Cling Wrap, 600 m",
+                "CategoryName": " Packaging Material",
+                "Type": "",
+                "Heighlightdescription": "",
+                "ImageUrl": "img/pics/https://assets.hyperpure.com/data/images/products/ff774b01f029e027a51acef418e09f6e.png",
+                "OfferHihglight": "",
+                "OfferDescription": "",
+                "ContainerCharge": "",
+                "QuantitySection": [
+                    {
+                        "QuantitySectionId": "1",
+                        "Name": "₹631.95/pc for 3 pcs+",
+                        "Description": "",
+                        "Price": "631.95"
+                    },
+                    {
+                        "QuantitySectionId": "2",
+                        "Name": "₹625.51/pc for 5 pcs+",
+                        "Description": "",
+                        "Price": "625.51"
                     },
                 ]
 
